@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "runtimeApi": 1,
-  "version": "0.5.0",
-  "notes": "Türkçe kelime yönetimi, kişisel kelimeler, etkin paketler, GitHub paket güncellemeleri ve JSON içe/dışa aktarma eklendi. Temel İngilizce’nin 100 fiili, Nori ve mevcut Wordly ayarları korundu.",
+  "version": "0.6.0",
+  "notes": "Kelime kataloğu eklendi. Paketleri arayabilir, kategorilere göre filtreleyebilir, örnek kelimeleri inceleyebilir ve doğrulanmış paketleri tek dokunuşla indirebilir veya güncelleyebilirsiniz.",
   "artifacts": {
     "runtime": {
-      "file": "wordly-runtime-0.5.0.js",
-      "sha256": "703ee810dc686438bd11410ed98984072ff8bb85c1304b53cd06886ac6d50812"
+      "file": "wordly-runtime-0.6.0.js",
+      "sha256": "26ff9a3a63391c8b32845ba44181d35bc3f651a442d73a22942ebab9a122f63d"
     }
   }
 }
