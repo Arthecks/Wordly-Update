@@ -1,0 +1,1638 @@
+{
+  "schema": 1,
+  "id": "akademik-ingilizce",
+  "revision": 1,
+  "name": "Akademik İngilizce",
+  "words": [
+    {
+      "id": "abstract",
+      "type": "noun",
+      "word": "abstract",
+      "turkishMeaning": "özet",
+      "exampleSentence": "The abstract summarizes the paper in one paragraph.",
+      "exampleTranslation": "Özet, makalenin ana noktalarını tek paragrafta aktarır."
+    },
+    {
+      "id": "introduction",
+      "type": "noun",
+      "word": "introduction",
+      "turkishMeaning": "giriş bölümü",
+      "exampleSentence": "The introduction presents the central question.",
+      "exampleTranslation": "Giriş bölümü temel soruyu ortaya koyar."
+    },
+    {
+      "id": "conclusion",
+      "type": "noun",
+      "word": "conclusion",
+      "turkishMeaning": "sonuç bölümü",
+      "exampleSentence": "The conclusion returns to the main question.",
+      "exampleTranslation": "Sonuç bölümü ana soruya döner."
+    },
+    {
+      "id": "appendix",
+      "type": "noun",
+      "word": "appendix",
+      "turkishMeaning": "ek bölüm",
+      "exampleSentence": "The appendix contains the full questionnaire.",
+      "exampleTranslation": "Ek bölüm anketin tamamını içerir."
+    },
+    {
+      "id": "bibliography",
+      "type": "noun",
+      "word": "bibliography",
+      "turkishMeaning": "kaynakça",
+      "exampleSentence": "The bibliography lists the works consulted for the essay.",
+      "exampleTranslation": "Kaynakça yazı hazırlanırken yararlanılan eserleri listeler."
+    },
+    {
+      "id": "citation",
+      "type": "noun",
+      "word": "citation",
+      "turkishMeaning": "kaynak gösterimi",
+      "exampleSentence": "The citation points readers to the original work.",
+      "exampleTranslation": "Kaynak gösterimi okurları özgün esere yönlendirir."
+    },
+    {
+      "id": "quotation",
+      "type": "noun",
+      "word": "quotation",
+      "turkishMeaning": "alıntı",
+      "exampleSentence": "The quotation reproduces the author’s exact words.",
+      "exampleTranslation": "Alıntı yazarın sözcüklerini olduğu gibi aktarır."
+    },
+    {
+      "id": "footnote",
+      "type": "noun",
+      "word": "footnote",
+      "turkishMeaning": "dipnot",
+      "exampleSentence": "The footnote provides additional context.",
+      "exampleTranslation": "Dipnot ek bağlam sağlar."
+    },
+    {
+      "id": "paragraph",
+      "type": "noun",
+      "word": "paragraph",
+      "turkishMeaning": "paragraf",
+      "exampleSentence": "The paragraph develops one main idea.",
+      "exampleTranslation": "Paragraf bir ana düşünceyi geliştirir."
+    },
+    {
+      "id": "draft",
+      "type": "noun",
+      "word": "draft",
+      "turkishMeaning": "taslak",
+      "exampleSentence": "The draft needs a clearer opening.",
+      "exampleTranslation": "Taslak daha açık bir girişe ihtiyaç duyuyor."
+    },
+    {
+      "id": "outline",
+      "type": "noun",
+      "word": "outline",
+      "turkishMeaning": "ana hatlar",
+      "exampleSentence": "The outline shows how the essay is organized.",
+      "exampleTranslation": "Ana hatlar yazının nasıl düzenlendiğini gösterir."
+    },
+    {
+      "id": "chapter",
+      "type": "noun",
+      "word": "chapter",
+      "turkishMeaning": "bölüm",
+      "exampleSentence": "The chapter covers the history of the debate.",
+      "exampleTranslation": "Bölüm tartışmanın tarihini ele alır."
+    },
+    {
+      "id": "section",
+      "type": "noun",
+      "word": "section",
+      "turkishMeaning": "kısım",
+      "exampleSentence": "The section explains how the data were collected.",
+      "exampleTranslation": "Kısım verilerin nasıl toplandığını açıklar."
+    },
+    {
+      "id": "summary",
+      "type": "noun",
+      "word": "summary",
+      "turkishMeaning": "kısa özet",
+      "exampleSentence": "The summary includes the most important points.",
+      "exampleTranslation": "Kısa özet en önemli noktaları içerir."
+    },
+    {
+      "id": "definition",
+      "type": "noun",
+      "word": "definition",
+      "turkishMeaning": "tanım",
+      "exampleSentence": "The definition sets out what the term means here.",
+      "exampleTranslation": "Tanım terimin burada ne anlama geldiğini açıklar."
+    },
+    {
+      "id": "glossary",
+      "type": "noun",
+      "word": "glossary",
+      "turkishMeaning": "terimler sözlüğü",
+      "exampleSentence": "The glossary explains unfamiliar terms.",
+      "exampleTranslation": "Terimler sözlüğü bilinmeyen terimleri açıklar."
+    },
+    {
+      "id": "evidence",
+      "type": "noun",
+      "word": "evidence",
+      "turkishMeaning": "kanıt",
+      "exampleSentence": "The evidence supports the main argument.",
+      "exampleTranslation": "Kanıt ana savı destekliyor."
+    },
+    {
+      "id": "argument",
+      "type": "noun",
+      "word": "argument",
+      "turkishMeaning": "sav",
+      "exampleSentence": "The argument rests on two assumptions.",
+      "exampleTranslation": "Sav iki varsayıma dayanıyor."
+    },
+    {
+      "id": "claim",
+      "type": "noun",
+      "word": "claim",
+      "turkishMeaning": "iddia",
+      "exampleSentence": "The claim requires stronger evidence.",
+      "exampleTranslation": "İddia daha güçlü kanıt gerektiriyor."
+    },
+    {
+      "id": "assumption",
+      "type": "noun",
+      "word": "assumption",
+      "turkishMeaning": "varsayım",
+      "exampleSentence": "The assumption affects how the results are interpreted.",
+      "exampleTranslation": "Varsayım sonuçların nasıl yorumlandığını etkiliyor."
+    },
+    {
+      "id": "hypothesis",
+      "type": "noun",
+      "word": "hypothesis",
+      "turkishMeaning": "hipotez",
+      "exampleSentence": "The hypothesis predicts a difference between the groups.",
+      "exampleTranslation": "Hipotez gruplar arasında bir fark öngörüyor."
+    },
+    {
+      "id": "theory",
+      "type": "noun",
+      "word": "theory",
+      "turkishMeaning": "kuram",
+      "exampleSentence": "The theory explains why the pattern occurs.",
+      "exampleTranslation": "Kuram örüntünün neden ortaya çıktığını açıklar."
+    },
+    {
+      "id": "framework",
+      "type": "noun",
+      "word": "framework",
+      "turkishMeaning": "çerçeve",
+      "exampleSentence": "The framework organizes the discussion around three themes.",
+      "exampleTranslation": "Çerçeve tartışmayı üç tema etrafında düzenler."
+    },
+    {
+      "id": "concept",
+      "type": "noun",
+      "word": "concept",
+      "turkishMeaning": "kavram",
+      "exampleSentence": "The concept appears throughout the course.",
+      "exampleTranslation": "Kavram ders boyunca karşımıza çıkar."
+    },
+    {
+      "id": "principle",
+      "type": "noun",
+      "word": "principle",
+      "turkishMeaning": "ilke",
+      "exampleSentence": "The principle applies in both cases.",
+      "exampleTranslation": "İlke her iki durumda da geçerlidir."
+    },
+    {
+      "id": "perspective",
+      "type": "noun",
+      "word": "perspective",
+      "turkishMeaning": "bakış açısı",
+      "exampleSentence": "The perspective offers a different view of the issue.",
+      "exampleTranslation": "Bakış açısı konuya farklı bir bakış sunar."
+    },
+    {
+      "id": "interpretation",
+      "type": "noun",
+      "word": "interpretation",
+      "turkishMeaning": "yorum",
+      "exampleSentence": "The interpretation depends on the available evidence.",
+      "exampleTranslation": "Yorum eldeki kanıtlara dayanır."
+    },
+    {
+      "id": "inference",
+      "type": "noun",
+      "word": "inference",
+      "turkishMeaning": "çıkarım",
+      "exampleSentence": "The inference goes beyond the available evidence.",
+      "exampleTranslation": "Çıkarım eldeki kanıtların ötesine geçiyor."
+    },
+    {
+      "id": "implication",
+      "type": "noun",
+      "word": "implication",
+      "turkishMeaning": "çıkarılabilecek sonuç",
+      "exampleSentence": "The implication deserves further discussion.",
+      "exampleTranslation": "Çıkarılabilecek sonuç daha ayrıntılı tartışılmayı hak ediyor."
+    },
+    {
+      "id": "rationale",
+      "type": "noun",
+      "word": "rationale",
+      "turkishMeaning": "gerekçe",
+      "exampleSentence": "The rationale explains why this method was chosen.",
+      "exampleTranslation": "Gerekçe bu yöntemin neden seçildiğini açıklar."
+    },
+    {
+      "id": "critique",
+      "type": "noun",
+      "word": "critique",
+      "turkishMeaning": "eleştirel değerlendirme",
+      "exampleSentence": "The critique identifies two weaknesses in the argument.",
+      "exampleTranslation": "Eleştirel değerlendirme savdaki iki zayıf noktayı belirtiyor."
+    },
+    {
+      "id": "counterargument",
+      "type": "noun",
+      "word": "counterargument",
+      "turkishMeaning": "karşı sav",
+      "exampleSentence": "The counterargument challenges the author’s main claim.",
+      "exampleTranslation": "Karşı sav yazarın temel iddiasına karşı çıkıyor."
+    },
+    {
+      "id": "contradiction",
+      "type": "noun",
+      "word": "contradiction",
+      "turkishMeaning": "çelişki",
+      "exampleSentence": "The contradiction appears in the final paragraph.",
+      "exampleTranslation": "Çelişki son paragrafta ortaya çıkıyor."
+    },
+    {
+      "id": "distinction",
+      "type": "noun",
+      "word": "distinction",
+      "turkishMeaning": "ayrım",
+      "exampleSentence": "The distinction helps readers avoid confusion.",
+      "exampleTranslation": "Ayrım okurların kavramları karıştırmamasına yardımcı olur."
+    },
+    {
+      "id": "context",
+      "type": "noun",
+      "word": "context",
+      "turkishMeaning": "bağlam",
+      "exampleSentence": "The context changes how the example is understood.",
+      "exampleTranslation": "Bağlam örneğin nasıl anlaşıldığını değiştirir."
+    },
+    {
+      "id": "debate",
+      "type": "noun",
+      "word": "debate",
+      "turkishMeaning": "tartışma",
+      "exampleSentence": "The debate centers on the cost of the policy.",
+      "exampleTranslation": "Tartışma politikanın maliyeti etrafında dönüyor."
+    },
+    {
+      "id": "criterion",
+      "type": "noun",
+      "word": "criterion",
+      "turkishMeaning": "ölçüt",
+      "exampleSentence": "The criterion helps us decide which cases to include.",
+      "exampleTranslation": "Ölçüt hangi durumların çalışmaya alınacağını belirlememize yardımcı olur."
+    },
+    {
+      "id": "variable",
+      "type": "noun",
+      "word": "variable",
+      "turkishMeaning": "değişken",
+      "exampleSentence": "The variable can take several values.",
+      "exampleTranslation": "Değişken birden fazla değer alabilir."
+    },
+    {
+      "id": "factor",
+      "type": "noun",
+      "word": "factor",
+      "turkishMeaning": "etken",
+      "exampleSentence": "The factor may influence the outcome.",
+      "exampleTranslation": "Etken sonucu etkileyebilir."
+    },
+    {
+      "id": "indicator",
+      "type": "noun",
+      "word": "indicator",
+      "turkishMeaning": "gösterge",
+      "exampleSentence": "The indicator provides a quick measure of progress.",
+      "exampleTranslation": "Gösterge ilerleme hakkında hızlı bir ölçüm sağlar."
+    },
+    {
+      "id": "measure",
+      "type": "noun",
+      "word": "measure",
+      "turkishMeaning": "ölçüt",
+      "exampleSentence": "Time on task is one measure of engagement.",
+      "exampleTranslation": "Göreve ayrılan süre, katılımı değerlendirmek için kullanılan ölçütlerden biridir."
+    },
+    {
+      "id": "parameter",
+      "type": "noun",
+      "word": "parameter",
+      "turkishMeaning": "parametre",
+      "exampleSentence": "The parameter controls the shape of the model.",
+      "exampleTranslation": "Parametre modelin biçimini belirler."
+    },
+    {
+      "id": "constant",
+      "type": "noun",
+      "word": "constant",
+      "turkishMeaning": "sabit",
+      "exampleSentence": "The constant does not change during the calculation.",
+      "exampleTranslation": "Sabit hesaplama boyunca değişmez."
+    },
+    {
+      "id": "category",
+      "type": "noun",
+      "word": "category",
+      "turkishMeaning": "kategori",
+      "exampleSentence": "The category groups items with similar features.",
+      "exampleTranslation": "Kategori benzer özelliklere sahip öğeleri bir araya getirir."
+    },
+    {
+      "id": "classification",
+      "type": "noun",
+      "word": "classification",
+      "turkishMeaning": "sınıflandırma",
+      "exampleSentence": "The classification places the items into three groups.",
+      "exampleTranslation": "Sınıflandırma öğeleri üç gruba ayırır."
+    },
+    {
+      "id": "scale",
+      "type": "noun",
+      "word": "scale",
+      "turkishMeaning": "ölçek",
+      "exampleSentence": "The scale ranges from one to five.",
+      "exampleTranslation": "Ölçek birden beşe kadar uzanır."
+    },
+    {
+      "id": "unit",
+      "type": "noun",
+      "word": "unit",
+      "turkishMeaning": "birim",
+      "exampleSentence": "The unit must appear beside each value.",
+      "exampleTranslation": "Birim her değerin yanında yer almalıdır."
+    },
+    {
+      "id": "ratio",
+      "type": "noun",
+      "word": "ratio",
+      "turkishMeaning": "oran",
+      "exampleSentence": "The ratio compares the number of students with the number of teachers.",
+      "exampleTranslation": "Oran öğrenci sayısını öğretmen sayısıyla karşılaştırır."
+    },
+    {
+      "id": "proportion",
+      "type": "noun",
+      "word": "proportion",
+      "turkishMeaning": "toplam içindeki pay",
+      "exampleSentence": "The proportion is higher in the second group.",
+      "exampleTranslation": "Toplam içindeki pay ikinci grupta daha yüksektir."
+    },
+    {
+      "id": "percentage",
+      "type": "noun",
+      "word": "percentage",
+      "turkishMeaning": "yüzde",
+      "exampleSentence": "The percentage is rounded to the nearest whole number.",
+      "exampleTranslation": "Yüzde en yakın tam sayıya yuvarlanmıştır."
+    },
+    {
+      "id": "frequency",
+      "type": "noun",
+      "word": "frequency",
+      "turkishMeaning": "sıklık",
+      "exampleSentence": "The frequency varies from week to week.",
+      "exampleTranslation": "Sıklık haftadan haftaya değişiyor."
+    },
+    {
+      "id": "distribution",
+      "type": "noun",
+      "word": "distribution",
+      "turkishMeaning": "dağılım",
+      "exampleSentence": "The distribution is not symmetric.",
+      "exampleTranslation": "Dağılım simetrik değildir."
+    },
+    {
+      "id": "median",
+      "type": "noun",
+      "word": "median",
+      "turkishMeaning": "ortanca",
+      "exampleSentence": "The median is less affected by extreme values than the mean.",
+      "exampleTranslation": "Ortanca uç değerlerden ortalamaya göre daha az etkilenir."
+    },
+    {
+      "id": "mean",
+      "type": "noun",
+      "word": "mean",
+      "turkishMeaning": "aritmetik ortalama",
+      "exampleSentence": "The mean can be influenced by extreme values.",
+      "exampleTranslation": "Aritmetik ortalama uç değerlerden etkilenebilir."
+    },
+    {
+      "id": "estimate",
+      "type": "noun",
+      "word": "estimate",
+      "turkishMeaning": "tahmini değer",
+      "exampleSentence": "The estimate is based on last year’s figures.",
+      "exampleTranslation": "Tahmini değer geçen yılın verilerine dayanıyor."
+    },
+    {
+      "id": "method",
+      "type": "noun",
+      "word": "method",
+      "turkishMeaning": "yöntem",
+      "exampleSentence": "The method can be applied to other cases.",
+      "exampleTranslation": "Yöntem başka durumlara da uygulanabilir."
+    },
+    {
+      "id": "procedure",
+      "type": "noun",
+      "word": "procedure",
+      "turkishMeaning": "işlem basamakları",
+      "exampleSentence": "The procedure is described in the second section.",
+      "exampleTranslation": "İşlem basamakları ikinci kısımda açıklanıyor."
+    },
+    {
+      "id": "protocol",
+      "type": "noun",
+      "word": "protocol",
+      "turkishMeaning": "uygulama protokolü",
+      "exampleSentence": "The protocol specifies when readings should be taken.",
+      "exampleTranslation": "Uygulama protokolü ölçümlerin ne zaman alınacağını belirtir."
+    },
+    {
+      "id": "survey",
+      "type": "noun",
+      "word": "survey",
+      "turkishMeaning": "anket çalışması",
+      "exampleSentence": "The survey includes responses from three schools.",
+      "exampleTranslation": "Anket çalışması üç okuldan gelen yanıtları içeriyor."
+    },
+    {
+      "id": "questionnaire",
+      "type": "noun",
+      "word": "questionnaire",
+      "turkishMeaning": "anket formu",
+      "exampleSentence": "The questionnaire asks about study habits.",
+      "exampleTranslation": "Anket formu çalışma alışkanlıklarını soruyor."
+    },
+    {
+      "id": "interview",
+      "type": "noun",
+      "word": "interview",
+      "turkishMeaning": "görüşme",
+      "exampleSentence": "The interview lasted about thirty minutes.",
+      "exampleTranslation": "Görüşme yaklaşık otuz dakika sürdü."
+    },
+    {
+      "id": "observation",
+      "type": "noun",
+      "word": "observation",
+      "turkishMeaning": "gözlem",
+      "exampleSentence": "The observation was recorded as soon as it occurred.",
+      "exampleTranslation": "Gözlem gerçekleşir gerçekleşmez kaydedildi."
+    },
+    {
+      "id": "experiment",
+      "type": "noun",
+      "word": "experiment",
+      "turkishMeaning": "deney",
+      "exampleSentence": "The experiment compares two teaching methods.",
+      "exampleTranslation": "Deney iki öğretim yöntemini karşılaştırıyor."
+    },
+    {
+      "id": "trial",
+      "type": "noun",
+      "word": "trial",
+      "turkishMeaning": "deneme uygulaması",
+      "exampleSentence": "The trial ran for six weeks.",
+      "exampleTranslation": "Deneme uygulaması altı hafta sürdü."
+    },
+    {
+      "id": "pilot-study",
+      "type": "noun",
+      "word": "pilot study",
+      "turkishMeaning": "ön çalışma",
+      "exampleSentence": "The pilot study identified problems with the instructions.",
+      "exampleTranslation": "Ön çalışma yönergelerdeki sorunları belirledi."
+    },
+    {
+      "id": "dataset",
+      "type": "noun",
+      "word": "dataset",
+      "turkishMeaning": "veri kümesi",
+      "exampleSentence": "The dataset contains over a thousand records.",
+      "exampleTranslation": "Veri kümesi binden fazla kayıt içeriyor."
+    },
+    {
+      "id": "record",
+      "type": "noun",
+      "word": "record",
+      "turkishMeaning": "kayıt",
+      "exampleSentence": "The record includes the date and location.",
+      "exampleTranslation": "Kayıt tarih ve konum bilgisi içeriyor."
+    },
+    {
+      "id": "response",
+      "type": "noun",
+      "word": "response",
+      "turkishMeaning": "yanıt",
+      "exampleSentence": "The response was recorded without a name.",
+      "exampleTranslation": "Yanıt isim belirtilmeden kaydedildi."
+    },
+    {
+      "id": "participant",
+      "type": "noun",
+      "word": "participant",
+      "turkishMeaning": "katılımcı",
+      "exampleSentence": "The participant completed a short task.",
+      "exampleTranslation": "Katılımcı kısa bir görevi tamamladı."
+    },
+    {
+      "id": "respondent",
+      "type": "noun",
+      "word": "respondent",
+      "turkishMeaning": "anketi yanıtlayan kişi",
+      "exampleSentence": "The respondent could skip any question.",
+      "exampleTranslation": "Anketi yanıtlayan kişi istediği soruyu atlayabiliyordu."
+    },
+    {
+      "id": "sampling",
+      "type": "noun",
+      "word": "sampling",
+      "turkishMeaning": "örnekleme",
+      "exampleSentence": "The sampling took place in three stages.",
+      "exampleTranslation": "Örnekleme üç aşamada gerçekleştirildi."
+    },
+    {
+      "id": "control-group",
+      "type": "noun",
+      "word": "control group",
+      "turkishMeaning": "kontrol grubu",
+      "exampleSentence": "The control group followed the usual schedule.",
+      "exampleTranslation": "Kontrol grubu her zamanki programı izledi."
+    },
+    {
+      "id": "benchmark",
+      "type": "noun",
+      "word": "benchmark",
+      "turkishMeaning": "karşılaştırma ölçütü",
+      "exampleSentence": "The benchmark provides a baseline for comparison.",
+      "exampleTranslation": "Karşılaştırma ölçütü karşılaştırma için bir başlangıç noktası sağlıyor."
+    },
+    {
+      "id": "baseline",
+      "type": "noun",
+      "word": "baseline",
+      "turkishMeaning": "başlangıç düzeyi",
+      "exampleSentence": "The baseline was measured before the new program began.",
+      "exampleTranslation": "Başlangıç düzeyi yeni program başlamadan önce ölçüldü."
+    },
+    {
+      "id": "replication",
+      "type": "noun",
+      "word": "replication",
+      "turkishMeaning": "çalışmanın tekrarlanması",
+      "exampleSentence": "The replication can test whether the finding is reproducible.",
+      "exampleTranslation": "Çalışmanın tekrarlanması bulgunun yeniden elde edilip edilemediğini sınayabilir."
+    },
+    {
+      "id": "analysis",
+      "type": "noun",
+      "word": "analysis",
+      "turkishMeaning": "analiz",
+      "exampleSentence": "The analysis revealed a clear pattern.",
+      "exampleTranslation": "Analiz belirgin bir örüntü ortaya çıkardı."
+    },
+    {
+      "id": "finding",
+      "type": "noun",
+      "word": "finding",
+      "turkishMeaning": "bulgu",
+      "exampleSentence": "The finding supports the original hypothesis.",
+      "exampleTranslation": "Bulgu ilk hipotezi destekliyor."
+    },
+    {
+      "id": "result",
+      "type": "noun",
+      "word": "result",
+      "turkishMeaning": "sonuç",
+      "exampleSentence": "The result agrees with earlier reports.",
+      "exampleTranslation": "Sonuç önceki raporlarla uyuşuyor."
+    },
+    {
+      "id": "outcome",
+      "type": "noun",
+      "word": "outcome",
+      "turkishMeaning": "elde edilen sonuç",
+      "exampleSentence": "The outcome was recorded at the end of the study.",
+      "exampleTranslation": "Elde edilen sonuç çalışmanın sonunda kaydedildi."
+    },
+    {
+      "id": "trend",
+      "type": "noun",
+      "word": "trend",
+      "turkishMeaning": "eğilim",
+      "exampleSentence": "The trend continued into the second year.",
+      "exampleTranslation": "Eğilim ikinci yılda da devam etti."
+    },
+    {
+      "id": "pattern",
+      "type": "noun",
+      "word": "pattern",
+      "turkishMeaning": "örüntü",
+      "exampleSentence": "The pattern appears in both datasets.",
+      "exampleTranslation": "Örüntü her iki veri kümesinde de görülüyor."
+    },
+    {
+      "id": "variation",
+      "type": "noun",
+      "word": "variation",
+      "turkishMeaning": "değişkenlik",
+      "exampleSentence": "The variation is greater in the first group.",
+      "exampleTranslation": "Değişkenlik ilk grupta daha fazla."
+    },
+    {
+      "id": "correlation",
+      "type": "noun",
+      "word": "correlation",
+      "turkishMeaning": "korelasyon",
+      "exampleSentence": "The correlation does not by itself establish causation.",
+      "exampleTranslation": "Korelasyon tek başına nedenselliği göstermez."
+    },
+    {
+      "id": "causation",
+      "type": "noun",
+      "word": "causation",
+      "turkishMeaning": "nedensellik",
+      "exampleSentence": "The causation is difficult to establish from these records alone.",
+      "exampleTranslation": "Nedensellik yalnızca bu kayıtlara dayanarak belirlenmesi zordur."
+    },
+    {
+      "id": "effect",
+      "type": "noun",
+      "word": "effect",
+      "turkishMeaning": "etki",
+      "exampleSentence": "The effect was strongest during the first week.",
+      "exampleTranslation": "Etki en güçlü biçimde ilk hafta görüldü."
+    },
+    {
+      "id": "impact",
+      "type": "noun",
+      "word": "impact",
+      "turkishMeaning": "önemli etki",
+      "exampleSentence": "The impact was felt across the department.",
+      "exampleTranslation": "Önemli etki bölümün tamamında hissedildi."
+    },
+    {
+      "id": "comparison",
+      "type": "noun",
+      "word": "comparison",
+      "turkishMeaning": "karşılaştırma",
+      "exampleSentence": "The comparison shows several differences.",
+      "exampleTranslation": "Karşılaştırma birkaç fark gösteriyor."
+    },
+    {
+      "id": "contrast",
+      "type": "noun",
+      "word": "contrast",
+      "turkishMeaning": "karşıtlık",
+      "exampleSentence": "The contrast is especially clear in the final example.",
+      "exampleTranslation": "Karşıtlık son örnekte özellikle belirgin."
+    },
+    {
+      "id": "increase",
+      "type": "noun",
+      "word": "increase",
+      "turkishMeaning": "artış",
+      "exampleSentence": "The increase was steady over the first month.",
+      "exampleTranslation": "Artış ilk ay boyunca düzenliydi."
+    },
+    {
+      "id": "decrease",
+      "type": "noun",
+      "word": "decrease",
+      "turkishMeaning": "azalış",
+      "exampleSentence": "The decrease occurred mainly in the second group.",
+      "exampleTranslation": "Azalış daha çok ikinci grupta meydana geldi."
+    },
+    {
+      "id": "shift",
+      "type": "noun",
+      "word": "shift",
+      "turkishMeaning": "değişim",
+      "exampleSentence": "The shift began after the new policy was introduced.",
+      "exampleTranslation": "Değişim yeni politika uygulamaya konduktan sonra başladı."
+    },
+    {
+      "id": "anomaly",
+      "type": "noun",
+      "word": "anomaly",
+      "turkishMeaning": "olağandışı değer",
+      "exampleSentence": "The anomaly appears in the final row.",
+      "exampleTranslation": "Olağandışı değer son satırda görülüyor."
+    },
+    {
+      "id": "exception",
+      "type": "noun",
+      "word": "exception",
+      "turkishMeaning": "istisna",
+      "exampleSentence": "The exception does not change the general pattern.",
+      "exampleTranslation": "İstisna genel örüntüyü değiştirmiyor."
+    },
+    {
+      "id": "accuracy",
+      "type": "noun",
+      "word": "accuracy",
+      "turkishMeaning": "doğruluk",
+      "exampleSentence": "The accuracy depends on how the instrument is calibrated.",
+      "exampleTranslation": "Doğruluk cihazın nasıl kalibre edildiğine bağlıdır."
+    },
+    {
+      "id": "precision",
+      "type": "noun",
+      "word": "precision",
+      "turkishMeaning": "kesinlik",
+      "exampleSentence": "The precision improves when repeated readings agree closely.",
+      "exampleTranslation": "Kesinlik tekrarlanan ölçümler birbirine yakın çıktığında artar."
+    },
+    {
+      "id": "reliability",
+      "type": "noun",
+      "word": "reliability",
+      "turkishMeaning": "güvenilirlik",
+      "exampleSentence": "The reliability was checked by repeating the assessment.",
+      "exampleTranslation": "Güvenilirlik değerlendirme tekrarlanarak kontrol edildi."
+    },
+    {
+      "id": "validity",
+      "type": "noun",
+      "word": "validity",
+      "turkishMeaning": "geçerlik",
+      "exampleSentence": "The validity depends on whether the test measures the intended skill.",
+      "exampleTranslation": "Geçerlik testin hedeflenen beceriyi ölçüp ölçmediğine bağlıdır."
+    },
+    {
+      "id": "bias",
+      "type": "noun",
+      "word": "bias",
+      "turkishMeaning": "yanlılık",
+      "exampleSentence": "The bias can arise from the way people are selected.",
+      "exampleTranslation": "Yanlılık kişilerin seçilme biçiminden kaynaklanabilir."
+    },
+    {
+      "id": "uncertainty",
+      "type": "noun",
+      "word": "uncertainty",
+      "turkishMeaning": "belirsizlik",
+      "exampleSentence": "The uncertainty remains high because the study is small.",
+      "exampleTranslation": "Belirsizlik çalışma küçük olduğu için yüksek kalıyor."
+    },
+    {
+      "id": "limitation",
+      "type": "noun",
+      "word": "limitation",
+      "turkishMeaning": "sınırlılık",
+      "exampleSentence": "The limitation should be mentioned in the report.",
+      "exampleTranslation": "Sınırlılık raporda belirtilmelidir."
+    },
+    {
+      "id": "scope",
+      "type": "noun",
+      "word": "scope",
+      "turkishMeaning": "kapsam",
+      "exampleSentence": "The scope is limited to public schools.",
+      "exampleTranslation": "Kapsam devlet okullarıyla sınırlıdır."
+    },
+    {
+      "id": "constraint",
+      "type": "noun",
+      "word": "constraint",
+      "turkishMeaning": "kısıt",
+      "exampleSentence": "The constraint reduces the number of possible approaches.",
+      "exampleTranslation": "Kısıt olası yaklaşımların sayısını azaltır."
+    },
+    {
+      "id": "source",
+      "type": "noun",
+      "word": "source",
+      "turkishMeaning": "kaynak",
+      "exampleSentence": "The source provides more detail about the event.",
+      "exampleTranslation": "Kaynak olaya ilişkin daha fazla ayrıntı sağlıyor."
+    },
+    {
+      "id": "reference",
+      "type": "noun",
+      "word": "reference",
+      "turkishMeaning": "kaynak kaydı",
+      "exampleSentence": "The reference includes the journal’s name and publication year.",
+      "exampleTranslation": "Kaynak kaydı derginin adını ve yayın yılını içeriyor."
+    },
+    {
+      "id": "publication",
+      "type": "noun",
+      "word": "publication",
+      "turkishMeaning": "yayın",
+      "exampleSentence": "The publication appeared last spring.",
+      "exampleTranslation": "Yayın geçen ilkbaharda yayımlandı."
+    },
+    {
+      "id": "journal",
+      "type": "noun",
+      "word": "journal",
+      "turkishMeaning": "akademik dergi",
+      "exampleSentence": "The journal publishes research on education.",
+      "exampleTranslation": "Akademik dergi eğitim alanındaki araştırmaları yayımlar."
+    },
+    {
+      "id": "article",
+      "type": "noun",
+      "word": "article",
+      "turkishMeaning": "makale",
+      "exampleSentence": "The article examines changes in study habits.",
+      "exampleTranslation": "Makale çalışma alışkanlıklarındaki değişimleri inceliyor."
+    },
+    {
+      "id": "report",
+      "type": "noun",
+      "word": "report",
+      "turkishMeaning": "rapor",
+      "exampleSentence": "The report describes the findings in detail.",
+      "exampleTranslation": "Rapor bulguları ayrıntılı biçimde anlatıyor."
+    },
+    {
+      "id": "review",
+      "type": "noun",
+      "word": "review",
+      "turkishMeaning": "inceleme yazısı",
+      "exampleSentence": "The review compares recent studies on the topic.",
+      "exampleTranslation": "İnceleme yazısı konuyla ilgili yakın tarihli çalışmaları karşılaştırıyor."
+    },
+    {
+      "id": "figure",
+      "type": "noun",
+      "word": "figure",
+      "turkishMeaning": "şekil",
+      "exampleSentence": "The figure shows where the measurements were taken.",
+      "exampleTranslation": "Şekil ölçümlerin nerede yapıldığını gösteriyor."
+    },
+    {
+      "id": "diagram",
+      "type": "noun",
+      "word": "diagram",
+      "turkishMeaning": "şema",
+      "exampleSentence": "The diagram shows how the parts are connected.",
+      "exampleTranslation": "Şema parçaların nasıl bağlandığını gösteriyor."
+    },
+    {
+      "id": "chart",
+      "type": "noun",
+      "word": "chart",
+      "turkishMeaning": "grafik",
+      "exampleSentence": "The chart compares results across four years.",
+      "exampleTranslation": "Grafik dört yıla ait sonuçları karşılaştırıyor."
+    },
+    {
+      "id": "graph",
+      "type": "noun",
+      "word": "graph",
+      "turkishMeaning": "çizge",
+      "exampleSentence": "The graph shows the relationship between the two variables.",
+      "exampleTranslation": "Çizge iki değişken arasındaki ilişkiyi gösteriyor."
+    },
+    {
+      "id": "caption",
+      "type": "noun",
+      "word": "caption",
+      "turkishMeaning": "şekil açıklaması",
+      "exampleSentence": "The caption states what the colors represent.",
+      "exampleTranslation": "Şekil açıklaması renklerin neyi gösterdiğini belirtiyor."
+    },
+    {
+      "id": "research",
+      "type": "noun",
+      "word": "research",
+      "turkishMeaning": "araştırma",
+      "exampleSentence": "The research focuses on access to education.",
+      "exampleTranslation": "Araştırma eğitime erişime odaklanıyor."
+    },
+    {
+      "id": "project",
+      "type": "noun",
+      "word": "project",
+      "turkishMeaning": "proje",
+      "exampleSentence": "The project will run for one semester.",
+      "exampleTranslation": "Proje bir dönem sürecek."
+    },
+    {
+      "id": "proposal",
+      "type": "noun",
+      "word": "proposal",
+      "turkishMeaning": "öneri metni",
+      "exampleSentence": "The proposal describes a new approach.",
+      "exampleTranslation": "Öneri metni yeni bir yaklaşımı açıklıyor."
+    },
+    {
+      "id": "objective",
+      "type": "noun",
+      "word": "objective",
+      "turkishMeaning": "hedef",
+      "exampleSentence": "The objective is stated at the beginning of the report.",
+      "exampleTranslation": "Hedef raporun başında belirtilmiştir."
+    },
+    {
+      "id": "priority",
+      "type": "noun",
+      "word": "priority",
+      "turkishMeaning": "öncelik",
+      "exampleSentence": "The priority is to finish the analysis this week.",
+      "exampleTranslation": "Öncelik bu hafta analizi bitirmektir."
+    },
+    {
+      "id": "deadline",
+      "type": "noun",
+      "word": "deadline",
+      "turkishMeaning": "son teslim tarihi",
+      "exampleSentence": "The deadline falls at the end of the month.",
+      "exampleTranslation": "Son teslim tarihi ayın sonuna denk geliyor."
+    },
+    {
+      "id": "assessment",
+      "type": "noun",
+      "word": "assessment",
+      "turkishMeaning": "değerlendirme",
+      "exampleSentence": "The assessment includes a short written task.",
+      "exampleTranslation": "Değerlendirme kısa bir yazılı görev içeriyor."
+    },
+    {
+      "id": "evaluation",
+      "type": "noun",
+      "word": "evaluation",
+      "turkishMeaning": "değer biçme süreci",
+      "exampleSentence": "The evaluation takes account of both cost and quality.",
+      "exampleTranslation": "Değer biçme süreci hem maliyeti hem de kaliteyi dikkate alıyor."
+    },
+    {
+      "id": "feedback",
+      "type": "noun",
+      "word": "feedback",
+      "turkishMeaning": "geri bildirim",
+      "exampleSentence": "The feedback helped me clarify my argument.",
+      "exampleTranslation": "Geri bildirim savımı daha açık hâle getirmeme yardımcı oldu."
+    },
+    {
+      "id": "revision",
+      "type": "noun",
+      "word": "revision",
+      "turkishMeaning": "gözden geçirilmiş sürüm",
+      "exampleSentence": "The revision contains a new section on limitations.",
+      "exampleTranslation": "Gözden geçirilmiş sürüm sınırlılıklar hakkında yeni bir kısım içeriyor."
+    },
+    {
+      "id": "peer-review",
+      "type": "noun",
+      "word": "peer review",
+      "turkishMeaning": "hakem değerlendirmesi",
+      "exampleSentence": "The peer review helped identify gaps in the paper.",
+      "exampleTranslation": "Hakem değerlendirmesi makaledeki boşlukların belirlenmesine yardımcı oldu."
+    },
+    {
+      "id": "ethics",
+      "type": "noun",
+      "word": "ethics",
+      "turkishMeaning": "etik",
+      "exampleSentence": "The ethics guides decisions about work with participants.",
+      "exampleTranslation": "Etik katılımcılarla yürütülen çalışmalardaki kararlara yön verir."
+    },
+    {
+      "id": "consent",
+      "type": "noun",
+      "word": "consent",
+      "turkishMeaning": "onay",
+      "exampleSentence": "The consent was obtained before each interview.",
+      "exampleTranslation": "Onay her görüşmeden önce alındı."
+    },
+    {
+      "id": "confidentiality",
+      "type": "noun",
+      "word": "confidentiality",
+      "turkishMeaning": "gizlilik",
+      "exampleSentence": "The confidentiality is especially important when handling personal information.",
+      "exampleTranslation": "Gizlilik kişisel bilgiler işlenirken özellikle önemlidir."
+    },
+    {
+      "id": "anonymity",
+      "type": "noun",
+      "word": "anonymity",
+      "turkishMeaning": "anonimlik",
+      "exampleSentence": "The anonymity was preserved by removing names from the forms.",
+      "exampleTranslation": "Anonimlik formlardan isimler çıkarılarak korundu."
+    },
+    {
+      "id": "integrity",
+      "type": "noun",
+      "word": "integrity",
+      "turkishMeaning": "dürüstlük",
+      "exampleSentence": "The integrity is central to responsible research.",
+      "exampleTranslation": "Dürüstlük sorumlu araştırmanın temelidir."
+    },
+    {
+      "id": "plagiarism",
+      "type": "noun",
+      "word": "plagiarism",
+      "turkishMeaning": "intihal",
+      "exampleSentence": "The plagiarism can occur when a source is used without acknowledgment.",
+      "exampleTranslation": "İntihal bir kaynak belirtilmeden kullanıldığında ortaya çıkabilir."
+    },
+    {
+      "id": "methodology",
+      "type": "noun",
+      "word": "methodology",
+      "turkishMeaning": "yöntem bilimi",
+      "exampleSentence": "The methodology involves justifying how a study is designed.",
+      "exampleTranslation": "Yöntem bilimi bir çalışmanın nasıl tasarlandığını gerekçelendirmeyi içerir."
+    },
+    {
+      "id": "approach",
+      "type": "noun",
+      "word": "approach",
+      "turkishMeaning": "yaklaşım",
+      "exampleSentence": "The approach combines interviews with written responses.",
+      "exampleTranslation": "Yaklaşım görüşmeleri yazılı yanıtlarla birleştiriyor."
+    },
+    {
+      "id": "process",
+      "type": "noun",
+      "word": "process",
+      "turkishMeaning": "süreç",
+      "exampleSentence": "The process consists of three stages.",
+      "exampleTranslation": "Süreç üç aşamadan oluşur."
+    },
+    {
+      "id": "sequence",
+      "type": "noun",
+      "word": "sequence",
+      "turkishMeaning": "sıra",
+      "exampleSentence": "The sequence shows when each action takes place.",
+      "exampleTranslation": "Sıra her eylemin ne zaman gerçekleştiğini gösteriyor."
+    },
+    {
+      "id": "mechanism",
+      "type": "noun",
+      "word": "mechanism",
+      "turkishMeaning": "mekanizma",
+      "exampleSentence": "The mechanism explains how the change occurs.",
+      "exampleTranslation": "Mekanizma değişimin nasıl gerçekleştiğini açıklıyor."
+    },
+    {
+      "id": "structure",
+      "type": "noun",
+      "word": "structure",
+      "turkishMeaning": "yapı",
+      "exampleSentence": "The structure makes the argument easier to follow.",
+      "exampleTranslation": "Yapı savın izlenmesini kolaylaştırıyor."
+    },
+    {
+      "id": "function",
+      "type": "noun",
+      "word": "function",
+      "turkishMeaning": "işlev",
+      "exampleSentence": "The function varies according to the context.",
+      "exampleTranslation": "İşlev bağlama göre değişiyor."
+    },
+    {
+      "id": "component",
+      "type": "noun",
+      "word": "component",
+      "turkishMeaning": "bileşen",
+      "exampleSentence": "The component can be examined separately.",
+      "exampleTranslation": "Bileşen ayrı olarak incelenebilir."
+    },
+    {
+      "id": "resource",
+      "type": "noun",
+      "word": "resource",
+      "turkishMeaning": "kaynak malzeme",
+      "exampleSentence": "The resource includes examples for beginners.",
+      "exampleTranslation": "Kaynak malzeme başlangıç düzeyi için örnekler içeriyor."
+    },
+    {
+      "id": "allocation",
+      "type": "noun",
+      "word": "allocation",
+      "turkishMeaning": "paylaştırma",
+      "exampleSentence": "The allocation was agreed before the project started.",
+      "exampleTranslation": "Paylaştırma proje başlamadan önce kararlaştırıldı."
+    },
+    {
+      "id": "implementation",
+      "type": "noun",
+      "word": "implementation",
+      "turkishMeaning": "uygulamaya koyma",
+      "exampleSentence": "The implementation began in the autumn term.",
+      "exampleTranslation": "Uygulamaya koyma güz döneminde başladı."
+    },
+    {
+      "id": "policy",
+      "type": "noun",
+      "word": "policy",
+      "turkishMeaning": "kurum politikası",
+      "exampleSentence": "The policy sets out rules for data sharing.",
+      "exampleTranslation": "İzlence veya kurum politikası veri paylaşımı kurallarını belirliyor."
+    },
+    {
+      "id": "guideline",
+      "type": "noun",
+      "word": "guideline",
+      "turkishMeaning": "kılavuz ilke",
+      "exampleSentence": "The guideline helps reviewers apply the same standard.",
+      "exampleTranslation": "Kılavuz ilke değerlendiricilerin aynı standardı uygulamasına yardımcı olur."
+    },
+    {
+      "id": "standard",
+      "type": "noun",
+      "word": "standard",
+      "turkishMeaning": "standart",
+      "exampleSentence": "The standard sets a minimum level of quality.",
+      "exampleTranslation": "Standart asgari bir kalite düzeyi belirler."
+    },
+    {
+      "id": "requirement",
+      "type": "noun",
+      "word": "requirement",
+      "turkishMeaning": "gereklilik",
+      "exampleSentence": "The requirement applies to all submitted reports.",
+      "exampleTranslation": "Gereklilik teslim edilen tüm raporlar için geçerlidir."
+    },
+    {
+      "id": "recommendation",
+      "type": "noun",
+      "word": "recommendation",
+      "turkishMeaning": "öneri",
+      "exampleSentence": "The recommendation is based on the available evidence.",
+      "exampleTranslation": "Öneri eldeki kanıtlara dayanıyor."
+    },
+    {
+      "id": "relevance",
+      "type": "noun",
+      "word": "relevance",
+      "turkishMeaning": "konuyla ilgililik",
+      "exampleSentence": "The relevance depends on the question being asked.",
+      "exampleTranslation": "Konuyla ilgililik sorulan soruya bağlıdır."
+    },
+    {
+      "id": "feasibility",
+      "type": "noun",
+      "word": "feasibility",
+      "turkishMeaning": "uygulanabilirlik",
+      "exampleSentence": "The feasibility depends on time and resources.",
+      "exampleTranslation": "Uygulanabilirlik zamana ve kaynaklara bağlıdır."
+    },
+    {
+      "id": "efficiency",
+      "type": "noun",
+      "word": "efficiency",
+      "turkishMeaning": "verimlilik",
+      "exampleSentence": "The efficiency improved when the task was simplified.",
+      "exampleTranslation": "Verimlilik görev basitleştirildiğinde arttı."
+    },
+    {
+      "id": "stability",
+      "type": "noun",
+      "word": "stability",
+      "turkishMeaning": "kararlılık",
+      "exampleSentence": "The stability was assessed over a six-month period.",
+      "exampleTranslation": "Kararlılık altı aylık bir dönemde değerlendirildi."
+    },
+    {
+      "id": "consistency",
+      "type": "noun",
+      "word": "consistency",
+      "turkishMeaning": "tutarlılık",
+      "exampleSentence": "The consistency helps readers compare the results.",
+      "exampleTranslation": "Tutarlılık okurların sonuçları karşılaştırmasına yardımcı olur."
+    },
+    {
+      "id": "coherence",
+      "type": "noun",
+      "word": "coherence",
+      "turkishMeaning": "anlamsal bütünlük",
+      "exampleSentence": "The coherence depends on how ideas are connected.",
+      "exampleTranslation": "Anlamsal bütünlük düşüncelerin nasıl birbirine bağlandığına bağlıdır."
+    },
+    {
+      "id": "clarity",
+      "type": "noun",
+      "word": "clarity",
+      "turkishMeaning": "açıklık",
+      "exampleSentence": "The clarity improved after the paragraph was shortened.",
+      "exampleTranslation": "Açıklık paragraf kısaltılınca arttı."
+    },
+    {
+      "id": "emphasis",
+      "type": "noun",
+      "word": "emphasis",
+      "turkishMeaning": "vurgu",
+      "exampleSentence": "The emphasis falls on the final sentence.",
+      "exampleTranslation": "Vurgu son cümleye düşüyor."
+    },
+    {
+      "id": "transition",
+      "type": "noun",
+      "word": "transition",
+      "turkishMeaning": "geçiş",
+      "exampleSentence": "The transition links the two paragraphs.",
+      "exampleTranslation": "Geçiş iki paragraf arasındaki bağlantıyı kuruyor."
+    },
+    {
+      "id": "theme",
+      "type": "noun",
+      "word": "theme",
+      "turkishMeaning": "tema",
+      "exampleSentence": "The theme appears in several interviews.",
+      "exampleTranslation": "Tema birkaç görüşmede ortaya çıkıyor."
+    },
+    {
+      "id": "issue",
+      "type": "noun",
+      "word": "issue",
+      "turkishMeaning": "sorun",
+      "exampleSentence": "The issue requires further investigation.",
+      "exampleTranslation": "Sorun daha ayrıntılı araştırma gerektiriyor."
+    },
+    {
+      "id": "solution",
+      "type": "noun",
+      "word": "solution",
+      "turkishMeaning": "çözüm",
+      "exampleSentence": "The solution depends on the available resources.",
+      "exampleTranslation": "Çözüm eldeki kaynaklara bağlıdır."
+    },
+    {
+      "id": "alternative",
+      "type": "noun",
+      "word": "alternative",
+      "turkishMeaning": "seçenek",
+      "exampleSentence": "The alternative was suggested during the discussion.",
+      "exampleTranslation": "Seçenek tartışma sırasında önerildi."
+    },
+    {
+      "id": "decision",
+      "type": "noun",
+      "word": "decision",
+      "turkishMeaning": "karar",
+      "exampleSentence": "The decision was based on three criteria.",
+      "exampleTranslation": "Karar üç ölçüte dayanıyordu."
+    },
+    {
+      "id": "judgment",
+      "type": "noun",
+      "word": "judgment",
+      "turkishMeaning": "yargı",
+      "exampleSentence": "The judgment may be affected by prior expectations.",
+      "exampleTranslation": "Yargı önceki beklentilerden etkilenebilir."
+    },
+    {
+      "id": "consensus",
+      "type": "noun",
+      "word": "consensus",
+      "turkishMeaning": "uzlaşı",
+      "exampleSentence": "The consensus was reached after further discussion.",
+      "exampleTranslation": "Uzlaşı ek tartışmadan sonra sağlandı."
+    },
+    {
+      "id": "agreement",
+      "type": "noun",
+      "word": "agreement",
+      "turkishMeaning": "anlaşma",
+      "exampleSentence": "The agreement covers how the data will be shared.",
+      "exampleTranslation": "Anlaşma verilerin nasıl paylaşılacağını kapsıyor."
+    },
+    {
+      "id": "disagreement",
+      "type": "noun",
+      "word": "disagreement",
+      "turkishMeaning": "görüş ayrılığı",
+      "exampleSentence": "The disagreement arose over the interpretation of the evidence.",
+      "exampleTranslation": "Görüş ayrılığı kanıtların yorumlanması konusunda ortaya çıktı."
+    },
+    {
+      "id": "collaboration",
+      "type": "noun",
+      "word": "collaboration",
+      "turkishMeaning": "iş birliği",
+      "exampleSentence": "The collaboration brought together researchers from two departments.",
+      "exampleTranslation": "İş birliği iki bölümden araştırmacıları bir araya getirdi."
+    },
+    {
+      "id": "contribution",
+      "type": "noun",
+      "word": "contribution",
+      "turkishMeaning": "katkı",
+      "exampleSentence": "The contribution extends earlier work on the subject.",
+      "exampleTranslation": "Katkı konuyla ilgili önceki çalışmaları ileriye taşıyor."
+    },
+    {
+      "id": "insight",
+      "type": "noun",
+      "word": "insight",
+      "turkishMeaning": "yeni kavrayış",
+      "exampleSentence": "The insight emerged from the interviews.",
+      "exampleTranslation": "Yeni kavrayış görüşmelerden ortaya çıktı."
+    },
+    {
+      "id": "innovation",
+      "type": "noun",
+      "word": "innovation",
+      "turkishMeaning": "yenilik",
+      "exampleSentence": "The innovation made the process easier to repeat.",
+      "exampleTranslation": "Yenilik sürecin tekrarlanmasını kolaylaştırdı."
+    },
+    {
+      "id": "application",
+      "type": "noun",
+      "word": "application",
+      "turkishMeaning": "uygulama alanı",
+      "exampleSentence": "The application is discussed in the final chapter.",
+      "exampleTranslation": "Uygulama alanı son bölümde ele alınıyor."
+    },
+    {
+      "id": "development",
+      "type": "noun",
+      "word": "development",
+      "turkishMeaning": "gelişim",
+      "exampleSentence": "The development takes place gradually over time.",
+      "exampleTranslation": "Gelişim zaman içinde kademeli olarak gerçekleşir."
+    },
+    {
+      "id": "progress",
+      "type": "noun",
+      "word": "progress",
+      "turkishMeaning": "ilerleme",
+      "exampleSentence": "The progress was reviewed at the end of each month.",
+      "exampleTranslation": "İlerleme her ayın sonunda değerlendirildi."
+    },
+    {
+      "id": "reflection",
+      "type": "noun",
+      "word": "reflection",
+      "turkishMeaning": "düşünsel değerlendirme",
+      "exampleSentence": "The reflection explains what the writer learned from the task.",
+      "exampleTranslation": "Düşünsel değerlendirme yazarın görevden ne öğrendiğini açıklar."
+    },
+    {
+      "id": "motivation",
+      "type": "noun",
+      "word": "motivation",
+      "turkishMeaning": "güdülenme",
+      "exampleSentence": "The motivation can influence how long learners persist.",
+      "exampleTranslation": "Güdülenme öğrenenlerin ne kadar süre çaba gösterdiğini etkileyebilir."
+    },
+    {
+      "id": "participation",
+      "type": "noun",
+      "word": "participation",
+      "turkishMeaning": "katılım",
+      "exampleSentence": "The participation increased after the schedule changed.",
+      "exampleTranslation": "Katılım program değiştikten sonra arttı."
+    },
+    {
+      "id": "analyze",
+      "type": "verb",
+      "word": "analyze",
+      "v2": "analyzed",
+      "v3": "analyzed",
+      "turkishMeaning": "analiz etmek",
+      "exampleSentence": "We analyzed the responses separately.",
+      "exampleTranslation": "Yanıtları ayrı ayrı analiz ettik."
+    },
+    {
+      "id": "assess",
+      "type": "verb",
+      "word": "assess",
+      "v2": "assessed",
+      "v3": "assessed",
+      "turkishMeaning": "değerlendirmek",
+      "exampleSentence": "The team assessed the quality of the evidence.",
+      "exampleTranslation": "Ekip kanıtların niteliğini değerlendirdi."
+    },
+    {
+      "id": "compare",
+      "type": "verb",
+      "word": "compare",
+      "v2": "compared",
+      "v3": "compared",
+      "turkishMeaning": "karşılaştırmak",
+      "exampleSentence": "Compare the two graphs before drawing a conclusion.",
+      "exampleTranslation": "Bir sonuca varmadan önce iki grafiği karşılaştırın."
+    },
+    {
+      "id": "define",
+      "type": "verb",
+      "word": "define",
+      "v2": "defined",
+      "v3": "defined",
+      "turkishMeaning": "tanımlamak",
+      "exampleSentence": "The author defines the term in the first chapter.",
+      "exampleTranslation": "Yazar terimi ilk bölümde tanımlıyor."
+    },
+    {
+      "id": "demonstrate",
+      "type": "verb",
+      "word": "demonstrate",
+      "v2": "demonstrated",
+      "v3": "demonstrated",
+      "turkishMeaning": "göstermek",
+      "exampleSentence": "The example demonstrates how the method works.",
+      "exampleTranslation": "Örnek, yöntemin nasıl çalıştığını gösteriyor."
+    },
+    {
+      "id": "derive",
+      "type": "verb",
+      "word": "derive",
+      "v2": "derived",
+      "v3": "derived",
+      "turkishMeaning": "türetmek",
+      "exampleSentence": "The formula was derived from a simpler equation.",
+      "exampleTranslation": "Formül daha basit bir denklemden türetildi."
+    },
+    {
+      "id": "evaluate",
+      "type": "verb",
+      "word": "evaluate",
+      "v2": "evaluated",
+      "v3": "evaluated",
+      "turkishMeaning": "ölçütlere göre değerlendirmek",
+      "exampleSentence": "We evaluated each proposal against the same criteria.",
+      "exampleTranslation": "Her öneriyi aynı ölçütlere göre değerlendirdik."
+    },
+    {
+      "id": "identify",
+      "type": "verb",
+      "word": "identify",
+      "v2": "identified",
+      "v3": "identified",
+      "turkishMeaning": "belirlemek",
+      "exampleSentence": "The survey identified three barriers to participation.",
+      "exampleTranslation": "Anket, katılımın önündeki üç engeli belirledi."
+    },
+    {
+      "id": "indicate",
+      "type": "verb",
+      "word": "indicate",
+      "v2": "indicated",
+      "v3": "indicated",
+      "turkishMeaning": "işaret etmek",
+      "exampleSentence": "The results indicate a change in study habits.",
+      "exampleTranslation": "Sonuçlar çalışma alışkanlıklarında bir değişime işaret ediyor."
+    },
+    {
+      "id": "interpret",
+      "type": "verb",
+      "word": "interpret",
+      "v2": "interpreted",
+      "v3": "interpreted",
+      "turkishMeaning": "yorumlamak",
+      "exampleSentence": "The researchers interpreted the findings cautiously.",
+      "exampleTranslation": "Araştırmacılar bulguları temkinli biçimde yorumladı."
+    },
+    {
+      "id": "justify",
+      "type": "verb",
+      "word": "justify",
+      "v2": "justified",
+      "v3": "justified",
+      "turkishMeaning": "gerekçesini açıklamak",
+      "exampleSentence": "You need to justify your choice of method.",
+      "exampleTranslation": "Yöntem seçiminizi gerekçelendirmeniz gerekiyor."
+    },
+    {
+      "id": "revise",
+      "type": "verb",
+      "word": "revise",
+      "v2": "revised",
+      "v3": "revised",
+      "turkishMeaning": "gözden geçirip düzeltmek",
+      "exampleSentence": "She revised the draft after receiving feedback.",
+      "exampleTranslation": "Geri bildirim aldıktan sonra taslağı gözden geçirip düzeltti."
+    },
+    {
+      "id": "specify",
+      "type": "verb",
+      "word": "specify",
+      "v2": "specified",
+      "v3": "specified",
+      "turkishMeaning": "açıkça belirtmek",
+      "exampleSentence": "The instructions specify the maximum length.",
+      "exampleTranslation": "Yönergeler azami uzunluğu açıkça belirtiyor."
+    },
+    {
+      "id": "summarize",
+      "type": "verb",
+      "word": "summarize",
+      "v2": "summarized",
+      "v3": "summarized",
+      "turkishMeaning": "özetlemek",
+      "exampleSentence": "Please summarize the findings in one paragraph.",
+      "exampleTranslation": "Lütfen bulguları tek paragrafta özetleyin."
+    },
+    {
+      "id": "verify",
+      "type": "verb",
+      "word": "verify",
+      "v2": "verified",
+      "v3": "verified",
+      "turkishMeaning": "doğrulamak",
+      "exampleSentence": "We verified the figures against the original records.",
+      "exampleTranslation": "Rakamları özgün kayıtlarla karşılaştırarak doğruladık."
+    },
+    {
+      "id": "empirical",
+      "type": "adjective",
+      "word": "empirical",
+      "turkishMeaning": "deneysel veya gözlemsel",
+      "exampleSentence": "The argument is supported by empirical evidence.",
+      "exampleTranslation": "Sav, deneysel veya gözlemsel kanıtlarla destekleniyor."
+    },
+    {
+      "id": "explicit",
+      "type": "adjective",
+      "word": "explicit",
+      "turkishMeaning": "açıkça belirtilmiş",
+      "exampleSentence": "The report gives explicit criteria for inclusion.",
+      "exampleTranslation": "Rapor, çalışmaya alınma ölçütlerini açıkça belirtiyor."
+    },
+    {
+      "id": "implicit",
+      "type": "adjective",
+      "word": "implicit",
+      "turkishMeaning": "örtük",
+      "exampleSentence": "The model contains an implicit assumption about cost.",
+      "exampleTranslation": "Model, maliyet hakkında örtük bir varsayım içeriyor."
+    },
+    {
+      "id": "qualitative",
+      "type": "adjective",
+      "word": "qualitative",
+      "turkishMeaning": "nitel",
+      "exampleSentence": "We collected qualitative data through interviews.",
+      "exampleTranslation": "Görüşmeler yoluyla nitel veri topladık."
+    },
+    {
+      "id": "quantitative",
+      "type": "adjective",
+      "word": "quantitative",
+      "turkishMeaning": "nicel",
+      "exampleSentence": "The report includes a quantitative analysis of the results.",
+      "exampleTranslation": "Rapor, sonuçların nicel analizini içeriyor."
+    },
+    {
+      "id": "relevant",
+      "type": "adjective",
+      "word": "relevant",
+      "turkishMeaning": "konuyla ilgili",
+      "exampleSentence": "Keep only the examples that are relevant to the question.",
+      "exampleTranslation": "Yalnızca soruyla ilgili örnekleri tutun."
+    },
+    {
+      "id": "significant",
+      "type": "adjective",
+      "word": "significant",
+      "turkishMeaning": "önemli",
+      "exampleSentence": "The new process led to a significant improvement.",
+      "exampleTranslation": "Yeni süreç önemli bir iyileşme sağladı."
+    },
+    {
+      "id": "theoretical",
+      "type": "adjective",
+      "word": "theoretical",
+      "turkishMeaning": "kuramsal",
+      "exampleSentence": "The paper discusses the theoretical basis of the model.",
+      "exampleTranslation": "Makale, modelin kuramsal temelini tartışıyor."
+    },
+    {
+      "id": "consequently",
+      "type": "adverb",
+      "word": "consequently",
+      "turkishMeaning": "dolayısıyla",
+      "exampleSentence": "The sample was small. Consequently, the estimates were uncertain.",
+      "exampleTranslation": "Örneklem küçüktü. Dolayısıyla tahminler belirsizdi."
+    },
+    {
+      "id": "respectively",
+      "type": "adverb",
+      "word": "respectively",
+      "turkishMeaning": "sırasıyla",
+      "exampleSentence": "The first and second groups had ten and twelve participants, respectively.",
+      "exampleTranslation": "Birinci ve ikinci grupta sırasıyla on ve on iki katılımcı vardı."
+    }
+  ]
+}

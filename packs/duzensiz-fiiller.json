@@ -1,0 +1,508 @@
+{
+  "schema": 1,
+  "id": "duzensiz-fiiller",
+  "revision": 1,
+  "name": "Düzensiz fiiller",
+  "words": [
+    {
+      "id": "cut",
+      "type": "verb",
+      "word": "cut",
+      "v2": "cut",
+      "v3": "cut",
+      "turkishMeaning": "kesmek",
+      "exampleSentence": "She cut the paper in half.",
+      "exampleTranslation": "Kâğıdı ikiye kesti."
+    },
+    {
+      "id": "read",
+      "type": "verb",
+      "word": "read",
+      "v2": "read",
+      "v3": "read",
+      "turkishMeaning": "okumak",
+      "exampleSentence": "I read the report on the train yesterday.",
+      "exampleTranslation": "Raporu dün trende okudum."
+    },
+    {
+      "id": "say",
+      "type": "verb",
+      "word": "say",
+      "v2": "said",
+      "v3": "said",
+      "turkishMeaning": "söylemek",
+      "exampleSentence": "She said that the shop was closed.",
+      "exampleTranslation": "Dükkânın kapalı olduğunu söyledi."
+    },
+    {
+      "id": "grow-up",
+      "type": "verb",
+      "word": "grow up",
+      "v2": "grew up",
+      "v3": "grown up",
+      "turkishMeaning": "büyümek, yetişmek",
+      "exampleSentence": "I grew up in a small town.",
+      "exampleTranslation": "Küçük bir kasabada büyüdüm."
+    },
+    {
+      "id": "take-off",
+      "type": "verb",
+      "word": "take off",
+      "v2": "took off",
+      "v3": "taken off",
+      "turkishMeaning": "havalanmak",
+      "exampleSentence": "The plane took off just before noon.",
+      "exampleTranslation": "Uçak öğleden hemen önce havalandı."
+    },
+    {
+      "id": "give-up",
+      "type": "verb",
+      "word": "give up",
+      "v2": "gave up",
+      "v3": "given up",
+      "turkishMeaning": "vazgeçmek",
+      "exampleSentence": "She gave up trying to open the jar.",
+      "exampleTranslation": "Kavanozu açmaya çalışmaktan vazgeçti."
+    },
+    {
+      "id": "find-out",
+      "type": "verb",
+      "word": "find out",
+      "v2": "found out",
+      "v3": "found out",
+      "turkishMeaning": "öğrenmek, ortaya çıkarmak",
+      "exampleSentence": "We found out why the train was late.",
+      "exampleTranslation": "Trenin neden geciktiğini öğrendik."
+    },
+    {
+      "id": "come-across",
+      "type": "verb",
+      "word": "come across",
+      "v2": "came across",
+      "v3": "come across",
+      "turkishMeaning": "rastlamak",
+      "exampleSentence": "I came across an old photo in the drawer.",
+      "exampleTranslation": "Çekmecede eski bir fotoğrafa rastladım."
+    },
+    {
+      "id": "break-down",
+      "type": "verb",
+      "word": "break down",
+      "v2": "broke down",
+      "v3": "broken down",
+      "turkishMeaning": "arızalanmak",
+      "exampleSentence": "Our car broke down on the way home.",
+      "exampleTranslation": "Arabamız eve giderken arızalandı."
+    },
+    {
+      "id": "get-along",
+      "type": "verb",
+      "word": "get along",
+      "v2": "got along",
+      "v3": "got along",
+      "turkishMeaning": "iyi geçinmek",
+      "exampleSentence": "I got along well with my new neighbors.",
+      "exampleTranslation": "Yeni komşularımla iyi geçindim."
+    },
+    {
+      "id": "put-off",
+      "type": "verb",
+      "word": "put off",
+      "v2": "put off",
+      "v3": "put off",
+      "turkishMeaning": "ertelemek",
+      "exampleSentence": "They put off the meeting until Friday.",
+      "exampleTranslation": "Toplantıyı cumaya ertelediler."
+    },
+    {
+      "id": "put-up-with",
+      "type": "verb",
+      "word": "put up with",
+      "v2": "put up with",
+      "v3": "put up with",
+      "turkishMeaning": "katlanmak",
+      "exampleSentence": "We put up with the noise for weeks.",
+      "exampleTranslation": "Haftalarca gürültüye katlandık."
+    },
+    {
+      "id": "run-out",
+      "type": "verb",
+      "word": "run out",
+      "v2": "ran out",
+      "v3": "run out",
+      "turkishMeaning": "tükenmek",
+      "exampleSentence": "Our milk ran out this morning.",
+      "exampleTranslation": "Sütümüz bu sabah bitti."
+    },
+    {
+      "id": "set-up",
+      "type": "verb",
+      "word": "set up",
+      "v2": "set up",
+      "v3": "set up",
+      "turkishMeaning": "kurmak",
+      "exampleSentence": "They set up a small business last year.",
+      "exampleTranslation": "Geçen yıl küçük bir işletme kurdular."
+    },
+    {
+      "id": "take-over",
+      "type": "verb",
+      "word": "take over",
+      "v2": "took over",
+      "v3": "taken over",
+      "turkishMeaning": "devralmak",
+      "exampleSentence": "Mina took over the project in June.",
+      "exampleTranslation": "Mina projeyi haziranda devraldı."
+    },
+    {
+      "id": "upset",
+      "type": "verb",
+      "word": "upset",
+      "v2": "upset",
+      "v3": "upset",
+      "turkishMeaning": "üzmek",
+      "exampleSentence": "The decision upset several students.",
+      "exampleTranslation": "Karar birkaç öğrenciyi üzdü."
+    },
+    {
+      "id": "let-down",
+      "type": "verb",
+      "word": "let down",
+      "v2": "let down",
+      "v3": "let down",
+      "turkishMeaning": "hayal kırıklığına uğratmak",
+      "exampleSentence": "She felt that the team had let her down.",
+      "exampleTranslation": "Takımın onu hayal kırıklığına uğrattığını hissetti."
+    },
+    {
+      "id": "split",
+      "type": "verb",
+      "word": "split",
+      "v2": "split",
+      "v3": "split",
+      "turkishMeaning": "bölüşmek",
+      "exampleSentence": "We split the bill equally.",
+      "exampleTranslation": "Hesabı eşit olarak bölüştük."
+    },
+    {
+      "id": "spread",
+      "type": "verb",
+      "word": "spread",
+      "v2": "spread",
+      "v3": "spread",
+      "turkishMeaning": "yaymak",
+      "exampleSentence": "He spread the blanket on the grass.",
+      "exampleTranslation": "Battaniyeyi çimenlerin üzerine serdi."
+    },
+    {
+      "id": "bend",
+      "type": "verb",
+      "word": "bend",
+      "v2": "bent",
+      "v3": "bent",
+      "turkishMeaning": "bükmek",
+      "exampleSentence": "I bent the wire into a circle.",
+      "exampleTranslation": "Teli bükerek halka yaptım."
+    },
+    {
+      "id": "bleed",
+      "type": "verb",
+      "word": "bleed",
+      "v2": "bled",
+      "v3": "bled",
+      "turkishMeaning": "kanamak",
+      "exampleSentence": "My finger bled for a few minutes.",
+      "exampleTranslation": "Parmağım birkaç dakika kanadı."
+    },
+    {
+      "id": "burst",
+      "type": "verb",
+      "word": "burst",
+      "v2": "burst",
+      "v3": "burst",
+      "turkishMeaning": "patlamak",
+      "exampleSentence": "One of the balloons burst.",
+      "exampleTranslation": "Balonlardan biri patladı."
+    },
+    {
+      "id": "deal-with",
+      "type": "verb",
+      "word": "deal with",
+      "v2": "dealt with",
+      "v3": "dealt with",
+      "turkishMeaning": "ilgilenmek",
+      "exampleSentence": "She dealt with the complaint quickly.",
+      "exampleTranslation": "Şikâyetle hızla ilgilendi."
+    },
+    {
+      "id": "hang",
+      "type": "verb",
+      "word": "hang",
+      "v2": "hung",
+      "v3": "hung",
+      "turkishMeaning": "asmak",
+      "exampleSentence": "He hung his coat by the door.",
+      "exampleTranslation": "Paltosunu kapının yanına astı."
+    },
+    {
+      "id": "shoot",
+      "type": "verb",
+      "word": "shoot",
+      "v2": "shot",
+      "v3": "shot",
+      "turkishMeaning": "fotoğraf çekmek",
+      "exampleSentence": "They shot the photos near the river.",
+      "exampleTranslation": "Fotoğrafları nehrin yakınında çektiler."
+    },
+    {
+      "id": "spin",
+      "type": "verb",
+      "word": "spin",
+      "v2": "spun",
+      "v3": "spun",
+      "turkishMeaning": "dönmek",
+      "exampleSentence": "The wheel spun for several seconds.",
+      "exampleTranslation": "Tekerlek birkaç saniye döndü."
+    },
+    {
+      "id": "swing",
+      "type": "verb",
+      "word": "swing",
+      "v2": "swung",
+      "v3": "swung",
+      "turkishMeaning": "sallanmak",
+      "exampleSentence": "The sign swung in the wind.",
+      "exampleTranslation": "Tabela rüzgârda sallandı."
+    },
+    {
+      "id": "stick-to",
+      "type": "verb",
+      "word": "stick to",
+      "v2": "stuck to",
+      "v3": "stuck to",
+      "turkishMeaning": "bağlı kalmak",
+      "exampleSentence": "We stuck to the original plan.",
+      "exampleTranslation": "İlk plana bağlı kaldık."
+    },
+    {
+      "id": "kneel",
+      "type": "verb",
+      "word": "kneel",
+      "v2": "knelt",
+      "v3": "knelt",
+      "turkishMeaning": "diz çökmek",
+      "exampleSentence": "She knelt to tie her shoe.",
+      "exampleTranslation": "Ayakkabısını bağlamak için diz çöktü."
+    },
+    {
+      "id": "lean",
+      "type": "verb",
+      "word": "lean",
+      "v2": "leant",
+      "v3": "leant",
+      "turkishMeaning": "yaslanmak",
+      "exampleSentence": "He leant against the wall.",
+      "exampleTranslation": "Duvara yaslandı."
+    },
+    {
+      "id": "shrink",
+      "type": "verb",
+      "word": "shrink",
+      "v2": "shrank",
+      "v3": "shrunk",
+      "turkishMeaning": "küçülmek, çekmek",
+      "exampleSentence": "My sweater shrank in the wash.",
+      "exampleTranslation": "Kazağım yıkanınca çekti."
+    },
+    {
+      "id": "spill",
+      "type": "verb",
+      "word": "spill",
+      "v2": "spilt",
+      "v3": "spilt",
+      "turkishMeaning": "dökmek",
+      "exampleSentence": "I spilt coffee on the table.",
+      "exampleTranslation": "Masaya kahve döktüm."
+    },
+    {
+      "id": "redo",
+      "type": "verb",
+      "word": "redo",
+      "v2": "redid",
+      "v3": "redone",
+      "turkishMeaning": "yeniden yapmak",
+      "exampleSentence": "I redid the exercise after class.",
+      "exampleTranslation": "Alıştırmayı dersten sonra yeniden yaptım."
+    },
+    {
+      "id": "rewrite",
+      "type": "verb",
+      "word": "rewrite",
+      "v2": "rewrote",
+      "v3": "rewritten",
+      "turkishMeaning": "yeniden yazmak",
+      "exampleSentence": "She rewrote the first paragraph.",
+      "exampleTranslation": "İlk paragrafı yeniden yazdı."
+    },
+    {
+      "id": "misunderstand",
+      "type": "verb",
+      "word": "misunderstand",
+      "v2": "misunderstood",
+      "v3": "misunderstood",
+      "turkishMeaning": "yanlış anlamak",
+      "exampleSentence": "I misunderstood the instructions.",
+      "exampleTranslation": "Yönergeleri yanlış anladım."
+    },
+    {
+      "id": "oversleep",
+      "type": "verb",
+      "word": "oversleep",
+      "v2": "overslept",
+      "v3": "overslept",
+      "turkishMeaning": "uyuyakalmak",
+      "exampleSentence": "I overslept and missed the bus.",
+      "exampleTranslation": "Uyuyakaldım ve otobüsü kaçırdım."
+    },
+    {
+      "id": "overtake",
+      "type": "verb",
+      "word": "overtake",
+      "v2": "overtook",
+      "v3": "overtaken",
+      "turkishMeaning": "sollamak",
+      "exampleSentence": "A van overtook us on the hill.",
+      "exampleTranslation": "Yokuşta bir minibüs bizi solladı."
+    },
+    {
+      "id": "undo",
+      "type": "verb",
+      "word": "undo",
+      "v2": "undid",
+      "v3": "undone",
+      "turkishMeaning": "geri almak",
+      "exampleSentence": "I undid the last change.",
+      "exampleTranslation": "Son değişikliği geri aldım."
+    },
+    {
+      "id": "withdraw",
+      "type": "verb",
+      "word": "withdraw",
+      "v2": "withdrew",
+      "v3": "withdrawn",
+      "turkishMeaning": "para çekmek",
+      "exampleSentence": "She withdrew cash before the trip.",
+      "exampleTranslation": "Yolculuktan önce nakit para çekti."
+    },
+    {
+      "id": "forbid",
+      "type": "verb",
+      "word": "forbid",
+      "v2": "forbade",
+      "v3": "forbidden",
+      "turkishMeaning": "yasaklamak",
+      "exampleSentence": "The school forbade phone use during exams.",
+      "exampleTranslation": "Okul sınavlarda telefon kullanımını yasakladı."
+    },
+    {
+      "id": "arise",
+      "type": "verb",
+      "word": "arise",
+      "v2": "arose",
+      "v3": "arisen",
+      "turkishMeaning": "ortaya çıkmak",
+      "exampleSentence": "A problem arose during the meeting.",
+      "exampleTranslation": "Toplantı sırasında bir sorun ortaya çıktı."
+    },
+    {
+      "id": "bet",
+      "type": "verb",
+      "word": "bet",
+      "v2": "bet",
+      "v3": "bet",
+      "turkishMeaning": "bahse girmek",
+      "exampleSentence": "I bet that our team would win.",
+      "exampleTranslation": "Takımımızın kazanacağına bahse girdim."
+    },
+    {
+      "id": "broadcast",
+      "type": "verb",
+      "word": "broadcast",
+      "v2": "broadcast",
+      "v3": "broadcast",
+      "turkishMeaning": "yayımlamak",
+      "exampleSentence": "The station broadcast the interview live.",
+      "exampleTranslation": "İstasyon görüşmeyi canlı yayımladı."
+    },
+    {
+      "id": "cast",
+      "type": "verb",
+      "word": "cast",
+      "v2": "cast",
+      "v3": "cast",
+      "turkishMeaning": "oyuncu seçmek",
+      "exampleSentence": "They cast her in the lead role.",
+      "exampleTranslation": "Onu başrol için seçtiler."
+    },
+    {
+      "id": "flee",
+      "type": "verb",
+      "word": "flee",
+      "v2": "fled",
+      "v3": "fled",
+      "turkishMeaning": "kaçmak",
+      "exampleSentence": "Residents fled when the river flooded.",
+      "exampleTranslation": "Nehir taştığında bölgede yaşayanlar kaçtı."
+    },
+    {
+      "id": "grind",
+      "type": "verb",
+      "word": "grind",
+      "v2": "ground",
+      "v3": "ground",
+      "turkishMeaning": "öğütmek",
+      "exampleSentence": "He ground the coffee beans by hand.",
+      "exampleTranslation": "Kahve çekirdeklerini elle öğüttü."
+    },
+    {
+      "id": "sting",
+      "type": "verb",
+      "word": "sting",
+      "v2": "stung",
+      "v3": "stung",
+      "turkishMeaning": "sokmak",
+      "exampleSentence": "A bee stung my hand.",
+      "exampleTranslation": "Bir arı elimi soktu."
+    },
+    {
+      "id": "swell",
+      "type": "verb",
+      "word": "swell",
+      "v2": "swelled",
+      "v3": "swollen",
+      "turkishMeaning": "şişmek",
+      "exampleSentence": "Her ankle had swollen by evening.",
+      "exampleTranslation": "Akşama doğru ayak bileği şişmişti."
+    },
+    {
+      "id": "wind",
+      "type": "verb",
+      "word": "wind",
+      "v2": "wound",
+      "v3": "wound",
+      "turkishMeaning": "sarmak",
+      "exampleSentence": "He wound the cable around his hand.",
+      "exampleTranslation": "Kabloyu eline sardı."
+    },
+    {
+      "id": "bind",
+      "type": "verb",
+      "word": "bind",
+      "v2": "bound",
+      "v3": "bound",
+      "turkishMeaning": "bağlamak",
+      "exampleSentence": "She bound the papers with string.",
+      "exampleTranslation": "Kâğıtları iple bağladı."
+    }
+  ]
+}

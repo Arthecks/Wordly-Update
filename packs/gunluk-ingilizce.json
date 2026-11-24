@@ -1,0 +1,2448 @@
+{
+  "schema": 1,
+  "id": "gunluk-ingilizce",
+  "revision": 1,
+  "name": "Günlük İngilizce",
+  "words": [
+    {
+      "id": "apple",
+      "type": "noun",
+      "word": "apple",
+      "turkishMeaning": "elma",
+      "exampleSentence": "I packed an apple for lunch.",
+      "exampleTranslation": "Öğle yemeği için yanıma bir elma aldım."
+    },
+    {
+      "id": "banana",
+      "type": "noun",
+      "word": "banana",
+      "turkishMeaning": "muz",
+      "exampleSentence": "She sliced a banana into her yogurt.",
+      "exampleTranslation": "Yoğurduna bir muz dilimledi."
+    },
+    {
+      "id": "orange",
+      "type": "noun",
+      "word": "orange",
+      "turkishMeaning": "portakal",
+      "exampleSentence": "I peeled an orange for the children.",
+      "exampleTranslation": "Çocuklar için bir portakal soydum."
+    },
+    {
+      "id": "pear",
+      "type": "noun",
+      "word": "pear",
+      "turkishMeaning": "armut",
+      "exampleSentence": "The pear was ripe and sweet.",
+      "exampleTranslation": "Armut olgun ve tatlıydı."
+    },
+    {
+      "id": "peach",
+      "type": "noun",
+      "word": "peach",
+      "turkishMeaning": "şeftali",
+      "exampleSentence": "Would you like a peach?",
+      "exampleTranslation": "Şeftali ister misin?"
+    },
+    {
+      "id": "grape",
+      "type": "noun",
+      "word": "grape",
+      "turkishMeaning": "üzüm",
+      "exampleSentence": "I put a grape on each plate.",
+      "exampleTranslation": "Her tabağa bir üzüm tanesi koydum."
+    },
+    {
+      "id": "strawberry",
+      "type": "noun",
+      "word": "strawberry",
+      "turkishMeaning": "çilek",
+      "exampleSentence": "She put a strawberry on top of each cake.",
+      "exampleTranslation": "Her kekin üstüne bir çilek koydu."
+    },
+    {
+      "id": "cherry",
+      "type": "noun",
+      "word": "cherry",
+      "turkishMeaning": "kiraz",
+      "exampleSentence": "This cherry has a large pit.",
+      "exampleTranslation": "Bu kirazın çekirdeği büyük."
+    },
+    {
+      "id": "lemon",
+      "type": "noun",
+      "word": "lemon",
+      "turkishMeaning": "limon",
+      "exampleSentence": "Squeeze half a lemon into the bowl.",
+      "exampleTranslation": "Kâseye yarım limon sık."
+    },
+    {
+      "id": "melon",
+      "type": "noun",
+      "word": "melon",
+      "turkishMeaning": "kavun",
+      "exampleSentence": "Could you get a melon at the store?",
+      "exampleTranslation": "Marketten kavun alabilir misin?"
+    },
+    {
+      "id": "watermelon",
+      "type": "noun",
+      "word": "watermelon",
+      "turkishMeaning": "karpuz",
+      "exampleSentence": "We shared a watermelon after lunch.",
+      "exampleTranslation": "Öğle yemeğinden sonra bir karpuzu paylaştık."
+    },
+    {
+      "id": "plum",
+      "type": "noun",
+      "word": "plum",
+      "turkishMeaning": "erik",
+      "exampleSentence": "This plum is still too hard to eat.",
+      "exampleTranslation": "Bu erik yemek için hâlâ çok sert."
+    },
+    {
+      "id": "apricot",
+      "type": "noun",
+      "word": "apricot",
+      "turkishMeaning": "kayısı",
+      "exampleSentence": "She cut an apricot in half.",
+      "exampleTranslation": "Bir kayısıyı ikiye kesti."
+    },
+    {
+      "id": "pineapple",
+      "type": "noun",
+      "word": "pineapple",
+      "turkishMeaning": "ananas",
+      "exampleSentence": "The pineapple was sweet and juicy.",
+      "exampleTranslation": "Ananas tatlı ve suluydu."
+    },
+    {
+      "id": "carrot",
+      "type": "noun",
+      "word": "carrot",
+      "turkishMeaning": "havuç",
+      "exampleSentence": "I added a carrot to the soup.",
+      "exampleTranslation": "Çorbaya bir havuç ekledim."
+    },
+    {
+      "id": "potato",
+      "type": "noun",
+      "word": "potato",
+      "turkishMeaning": "patates",
+      "exampleSentence": "Peel the potato before you cook it.",
+      "exampleTranslation": "Patatesi pişirmeden önce soy."
+    },
+    {
+      "id": "tomato",
+      "type": "noun",
+      "word": "tomato",
+      "turkishMeaning": "domates",
+      "exampleSentence": "Slice a tomato for the sandwich.",
+      "exampleTranslation": "Sandviç için bir domates dilimle."
+    },
+    {
+      "id": "cucumber",
+      "type": "noun",
+      "word": "cucumber",
+      "turkishMeaning": "salatalık",
+      "exampleSentence": "Could you get a cucumber at the store?",
+      "exampleTranslation": "Marketten salatalık alabilir misin?"
+    },
+    {
+      "id": "onion",
+      "type": "noun",
+      "word": "onion",
+      "turkishMeaning": "soğan",
+      "exampleSentence": "I chopped an onion for dinner.",
+      "exampleTranslation": "Akşam yemeği için bir soğan doğradım."
+    },
+    {
+      "id": "garlic",
+      "type": "noun",
+      "word": "garlic",
+      "turkishMeaning": "sarımsak",
+      "exampleSentence": "We bought some garlic at the market.",
+      "exampleTranslation": "Pazardan sarımsak aldık."
+    },
+    {
+      "id": "pepper",
+      "type": "noun",
+      "word": "pepper",
+      "turkishMeaning": "biber",
+      "exampleSentence": "We used a red pepper in the salad.",
+      "exampleTranslation": "Salatada kırmızı biber kullandık."
+    },
+    {
+      "id": "cabbage",
+      "type": "noun",
+      "word": "cabbage",
+      "turkishMeaning": "lahana",
+      "exampleSentence": "Could you get a cabbage at the store?",
+      "exampleTranslation": "Marketten lahana alabilir misin?"
+    },
+    {
+      "id": "mushroom",
+      "type": "noun",
+      "word": "mushroom",
+      "turkishMeaning": "mantar",
+      "exampleSentence": "There was a mushroom growing under the tree.",
+      "exampleTranslation": "Ağacın altında bir mantar yetişiyordu."
+    },
+    {
+      "id": "pumpkin",
+      "type": "noun",
+      "word": "pumpkin",
+      "turkishMeaning": "bal kabağı",
+      "exampleSentence": "We bought a pumpkin at the market.",
+      "exampleTranslation": "Pazardan bal kabağı aldık."
+    },
+    {
+      "id": "rice",
+      "type": "noun",
+      "word": "rice",
+      "turkishMeaning": "pirinç",
+      "exampleSentence": "There is some rice in the kitchen.",
+      "exampleTranslation": "Mutfakta pirinç var."
+    },
+    {
+      "id": "bread",
+      "type": "noun",
+      "word": "bread",
+      "turkishMeaning": "ekmek",
+      "exampleSentence": "We bought some bread at the market.",
+      "exampleTranslation": "Pazardan ekmek aldık."
+    },
+    {
+      "id": "flour",
+      "type": "noun",
+      "word": "flour",
+      "turkishMeaning": "un",
+      "exampleSentence": "Add a little flour to the bowl.",
+      "exampleTranslation": "Kâseye biraz un ekle."
+    },
+    {
+      "id": "cheese",
+      "type": "noun",
+      "word": "cheese",
+      "turkishMeaning": "peynir",
+      "exampleSentence": "Could you get some cheese at the store?",
+      "exampleTranslation": "Marketten peynir alabilir misin?"
+    },
+    {
+      "id": "yogurt",
+      "type": "noun",
+      "word": "yogurt",
+      "turkishMeaning": "yoğurt",
+      "exampleSentence": "There is some yogurt in the kitchen.",
+      "exampleTranslation": "Mutfakta yoğurt var."
+    },
+    {
+      "id": "butter",
+      "type": "noun",
+      "word": "butter",
+      "turkishMeaning": "tereyağı",
+      "exampleSentence": "We bought some butter at the market.",
+      "exampleTranslation": "Pazardan tereyağı aldık."
+    },
+    {
+      "id": "milk",
+      "type": "noun",
+      "word": "milk",
+      "turkishMeaning": "süt",
+      "exampleSentence": "There is enough milk for breakfast.",
+      "exampleTranslation": "Kahvaltı için yeterince süt var."
+    },
+    {
+      "id": "cream",
+      "type": "noun",
+      "word": "cream",
+      "turkishMeaning": "krema",
+      "exampleSentence": "Could you get some cream at the store?",
+      "exampleTranslation": "Marketten krema alabilir misin?"
+    },
+    {
+      "id": "salt",
+      "type": "noun",
+      "word": "salt",
+      "turkishMeaning": "tuz",
+      "exampleSentence": "The soup needs a little more salt.",
+      "exampleTranslation": "Çorbaya biraz daha tuz lazım."
+    },
+    {
+      "id": "sugar",
+      "type": "noun",
+      "word": "sugar",
+      "turkishMeaning": "şeker",
+      "exampleSentence": "We bought some sugar at the market.",
+      "exampleTranslation": "Pazardan şeker aldık."
+    },
+    {
+      "id": "honey",
+      "type": "noun",
+      "word": "honey",
+      "turkishMeaning": "bal",
+      "exampleSentence": "I put honey in my tea.",
+      "exampleTranslation": "Çayıma bal kattım."
+    },
+    {
+      "id": "jam",
+      "type": "noun",
+      "word": "jam",
+      "turkishMeaning": "reçel",
+      "exampleSentence": "Could you get some jam at the store?",
+      "exampleTranslation": "Marketten reçel alabilir misin?"
+    },
+    {
+      "id": "pasta",
+      "type": "noun",
+      "word": "pasta",
+      "turkishMeaning": "makarna",
+      "exampleSentence": "The pasta will be ready in five minutes.",
+      "exampleTranslation": "Makarna beş dakikaya hazır olacak."
+    },
+    {
+      "id": "soup",
+      "type": "noun",
+      "word": "soup",
+      "turkishMeaning": "çorba",
+      "exampleSentence": "We had tomato soup for lunch.",
+      "exampleTranslation": "Öğle yemeğinde domates çorbası içtik."
+    },
+    {
+      "id": "salad",
+      "type": "noun",
+      "word": "salad",
+      "turkishMeaning": "salata",
+      "exampleSentence": "They shared a salad before dinner.",
+      "exampleTranslation": "Akşam yemeğinden önce bir salatayı paylaştılar."
+    },
+    {
+      "id": "chicken",
+      "type": "noun",
+      "word": "chicken",
+      "turkishMeaning": "tavuk eti",
+      "exampleSentence": "Could you get some chicken at the store?",
+      "exampleTranslation": "Marketten tavuk eti alabilir misin?"
+    },
+    {
+      "id": "beef",
+      "type": "noun",
+      "word": "beef",
+      "turkishMeaning": "dana eti",
+      "exampleSentence": "The recipe calls for half a kilo of beef.",
+      "exampleTranslation": "Tarif için yarım kilo dana eti gerekiyor."
+    },
+    {
+      "id": "fish",
+      "type": "noun",
+      "word": "fish",
+      "turkishMeaning": "balık",
+      "exampleSentence": "We had fish for dinner.",
+      "exampleTranslation": "Akşam yemeğinde balık yedik."
+    },
+    {
+      "id": "egg",
+      "type": "noun",
+      "word": "egg",
+      "turkishMeaning": "yumurta",
+      "exampleSentence": "He boiled an egg for breakfast.",
+      "exampleTranslation": "Kahvaltı için bir yumurta haşladı."
+    },
+    {
+      "id": "olive",
+      "type": "noun",
+      "word": "olive",
+      "turkishMeaning": "zeytin",
+      "exampleSentence": "There was an olive in the middle of each slice.",
+      "exampleTranslation": "Her dilimin ortasında bir zeytin vardı."
+    },
+    {
+      "id": "tea",
+      "type": "noun",
+      "word": "tea",
+      "turkishMeaning": "çay",
+      "exampleSentence": "The tea is still too hot to drink.",
+      "exampleTranslation": "Çay hâlâ içilemeyecek kadar sıcak."
+    },
+    {
+      "id": "coffee",
+      "type": "noun",
+      "word": "coffee",
+      "turkishMeaning": "kahve",
+      "exampleSentence": "Would you like some coffee?",
+      "exampleTranslation": "Biraz kahve ister misin?"
+    },
+    {
+      "id": "juice",
+      "type": "noun",
+      "word": "juice",
+      "turkishMeaning": "meyve suyu",
+      "exampleSentence": "There is some juice in the kitchen.",
+      "exampleTranslation": "Mutfakta meyve suyu var."
+    },
+    {
+      "id": "water",
+      "type": "noun",
+      "word": "water",
+      "turkishMeaning": "su",
+      "exampleSentence": "May I have some water, please?",
+      "exampleTranslation": "Biraz su alabilir miyim, lütfen?"
+    },
+    {
+      "id": "sandwich",
+      "type": "noun",
+      "word": "sandwich",
+      "turkishMeaning": "sandviç",
+      "exampleSentence": "I put a sandwich on the table.",
+      "exampleTranslation": "Masaya sandviç koydum."
+    },
+    {
+      "id": "cake",
+      "type": "noun",
+      "word": "cake",
+      "turkishMeaning": "kek",
+      "exampleSentence": "Could you get a cake at the store?",
+      "exampleTranslation": "Marketten kek alabilir misin?"
+    },
+    {
+      "id": "biscuit",
+      "type": "noun",
+      "word": "biscuit",
+      "turkishMeaning": "bisküvi",
+      "exampleSentence": "Have a biscuit with your tea.",
+      "exampleTranslation": "Çayının yanında bir bisküvi ye."
+    },
+    {
+      "id": "chocolate",
+      "type": "noun",
+      "word": "chocolate",
+      "turkishMeaning": "çikolata",
+      "exampleSentence": "We bought some chocolate at the market.",
+      "exampleTranslation": "Pazardan çikolata aldık."
+    },
+    {
+      "id": "table",
+      "type": "noun",
+      "word": "table",
+      "turkishMeaning": "masa",
+      "exampleSentence": "Please put the plates on the table.",
+      "exampleTranslation": "Lütfen tabakları masanın üzerine koy."
+    },
+    {
+      "id": "chair",
+      "type": "noun",
+      "word": "chair",
+      "turkishMeaning": "sandalye",
+      "exampleSentence": "Pull up a chair and sit with us.",
+      "exampleTranslation": "Bir sandalye çekip yanımıza otur."
+    },
+    {
+      "id": "sofa",
+      "type": "noun",
+      "word": "sofa",
+      "turkishMeaning": "kanepe",
+      "exampleSentence": "The cat is asleep on the sofa.",
+      "exampleTranslation": "Kedi kanepede uyuyor."
+    },
+    {
+      "id": "bed",
+      "type": "noun",
+      "word": "bed",
+      "turkishMeaning": "yatak",
+      "exampleSentence": "I sat on the edge of the bed.",
+      "exampleTranslation": "Yatağın kenarına oturdum."
+    },
+    {
+      "id": "pillow",
+      "type": "noun",
+      "word": "pillow",
+      "turkishMeaning": "yastık",
+      "exampleSentence": "She put the letter under her pillow.",
+      "exampleTranslation": "Mektubu yastığının altına koydu."
+    },
+    {
+      "id": "blanket",
+      "type": "noun",
+      "word": "blanket",
+      "turkishMeaning": "battaniye",
+      "exampleSentence": "Take a blanket if you feel cold.",
+      "exampleTranslation": "Üşürsen bir battaniye al."
+    },
+    {
+      "id": "towel",
+      "type": "noun",
+      "word": "towel",
+      "turkishMeaning": "havlu",
+      "exampleSentence": "There is a clean towel in the bathroom.",
+      "exampleTranslation": "Banyoda temiz bir havlu var."
+    },
+    {
+      "id": "curtain",
+      "type": "noun",
+      "word": "curtain",
+      "turkishMeaning": "perde",
+      "exampleSentence": "She opened the curtain to let in some light.",
+      "exampleTranslation": "İçeri biraz ışık girsin diye perdeyi açtı."
+    },
+    {
+      "id": "carpet",
+      "type": "noun",
+      "word": "carpet",
+      "turkishMeaning": "halı",
+      "exampleSentence": "Someone spilled juice on the carpet.",
+      "exampleTranslation": "Biri halıya meyve suyu döktü."
+    },
+    {
+      "id": "shelf",
+      "type": "noun",
+      "word": "shelf",
+      "turkishMeaning": "raf",
+      "exampleSentence": "The cups are on the top shelf.",
+      "exampleTranslation": "Fincanlar en üst rafta."
+    },
+    {
+      "id": "drawer",
+      "type": "noun",
+      "word": "drawer",
+      "turkishMeaning": "çekmece",
+      "exampleSentence": "Look in the drawer by the bed.",
+      "exampleTranslation": "Yatağın yanındaki çekmeceye bak."
+    },
+    {
+      "id": "fridge",
+      "type": "noun",
+      "word": "fridge",
+      "turkishMeaning": "buzdolabı",
+      "exampleSentence": "Put the milk back in the fridge.",
+      "exampleTranslation": "Sütü tekrar buzdolabına koy."
+    },
+    {
+      "id": "oven",
+      "type": "noun",
+      "word": "oven",
+      "turkishMeaning": "fırın",
+      "exampleSentence": "The bread is in the oven.",
+      "exampleTranslation": "Ekmek fırında."
+    },
+    {
+      "id": "plate",
+      "type": "noun",
+      "word": "plate",
+      "turkishMeaning": "tabak",
+      "exampleSentence": "The plate was too hot to touch.",
+      "exampleTranslation": "Tabak dokunulamayacak kadar sıcaktı."
+    },
+    {
+      "id": "bowl",
+      "type": "noun",
+      "word": "bowl",
+      "turkishMeaning": "kâse",
+      "exampleSentence": "Pour the soup into a bowl.",
+      "exampleTranslation": "Çorbayı bir kâseye dök."
+    },
+    {
+      "id": "cup",
+      "type": "noun",
+      "word": "cup",
+      "turkishMeaning": "fincan",
+      "exampleSentence": "Would you like a cup of tea?",
+      "exampleTranslation": "Bir fincan çay ister misin?"
+    },
+    {
+      "id": "mug",
+      "type": "noun",
+      "word": "mug",
+      "turkishMeaning": "kupa",
+      "exampleSentence": "I left my mug on the desk.",
+      "exampleTranslation": "Kupamı çalışma masasının üzerinde bıraktım."
+    },
+    {
+      "id": "glass",
+      "type": "noun",
+      "word": "glass",
+      "turkishMeaning": "bardak",
+      "exampleSentence": "She drank a glass of water.",
+      "exampleTranslation": "Bir bardak su içti."
+    },
+    {
+      "id": "fork",
+      "type": "noun",
+      "word": "fork",
+      "turkishMeaning": "çatal",
+      "exampleSentence": "Do you need a fork for your salad?",
+      "exampleTranslation": "Salatan için çatal lazım mı?"
+    },
+    {
+      "id": "knife",
+      "type": "noun",
+      "word": "knife",
+      "turkishMeaning": "bıçak",
+      "exampleSentence": "Use a sharp knife to slice the bread.",
+      "exampleTranslation": "Ekmeği dilimlemek için keskin bir bıçak kullan."
+    },
+    {
+      "id": "spoon",
+      "type": "noun",
+      "word": "spoon",
+      "turkishMeaning": "kaşık",
+      "exampleSentence": "Stir the soup with a spoon.",
+      "exampleTranslation": "Çorbayı kaşıkla karıştır."
+    },
+    {
+      "id": "pan",
+      "type": "noun",
+      "word": "pan",
+      "turkishMeaning": "tava",
+      "exampleSentence": "Heat a little oil in the pan.",
+      "exampleTranslation": "Tavada biraz yağ ısıt."
+    },
+    {
+      "id": "pot",
+      "type": "noun",
+      "word": "pot",
+      "turkishMeaning": "tencere",
+      "exampleSentence": "There is a pot of soup on the stove.",
+      "exampleTranslation": "Ocakta bir tencere çorba var."
+    },
+    {
+      "id": "bottle",
+      "type": "noun",
+      "word": "bottle",
+      "turkishMeaning": "şişe",
+      "exampleSentence": "Take a bottle of water with you.",
+      "exampleTranslation": "Yanına bir şişe su al."
+    },
+    {
+      "id": "basket",
+      "type": "noun",
+      "word": "basket",
+      "turkishMeaning": "sepet",
+      "exampleSentence": "She put the apples in a basket.",
+      "exampleTranslation": "Elmaları sepete koydu."
+    },
+    {
+      "id": "soap",
+      "type": "noun",
+      "word": "soap",
+      "turkishMeaning": "sabun",
+      "exampleSentence": "Wash your hands with soap.",
+      "exampleTranslation": "Ellerini sabunla yıka."
+    },
+    {
+      "id": "shampoo",
+      "type": "noun",
+      "word": "shampoo",
+      "turkishMeaning": "şampuan",
+      "exampleSentence": "I forgot to pack the shampoo.",
+      "exampleTranslation": "Şampuanı yanıma almayı unuttum."
+    },
+    {
+      "id": "toothbrush",
+      "type": "noun",
+      "word": "toothbrush",
+      "turkishMeaning": "diş fırçası",
+      "exampleSentence": "I need a new toothbrush.",
+      "exampleTranslation": "Yeni bir diş fırçasına ihtiyacım var."
+    },
+    {
+      "id": "toothpaste",
+      "type": "noun",
+      "word": "toothpaste",
+      "turkishMeaning": "diş macunu",
+      "exampleSentence": "There is no toothpaste left.",
+      "exampleTranslation": "Diş macunu kalmadı."
+    },
+    {
+      "id": "mirror",
+      "type": "noun",
+      "word": "mirror",
+      "turkishMeaning": "ayna",
+      "exampleSentence": "He looked at himself in the mirror.",
+      "exampleTranslation": "Aynada kendine baktı."
+    },
+    {
+      "id": "lamp",
+      "type": "noun",
+      "word": "lamp",
+      "turkishMeaning": "lamba",
+      "exampleSentence": "Could you turn off the lamp?",
+      "exampleTranslation": "Lambayı kapatabilir misin?"
+    },
+    {
+      "id": "clock",
+      "type": "noun",
+      "word": "clock",
+      "turkishMeaning": "saat",
+      "exampleSentence": "The clock in the kitchen is five minutes fast.",
+      "exampleTranslation": "Mutfaktaki saat beş dakika ileri."
+    },
+    {
+      "id": "key",
+      "type": "noun",
+      "word": "key",
+      "turkishMeaning": "anahtar",
+      "exampleSentence": "I can’t find my front door key.",
+      "exampleTranslation": "Dış kapı anahtarımı bulamıyorum."
+    },
+    {
+      "id": "lock",
+      "type": "noun",
+      "word": "lock",
+      "turkishMeaning": "kilit",
+      "exampleSentence": "The key won’t turn in this lock.",
+      "exampleTranslation": "Anahtar bu kilitte dönmüyor."
+    },
+    {
+      "id": "door",
+      "type": "noun",
+      "word": "door",
+      "turkishMeaning": "kapı",
+      "exampleSentence": "We cleaned the door yesterday.",
+      "exampleTranslation": "Dün kapı temizledik."
+    },
+    {
+      "id": "window",
+      "type": "noun",
+      "word": "window",
+      "turkishMeaning": "pencere",
+      "exampleSentence": "She sat by the window to read.",
+      "exampleTranslation": "Kitap okumak için pencerenin yanına oturdu."
+    },
+    {
+      "id": "wall",
+      "type": "noun",
+      "word": "wall",
+      "turkishMeaning": "duvar",
+      "exampleSentence": "We hung the picture on the wall.",
+      "exampleTranslation": "Resmi duvara astık."
+    },
+    {
+      "id": "floor",
+      "type": "noun",
+      "word": "floor",
+      "turkishMeaning": "zemin",
+      "exampleSentence": "The floor is still wet.",
+      "exampleTranslation": "Zemin hâlâ ıslak."
+    },
+    {
+      "id": "ceiling",
+      "type": "noun",
+      "word": "ceiling",
+      "turkishMeaning": "tavan",
+      "exampleSentence": "There is a crack in the ceiling.",
+      "exampleTranslation": "Tavanda bir çatlak var."
+    },
+    {
+      "id": "roof",
+      "type": "noun",
+      "word": "roof",
+      "turkishMeaning": "çatı",
+      "exampleSentence": "Snow covered the roof overnight.",
+      "exampleTranslation": "Gece boyunca kar çatıyı kapladı."
+    },
+    {
+      "id": "garden",
+      "type": "noun",
+      "word": "garden",
+      "turkishMeaning": "bahçe",
+      "exampleSentence": "The children played in the garden.",
+      "exampleTranslation": "Çocuklar bahçede oynadı."
+    },
+    {
+      "id": "balcony",
+      "type": "noun",
+      "word": "balcony",
+      "turkishMeaning": "balkon",
+      "exampleSentence": "We sat on the balcony after dinner.",
+      "exampleTranslation": "Akşam yemeğinden sonra balkonda oturduk."
+    },
+    {
+      "id": "stairs",
+      "type": "noun",
+      "word": "stairs",
+      "turkishMeaning": "merdiven",
+      "exampleSentence": "The stairs are beside the entrance.",
+      "exampleTranslation": "Merdiven girişin yanında."
+    },
+    {
+      "id": "hallway",
+      "type": "noun",
+      "word": "hallway",
+      "turkishMeaning": "koridor",
+      "exampleSentence": "Leave your shoes in the hallway.",
+      "exampleTranslation": "Ayakkabılarını koridorda bırak."
+    },
+    {
+      "id": "bathroom",
+      "type": "noun",
+      "word": "bathroom",
+      "turkishMeaning": "banyo",
+      "exampleSentence": "The bathroom needs cleaning.",
+      "exampleTranslation": "Banyo temizlenmeli."
+    },
+    {
+      "id": "kitchen",
+      "type": "noun",
+      "word": "kitchen",
+      "turkishMeaning": "mutfak",
+      "exampleSentence": "Can you show me the kitchen?",
+      "exampleTranslation": "Bana mutfak gösterebilir misin?"
+    },
+    {
+      "id": "bedroom",
+      "type": "noun",
+      "word": "bedroom",
+      "turkishMeaning": "yatak odası",
+      "exampleSentence": "The bedroom is at the end of the hallway.",
+      "exampleTranslation": "Yatak odası koridorun sonunda."
+    },
+    {
+      "id": "address",
+      "type": "noun",
+      "word": "address",
+      "turkishMeaning": "adres",
+      "exampleSentence": "Can you send me your address?",
+      "exampleTranslation": "Adresini bana gönderebilir misin?"
+    },
+    {
+      "id": "room",
+      "type": "noun",
+      "word": "room",
+      "turkishMeaning": "oda",
+      "exampleSentence": "Can you show me the room?",
+      "exampleTranslation": "Odayı bana gösterebilir misin?"
+    },
+    {
+      "id": "apartment",
+      "type": "noun",
+      "word": "apartment",
+      "turkishMeaning": "daire",
+      "exampleSentence": "We cleaned the apartment yesterday.",
+      "exampleTranslation": "Dün daire temizledik."
+    },
+    {
+      "id": "shirt",
+      "type": "noun",
+      "word": "shirt",
+      "turkishMeaning": "gömlek",
+      "exampleSentence": "She was looking for a shirt.",
+      "exampleTranslation": "Gömlek arıyordu."
+    },
+    {
+      "id": "jacket",
+      "type": "noun",
+      "word": "jacket",
+      "turkishMeaning": "ceket",
+      "exampleSentence": "I need a jacket for the trip.",
+      "exampleTranslation": "Yolculuk için ceket lazım."
+    },
+    {
+      "id": "coat",
+      "type": "noun",
+      "word": "coat",
+      "turkishMeaning": "palto",
+      "exampleSentence": "I left my coat at home.",
+      "exampleTranslation": "Paltomu evde bıraktım."
+    },
+    {
+      "id": "sweater",
+      "type": "noun",
+      "word": "sweater",
+      "turkishMeaning": "kazak",
+      "exampleSentence": "I bought a sweater last week.",
+      "exampleTranslation": "Geçen hafta kazak aldım."
+    },
+    {
+      "id": "dress",
+      "type": "noun",
+      "word": "dress",
+      "turkishMeaning": "elbise",
+      "exampleSentence": "She was looking for a dress.",
+      "exampleTranslation": "Elbise arıyordu."
+    },
+    {
+      "id": "skirt",
+      "type": "noun",
+      "word": "skirt",
+      "turkishMeaning": "etek",
+      "exampleSentence": "I need a skirt for the trip.",
+      "exampleTranslation": "Yolculuk için etek lazım."
+    },
+    {
+      "id": "jeans",
+      "type": "noun",
+      "word": "jeans",
+      "turkishMeaning": "kot pantolon",
+      "exampleSentence": "She wore jeans to the party.",
+      "exampleTranslation": "Partiye kot pantolonla gitti."
+    },
+    {
+      "id": "trousers",
+      "type": "noun",
+      "word": "trousers",
+      "turkishMeaning": "pantolon",
+      "exampleSentence": "I bought some trousers last week.",
+      "exampleTranslation": "Geçen hafta pantolon aldım."
+    },
+    {
+      "id": "shorts",
+      "type": "noun",
+      "word": "shorts",
+      "turkishMeaning": "şort",
+      "exampleSentence": "She was looking for some shorts.",
+      "exampleTranslation": "Şort arıyordu."
+    },
+    {
+      "id": "sock",
+      "type": "noun",
+      "word": "sock",
+      "turkishMeaning": "çorap",
+      "exampleSentence": "I found a sock under the bed.",
+      "exampleTranslation": "Yatağın altında bir çorap buldum."
+    },
+    {
+      "id": "shoe",
+      "type": "noun",
+      "word": "shoe",
+      "turkishMeaning": "ayakkabı",
+      "exampleSentence": "There is a stone in my shoe.",
+      "exampleTranslation": "Ayakkabımın içinde bir taş var."
+    },
+    {
+      "id": "boot",
+      "type": "noun",
+      "word": "boot",
+      "turkishMeaning": "bot",
+      "exampleSentence": "His left boot was wet.",
+      "exampleTranslation": "Sol botu ıslaktı."
+    },
+    {
+      "id": "hat",
+      "type": "noun",
+      "word": "hat",
+      "turkishMeaning": "şapka",
+      "exampleSentence": "She was looking for a hat.",
+      "exampleTranslation": "Şapka arıyordu."
+    },
+    {
+      "id": "scarf",
+      "type": "noun",
+      "word": "scarf",
+      "turkishMeaning": "atkı",
+      "exampleSentence": "I need a scarf for the trip.",
+      "exampleTranslation": "Yolculuk için atkı lazım."
+    },
+    {
+      "id": "glove",
+      "type": "noun",
+      "word": "glove",
+      "turkishMeaning": "eldiven",
+      "exampleSentence": "I lost a glove on the bus.",
+      "exampleTranslation": "Otobüste bir eldivenimi kaybettim."
+    },
+    {
+      "id": "belt",
+      "type": "noun",
+      "word": "belt",
+      "turkishMeaning": "kemer",
+      "exampleSentence": "I bought a belt last week.",
+      "exampleTranslation": "Geçen hafta kemer aldım."
+    },
+    {
+      "id": "pocket",
+      "type": "noun",
+      "word": "pocket",
+      "turkishMeaning": "cep",
+      "exampleSentence": "I found the key in my pocket.",
+      "exampleTranslation": "Anahtarı cebimde buldum."
+    },
+    {
+      "id": "button",
+      "type": "noun",
+      "word": "button",
+      "turkishMeaning": "düğme",
+      "exampleSentence": "A button fell off my shirt.",
+      "exampleTranslation": "Gömleğimden bir düğme koptu."
+    },
+    {
+      "id": "umbrella",
+      "type": "noun",
+      "word": "umbrella",
+      "turkishMeaning": "şemsiye",
+      "exampleSentence": "I bought an umbrella last week.",
+      "exampleTranslation": "Geçen hafta şemsiye aldım."
+    },
+    {
+      "id": "bag",
+      "type": "noun",
+      "word": "bag",
+      "turkishMeaning": "çanta",
+      "exampleSentence": "She was looking for a bag.",
+      "exampleTranslation": "Çanta arıyordu."
+    },
+    {
+      "id": "backpack",
+      "type": "noun",
+      "word": "backpack",
+      "turkishMeaning": "sırt çantası",
+      "exampleSentence": "I need a backpack for the trip.",
+      "exampleTranslation": "Yolculuk için sırt çantası lazım."
+    },
+    {
+      "id": "wallet",
+      "type": "noun",
+      "word": "wallet",
+      "turkishMeaning": "cüzdan",
+      "exampleSentence": "I left my wallet at home.",
+      "exampleTranslation": "Cüzdanımı evde unuttum."
+    },
+    {
+      "id": "sunglasses",
+      "type": "noun",
+      "word": "sunglasses",
+      "turkishMeaning": "güneş gözlüğü",
+      "exampleSentence": "I bought some sunglasses last week.",
+      "exampleTranslation": "Geçen hafta güneş gözlüğü aldım."
+    },
+    {
+      "id": "ring",
+      "type": "noun",
+      "word": "ring",
+      "turkishMeaning": "yüzük",
+      "exampleSentence": "She was looking for a ring.",
+      "exampleTranslation": "Yüzük arıyordu."
+    },
+    {
+      "id": "necklace",
+      "type": "noun",
+      "word": "necklace",
+      "turkishMeaning": "kolye",
+      "exampleSentence": "She wore a gold necklace.",
+      "exampleTranslation": "Altın bir kolye taktı."
+    },
+    {
+      "id": "earring",
+      "type": "noun",
+      "word": "earring",
+      "turkishMeaning": "küpe",
+      "exampleSentence": "I found an earring on the floor.",
+      "exampleTranslation": "Yerde bir küpe buldum."
+    },
+    {
+      "id": "watch-noun",
+      "type": "noun",
+      "word": "watch",
+      "turkishMeaning": "kol saati",
+      "exampleSentence": "I bought a watch last week.",
+      "exampleTranslation": "Geçen hafta kol saati aldım."
+    },
+    {
+      "id": "size",
+      "type": "noun",
+      "word": "size",
+      "turkishMeaning": "beden",
+      "exampleSentence": "Do you have this shirt in my size?",
+      "exampleTranslation": "Bu gömleğin benim bedenime uygun olanı var mı?"
+    },
+    {
+      "id": "bus",
+      "type": "noun",
+      "word": "bus",
+      "turkishMeaning": "otobüs",
+      "exampleSentence": "The bus was moving slowly.",
+      "exampleTranslation": "Otobüs yavaş ilerliyordu."
+    },
+    {
+      "id": "train",
+      "type": "noun",
+      "word": "train",
+      "turkishMeaning": "tren",
+      "exampleSentence": "We saw a train on the way home.",
+      "exampleTranslation": "Eve dönerken tren gördük."
+    },
+    {
+      "id": "tram",
+      "type": "noun",
+      "word": "tram",
+      "turkishMeaning": "tramvay",
+      "exampleSentence": "There was a tram outside.",
+      "exampleTranslation": "Dışarıda tramvay vardı."
+    },
+    {
+      "id": "subway",
+      "type": "noun",
+      "word": "subway",
+      "turkishMeaning": "metro",
+      "exampleSentence": "We took the subway into town.",
+      "exampleTranslation": "Şehir merkezine metroyla gittik."
+    },
+    {
+      "id": "taxi",
+      "type": "noun",
+      "word": "taxi",
+      "turkishMeaning": "taksi",
+      "exampleSentence": "The taxi was moving slowly.",
+      "exampleTranslation": "Taksi yavaş ilerliyordu."
+    },
+    {
+      "id": "car",
+      "type": "noun",
+      "word": "car",
+      "turkishMeaning": "araba",
+      "exampleSentence": "We saw a car on the way home.",
+      "exampleTranslation": "Eve dönerken araba gördük."
+    },
+    {
+      "id": "bicycle",
+      "type": "noun",
+      "word": "bicycle",
+      "turkishMeaning": "bisiklet",
+      "exampleSentence": "There was a bicycle outside.",
+      "exampleTranslation": "Dışarıda bisiklet vardı."
+    },
+    {
+      "id": "motorcycle",
+      "type": "noun",
+      "word": "motorcycle",
+      "turkishMeaning": "motosiklet",
+      "exampleSentence": "Look, there is a motorcycle!",
+      "exampleTranslation": "Bak, motosiklet var!"
+    },
+    {
+      "id": "truck",
+      "type": "noun",
+      "word": "truck",
+      "turkishMeaning": "kamyon",
+      "exampleSentence": "The truck was moving slowly.",
+      "exampleTranslation": "Kamyon yavaş ilerliyordu."
+    },
+    {
+      "id": "van",
+      "type": "noun",
+      "word": "van",
+      "turkishMeaning": "minibüs",
+      "exampleSentence": "We saw a van on the way home.",
+      "exampleTranslation": "Eve dönerken minibüs gördük."
+    },
+    {
+      "id": "airplane",
+      "type": "noun",
+      "word": "airplane",
+      "turkishMeaning": "uçak",
+      "exampleSentence": "We watched an airplane take off.",
+      "exampleTranslation": "Bir uçağın havalanışını izledik."
+    },
+    {
+      "id": "boat",
+      "type": "noun",
+      "word": "boat",
+      "turkishMeaning": "tekne",
+      "exampleSentence": "The boat was moving slowly.",
+      "exampleTranslation": "Tekne yavaş ilerliyordu."
+    },
+    {
+      "id": "station",
+      "type": "noun",
+      "word": "station",
+      "turkishMeaning": "istasyon",
+      "exampleSentence": "Meet me outside the station.",
+      "exampleTranslation": "Benimle istasyonun dışında buluş."
+    },
+    {
+      "id": "airport",
+      "type": "noun",
+      "word": "airport",
+      "turkishMeaning": "havaalanı",
+      "exampleSentence": "We arrived at the airport an hour early.",
+      "exampleTranslation": "Havaalanına bir saat erken vardık."
+    },
+    {
+      "id": "ticket",
+      "type": "noun",
+      "word": "ticket",
+      "turkishMeaning": "bilet",
+      "exampleSentence": "I bought my ticket online.",
+      "exampleTranslation": "Biletimi internetten aldım."
+    },
+    {
+      "id": "passport",
+      "type": "noun",
+      "word": "passport",
+      "turkishMeaning": "pasaport",
+      "exampleSentence": "Show your passport at the gate.",
+      "exampleTranslation": "Kapıda pasaportunu göster."
+    },
+    {
+      "id": "suitcase",
+      "type": "noun",
+      "word": "suitcase",
+      "turkishMeaning": "valiz",
+      "exampleSentence": "The suitcase was too heavy to carry.",
+      "exampleTranslation": "Valiz taşınamayacak kadar ağırdı."
+    },
+    {
+      "id": "luggage",
+      "type": "noun",
+      "word": "luggage",
+      "turkishMeaning": "bagaj",
+      "exampleSentence": "We left our luggage at the hotel.",
+      "exampleTranslation": "Bagajımızı otelde bıraktık."
+    },
+    {
+      "id": "map",
+      "type": "noun",
+      "word": "map",
+      "turkishMeaning": "harita",
+      "exampleSentence": "I marked the hotel on the map.",
+      "exampleTranslation": "Oteli haritada işaretledim."
+    },
+    {
+      "id": "road",
+      "type": "noun",
+      "word": "road",
+      "turkishMeaning": "yol",
+      "exampleSentence": "The road was closed after the storm.",
+      "exampleTranslation": "Fırtınadan sonra yol kapatıldı."
+    },
+    {
+      "id": "street",
+      "type": "noun",
+      "word": "street",
+      "turkishMeaning": "sokak",
+      "exampleSentence": "The street is just around the corner.",
+      "exampleTranslation": "Sokak köşeyi dönünce hemen orada."
+    },
+    {
+      "id": "bridge",
+      "type": "noun",
+      "word": "bridge",
+      "turkishMeaning": "köprü",
+      "exampleSentence": "We walked across the bridge.",
+      "exampleTranslation": "Yürüyerek köprüden geçtik."
+    },
+    {
+      "id": "crossing",
+      "type": "noun",
+      "word": "crossing",
+      "turkishMeaning": "yaya geçidi",
+      "exampleSentence": "Use the crossing to get to the other side.",
+      "exampleTranslation": "Karşıya geçmek için yaya geçidini kullan."
+    },
+    {
+      "id": "traffic",
+      "type": "noun",
+      "word": "traffic",
+      "turkishMeaning": "trafik",
+      "exampleSentence": "We were late because of the traffic.",
+      "exampleTranslation": "Trafik yüzünden geç kaldık."
+    },
+    {
+      "id": "journey",
+      "type": "noun",
+      "word": "journey",
+      "turkishMeaning": "yolculuk",
+      "exampleSentence": "The journey took three hours.",
+      "exampleTranslation": "Yolculuk üç saat sürdü."
+    },
+    {
+      "id": "entrance",
+      "type": "noun",
+      "word": "entrance",
+      "turkishMeaning": "giriş",
+      "exampleSentence": "The main entrance is on the left.",
+      "exampleTranslation": "Ana giriş solda."
+    },
+    {
+      "id": "exit",
+      "type": "noun",
+      "word": "exit",
+      "turkishMeaning": "çıkış",
+      "exampleSentence": "We asked where the exit was.",
+      "exampleTranslation": "Çıkış nerede diye sorduk."
+    },
+    {
+      "id": "hotel",
+      "type": "noun",
+      "word": "hotel",
+      "turkishMeaning": "otel",
+      "exampleSentence": "The hotel is just around the corner.",
+      "exampleTranslation": "Otel köşeyi dönünce hemen orada."
+    },
+    {
+      "id": "beach",
+      "type": "noun",
+      "word": "beach",
+      "turkishMeaning": "plaj",
+      "exampleSentence": "The beach is just around the corner.",
+      "exampleTranslation": "Plaj köşeyi dönünce hemen orada."
+    },
+    {
+      "id": "park",
+      "type": "noun",
+      "word": "park",
+      "turkishMeaning": "park",
+      "exampleSentence": "I waited near the park.",
+      "exampleTranslation": "Park yakınında bekledim."
+    },
+    {
+      "id": "museum",
+      "type": "noun",
+      "word": "museum",
+      "turkishMeaning": "müze",
+      "exampleSentence": "Can you show me the museum?",
+      "exampleTranslation": "Müzeyi bana gösterebilir misin?"
+    },
+    {
+      "id": "market",
+      "type": "noun",
+      "word": "market",
+      "turkishMeaning": "pazar",
+      "exampleSentence": "We asked where the market was.",
+      "exampleTranslation": "Pazar nerede diye sorduk."
+    },
+    {
+      "id": "pharmacy",
+      "type": "noun",
+      "word": "pharmacy",
+      "turkishMeaning": "eczane",
+      "exampleSentence": "The pharmacy is just around the corner.",
+      "exampleTranslation": "Eczane köşeyi dönünce hemen orada."
+    },
+    {
+      "id": "hospital",
+      "type": "noun",
+      "word": "hospital",
+      "turkishMeaning": "hastane",
+      "exampleSentence": "I waited near the hospital.",
+      "exampleTranslation": "Hastane yakınında bekledim."
+    },
+    {
+      "id": "library",
+      "type": "noun",
+      "word": "library",
+      "turkishMeaning": "kütüphane",
+      "exampleSentence": "Can you show me the library?",
+      "exampleTranslation": "Bana kütüphane gösterebilir misin?"
+    },
+    {
+      "id": "bakery",
+      "type": "noun",
+      "word": "bakery",
+      "turkishMeaning": "fırın dükkânı",
+      "exampleSentence": "This bakery sells fresh bread in the morning.",
+      "exampleTranslation": "Bu fırın sabahları taze ekmek satar."
+    },
+    {
+      "id": "bank",
+      "type": "noun",
+      "word": "bank",
+      "turkishMeaning": "banka",
+      "exampleSentence": "The bank is just around the corner.",
+      "exampleTranslation": "Banka köşeyi dönünce hemen orada."
+    },
+    {
+      "id": "restaurant",
+      "type": "noun",
+      "word": "restaurant",
+      "turkishMeaning": "restoran",
+      "exampleSentence": "I waited near the restaurant.",
+      "exampleTranslation": "Restoran yakınında bekledim."
+    },
+    {
+      "id": "caf",
+      "type": "noun",
+      "word": "café",
+      "turkishMeaning": "kafe",
+      "exampleSentence": "Can you show me the café?",
+      "exampleTranslation": "Bana kafe gösterebilir misin?"
+    },
+    {
+      "id": "cinema",
+      "type": "noun",
+      "word": "cinema",
+      "turkishMeaning": "sinema",
+      "exampleSentence": "We asked where the cinema was.",
+      "exampleTranslation": "Sinema nerede diye sorduk."
+    },
+    {
+      "id": "theater",
+      "type": "noun",
+      "word": "theater",
+      "turkishMeaning": "tiyatro",
+      "exampleSentence": "The theater is just around the corner.",
+      "exampleTranslation": "Tiyatro köşeyi dönünce hemen orada."
+    },
+    {
+      "id": "playground",
+      "type": "noun",
+      "word": "playground",
+      "turkishMeaning": "oyun alanı",
+      "exampleSentence": "Can you show me the playground?",
+      "exampleTranslation": "Bana oyun alanı gösterebilir misin?"
+    },
+    {
+      "id": "supermarket",
+      "type": "noun",
+      "word": "supermarket",
+      "turkishMeaning": "süpermarket",
+      "exampleSentence": "We asked where the supermarket was.",
+      "exampleTranslation": "Süpermarket nerede diye sorduk."
+    },
+    {
+      "id": "pen",
+      "type": "noun",
+      "word": "pen",
+      "turkishMeaning": "tükenmez kalem",
+      "exampleSentence": "Do you have a pen?",
+      "exampleTranslation": "Tükenmez kalem var mı?"
+    },
+    {
+      "id": "pencil",
+      "type": "noun",
+      "word": "pencil",
+      "turkishMeaning": "kurşun kalem",
+      "exampleSentence": "I used a pencil at school today.",
+      "exampleTranslation": "Bugün okulda kurşun kalem kullandım."
+    },
+    {
+      "id": "ruler",
+      "type": "noun",
+      "word": "ruler",
+      "turkishMeaning": "cetvel",
+      "exampleSentence": "I need a ruler for my next class.",
+      "exampleTranslation": "Sonraki dersim için cetvel lazım."
+    },
+    {
+      "id": "paper",
+      "type": "noun",
+      "word": "paper",
+      "turkishMeaning": "kâğıt",
+      "exampleSentence": "Do you have some paper?",
+      "exampleTranslation": "Kâğıt var mı?"
+    },
+    {
+      "id": "envelope",
+      "type": "noun",
+      "word": "envelope",
+      "turkishMeaning": "zarf",
+      "exampleSentence": "I used an envelope at school today.",
+      "exampleTranslation": "Bugün okulda zarf kullandım."
+    },
+    {
+      "id": "desk",
+      "type": "noun",
+      "word": "desk",
+      "turkishMeaning": "çalışma masası",
+      "exampleSentence": "Do you have a desk?",
+      "exampleTranslation": "Çalışma masası var mı?"
+    },
+    {
+      "id": "board",
+      "type": "noun",
+      "word": "board",
+      "turkishMeaning": "yazı tahtası",
+      "exampleSentence": "The teacher wrote the answer on the board.",
+      "exampleTranslation": "Öğretmen cevabı tahtaya yazdı."
+    },
+    {
+      "id": "lesson",
+      "type": "noun",
+      "word": "lesson",
+      "turkishMeaning": "ders",
+      "exampleSentence": "Our first lesson starts at nine.",
+      "exampleTranslation": "İlk dersimiz saat dokuzda başlıyor."
+    },
+    {
+      "id": "homework",
+      "type": "noun",
+      "word": "homework",
+      "turkishMeaning": "ev ödevi",
+      "exampleSentence": "I finished my homework after dinner.",
+      "exampleTranslation": "Ev ödevimi akşam yemeğinden sonra bitirdim."
+    },
+    {
+      "id": "classroom",
+      "type": "noun",
+      "word": "classroom",
+      "turkishMeaning": "sınıf",
+      "exampleSentence": "Our classroom is on the second floor.",
+      "exampleTranslation": "Sınıfımız ikinci katta."
+    },
+    {
+      "id": "teacher",
+      "type": "noun",
+      "word": "teacher",
+      "turkishMeaning": "öğretmen",
+      "exampleSentence": "Ask the teacher if you need help.",
+      "exampleTranslation": "Yardıma ihtiyacın varsa öğretmene sor."
+    },
+    {
+      "id": "student",
+      "type": "noun",
+      "word": "student",
+      "turkishMeaning": "öğrenci",
+      "exampleSentence": "A student left a bag in the hall.",
+      "exampleTranslation": "Bir öğrenci koridorda çanta bıraktı."
+    },
+    {
+      "id": "friend",
+      "type": "noun",
+      "word": "friend",
+      "turkishMeaning": "arkadaş",
+      "exampleSentence": "I met a friend after class.",
+      "exampleTranslation": "Dersten sonra bir arkadaşımla buluştum."
+    },
+    {
+      "id": "neighbor",
+      "type": "noun",
+      "word": "neighbor",
+      "turkishMeaning": "komşu",
+      "exampleSentence": "The neighbor helped us yesterday.",
+      "exampleTranslation": "Komşu dün bize yardım etti."
+    },
+    {
+      "id": "guest",
+      "type": "noun",
+      "word": "guest",
+      "turkishMeaning": "misafir",
+      "exampleSentence": "We talked to the guest after lunch.",
+      "exampleTranslation": "Öğle yemeğinden sonra misafir ile konuştuk."
+    },
+    {
+      "id": "customer",
+      "type": "noun",
+      "word": "customer",
+      "turkishMeaning": "müşteri",
+      "exampleSentence": "The customer paid in cash.",
+      "exampleTranslation": "Müşteri nakit ödedi."
+    },
+    {
+      "id": "cashier",
+      "type": "noun",
+      "word": "cashier",
+      "turkishMeaning": "kasiyer",
+      "exampleSentence": "The cashier gave me the receipt.",
+      "exampleTranslation": "Kasiyer bana fişi verdi."
+    },
+    {
+      "id": "driver",
+      "type": "noun",
+      "word": "driver",
+      "turkishMeaning": "sürücü",
+      "exampleSentence": "The driver helped us yesterday.",
+      "exampleTranslation": "Sürücü dün bize yardım etti."
+    },
+    {
+      "id": "nurse",
+      "type": "noun",
+      "word": "nurse",
+      "turkishMeaning": "hemşire",
+      "exampleSentence": "We talked to the nurse after lunch.",
+      "exampleTranslation": "Öğle yemeğinden sonra hemşire ile konuştuk."
+    },
+    {
+      "id": "doctor",
+      "type": "noun",
+      "word": "doctor",
+      "turkishMeaning": "doktor",
+      "exampleSentence": "The doctor told me to rest.",
+      "exampleTranslation": "Doktor bana dinlenmemi söyledi."
+    },
+    {
+      "id": "baker",
+      "type": "noun",
+      "word": "baker",
+      "turkishMeaning": "fırıncı",
+      "exampleSentence": "The baker starts work very early.",
+      "exampleTranslation": "Fırıncı işe çok erken başlar."
+    },
+    {
+      "id": "cook-noun",
+      "type": "noun",
+      "word": "cook",
+      "turkishMeaning": "aşçı",
+      "exampleSentence": "The cook helped us yesterday.",
+      "exampleTranslation": "Aşçı dün bize yardım etti."
+    },
+    {
+      "id": "manager",
+      "type": "noun",
+      "word": "manager",
+      "turkishMeaning": "yönetici",
+      "exampleSentence": "My manager is coming to dinner.",
+      "exampleTranslation": "Yönetici akşam yemeğine geliyor."
+    },
+    {
+      "id": "mother",
+      "type": "noun",
+      "word": "mother",
+      "turkishMeaning": "anne",
+      "exampleSentence": "My mother called me yesterday.",
+      "exampleTranslation": "Annem dün beni aradı."
+    },
+    {
+      "id": "father",
+      "type": "noun",
+      "word": "father",
+      "turkishMeaning": "baba",
+      "exampleSentence": "My father is coming to dinner.",
+      "exampleTranslation": "Babam akşam yemeğine geliyor."
+    },
+    {
+      "id": "sister",
+      "type": "noun",
+      "word": "sister",
+      "turkishMeaning": "kız kardeş",
+      "exampleSentence": "I spoke to my sister this morning.",
+      "exampleTranslation": "Bu sabah kız kardeşimle konuştum."
+    },
+    {
+      "id": "brother",
+      "type": "noun",
+      "word": "brother",
+      "turkishMeaning": "erkek kardeş",
+      "exampleSentence": "My brother helped us yesterday.",
+      "exampleTranslation": "Erkek kardeşim dün bize yardım etti."
+    },
+    {
+      "id": "daughter",
+      "type": "noun",
+      "word": "daughter",
+      "turkishMeaning": "kız evlat",
+      "exampleSentence": "Their daughter starts school next week.",
+      "exampleTranslation": "Kızları gelecek hafta okula başlıyor."
+    },
+    {
+      "id": "son",
+      "type": "noun",
+      "word": "son",
+      "turkishMeaning": "erkek evlat",
+      "exampleSentence": "My son is coming to dinner.",
+      "exampleTranslation": "Oğlum akşam yemeğine geliyor."
+    },
+    {
+      "id": "cousin",
+      "type": "noun",
+      "word": "cousin",
+      "turkishMeaning": "kuzen",
+      "exampleSentence": "I spoke to my cousin this morning.",
+      "exampleTranslation": "Bu sabah kuzenimle konuştum."
+    },
+    {
+      "id": "aunt",
+      "type": "noun",
+      "word": "aunt",
+      "turkishMeaning": "teyze veya hala",
+      "exampleSentence": "My aunt makes a delicious cake.",
+      "exampleTranslation": "Teyzem nefis kek yapar."
+    },
+    {
+      "id": "uncle",
+      "type": "noun",
+      "word": "uncle",
+      "turkishMeaning": "amca veya dayı",
+      "exampleSentence": "My uncle lives near the station.",
+      "exampleTranslation": "Dayım istasyonun yakınında oturuyor."
+    },
+    {
+      "id": "grandmother",
+      "type": "noun",
+      "word": "grandmother",
+      "turkishMeaning": "büyükanne",
+      "exampleSentence": "My grandmother is coming to dinner.",
+      "exampleTranslation": "Büyükannem akşam yemeğine geliyor."
+    },
+    {
+      "id": "grandfather",
+      "type": "noun",
+      "word": "grandfather",
+      "turkishMeaning": "büyükbaba",
+      "exampleSentence": "I spoke to my grandfather this morning.",
+      "exampleTranslation": "Bu sabah büyükbabamla konuştum."
+    },
+    {
+      "id": "baby",
+      "type": "noun",
+      "word": "baby",
+      "turkishMeaning": "bebek",
+      "exampleSentence": "The baby fell asleep in the car.",
+      "exampleTranslation": "Bebek arabada uyuyakaldı."
+    },
+    {
+      "id": "child",
+      "type": "noun",
+      "word": "child",
+      "turkishMeaning": "çocuk",
+      "exampleSentence": "We talked to the child after lunch.",
+      "exampleTranslation": "Öğle yemeğinden sonra çocuk ile konuştuk."
+    },
+    {
+      "id": "parent",
+      "type": "noun",
+      "word": "parent",
+      "turkishMeaning": "ebeveyn",
+      "exampleSentence": "Each child came with a parent.",
+      "exampleTranslation": "Her çocuk bir ebeveyniyle geldi."
+    },
+    {
+      "id": "family",
+      "type": "noun",
+      "word": "family",
+      "turkishMeaning": "aile",
+      "exampleSentence": "I spoke to my family this morning.",
+      "exampleTranslation": "Bu sabah ailemle konuştum."
+    },
+    {
+      "id": "birthday",
+      "type": "noun",
+      "word": "birthday",
+      "turkishMeaning": "doğum günü",
+      "exampleSentence": "Her birthday is in June.",
+      "exampleTranslation": "Doğum günü haziranda."
+    },
+    {
+      "id": "gift",
+      "type": "noun",
+      "word": "gift",
+      "turkishMeaning": "hediye",
+      "exampleSentence": "We bought a gift for the teacher.",
+      "exampleTranslation": "Öğretmen için bir hediye aldık."
+    },
+    {
+      "id": "party",
+      "type": "noun",
+      "word": "party",
+      "turkishMeaning": "parti",
+      "exampleSentence": "I made plans for the party.",
+      "exampleTranslation": "Parti için plan yaptım."
+    },
+    {
+      "id": "invitation",
+      "type": "noun",
+      "word": "invitation",
+      "turkishMeaning": "davet",
+      "exampleSentence": "Thank you for the invitation.",
+      "exampleTranslation": "Davet için teşekkür ederim."
+    },
+    {
+      "id": "holiday",
+      "type": "noun",
+      "word": "holiday",
+      "turkishMeaning": "tatil",
+      "exampleSentence": "We are planning a holiday by the sea.",
+      "exampleTranslation": "Deniz kıyısında bir tatil planlıyoruz."
+    },
+    {
+      "id": "morning",
+      "type": "noun",
+      "word": "morning",
+      "turkishMeaning": "sabah",
+      "exampleSentence": "See you in the morning.",
+      "exampleTranslation": "Sabah görüşürüz."
+    },
+    {
+      "id": "afternoon",
+      "type": "noun",
+      "word": "afternoon",
+      "turkishMeaning": "öğleden sonra",
+      "exampleSentence": "Call me this afternoon.",
+      "exampleTranslation": "Bugün öğleden sonra beni ara."
+    },
+    {
+      "id": "evening",
+      "type": "noun",
+      "word": "evening",
+      "turkishMeaning": "akşam",
+      "exampleSentence": "We usually eat at home in the evening.",
+      "exampleTranslation": "Akşamları genellikle evde yemek yeriz."
+    },
+    {
+      "id": "night",
+      "type": "noun",
+      "word": "night",
+      "turkishMeaning": "gece",
+      "exampleSentence": "It gets cold at night.",
+      "exampleTranslation": "Geceleri hava soğur."
+    },
+    {
+      "id": "week",
+      "type": "noun",
+      "word": "week",
+      "turkishMeaning": "hafta",
+      "exampleSentence": "I will see you next week.",
+      "exampleTranslation": "Gelecek hafta görüşürüz."
+    },
+    {
+      "id": "month",
+      "type": "noun",
+      "word": "month",
+      "turkishMeaning": "ay",
+      "exampleSentence": "I moved here last month.",
+      "exampleTranslation": "Buraya geçen ay taşındım."
+    },
+    {
+      "id": "year",
+      "type": "noun",
+      "word": "year",
+      "turkishMeaning": "yıl",
+      "exampleSentence": "She spent a year abroad.",
+      "exampleTranslation": "Yurt dışında bir yıl geçirdi."
+    },
+    {
+      "id": "weekend",
+      "type": "noun",
+      "word": "weekend",
+      "turkishMeaning": "hafta sonu",
+      "exampleSentence": "What did you do over the weekend?",
+      "exampleTranslation": "Hafta sonu ne yaptın?"
+    },
+    {
+      "id": "minute",
+      "type": "noun",
+      "word": "minute",
+      "turkishMeaning": "dakika",
+      "exampleSentence": "Wait a minute, please.",
+      "exampleTranslation": "Lütfen bir dakika bekle."
+    },
+    {
+      "id": "hour",
+      "type": "noun",
+      "word": "hour",
+      "turkishMeaning": "saat",
+      "exampleSentence": "The bus comes once an hour.",
+      "exampleTranslation": "Otobüs saatte bir geliyor."
+    },
+    {
+      "id": "weather",
+      "type": "noun",
+      "word": "weather",
+      "turkishMeaning": "hava durumu",
+      "exampleSentence": "The weather is nice today.",
+      "exampleTranslation": "Bugün hava güzel."
+    },
+    {
+      "id": "rain-noun",
+      "type": "noun",
+      "word": "rain",
+      "turkishMeaning": "yağmur",
+      "exampleSentence": "The rain stopped before lunch.",
+      "exampleTranslation": "Yağmur öğle yemeğinden önce durdu."
+    },
+    {
+      "id": "snow",
+      "type": "noun",
+      "word": "snow",
+      "turkishMeaning": "kar",
+      "exampleSentence": "The children played in the snow.",
+      "exampleTranslation": "Çocuklar karda oynadı."
+    },
+    {
+      "id": "wind",
+      "type": "noun",
+      "word": "wind",
+      "turkishMeaning": "rüzgâr",
+      "exampleSentence": "The wind opened the door.",
+      "exampleTranslation": "Rüzgâr kapıyı açtı."
+    },
+    {
+      "id": "cloud",
+      "type": "noun",
+      "word": "cloud",
+      "turkishMeaning": "bulut",
+      "exampleSentence": "A dark cloud covered the sun.",
+      "exampleTranslation": "Koyu bir bulut güneşi örttü."
+    },
+    {
+      "id": "sun",
+      "type": "noun",
+      "word": "sun",
+      "turkishMeaning": "güneş",
+      "exampleSentence": "The sun is behind the clouds.",
+      "exampleTranslation": "Güneş bulutların arkasında."
+    },
+    {
+      "id": "storm",
+      "type": "noun",
+      "word": "storm",
+      "turkishMeaning": "fırtına",
+      "exampleSentence": "The storm kept us indoors.",
+      "exampleTranslation": "Fırtına yüzünden dışarı çıkamadık."
+    },
+    {
+      "id": "temperature",
+      "type": "noun",
+      "word": "temperature",
+      "turkishMeaning": "sıcaklık",
+      "exampleSentence": "What is the temperature outside?",
+      "exampleTranslation": "Dışarıda sıcaklık kaç derece?"
+    },
+    {
+      "id": "season",
+      "type": "noun",
+      "word": "season",
+      "turkishMeaning": "mevsim",
+      "exampleSentence": "What is your favorite season?",
+      "exampleTranslation": "En sevdiğin mevsim hangisi?"
+    },
+    {
+      "id": "spring",
+      "type": "noun",
+      "word": "spring",
+      "turkishMeaning": "ilkbahar",
+      "exampleSentence": "Flowers bloom here in spring.",
+      "exampleTranslation": "Burada ilkbaharda çiçekler açar."
+    },
+    {
+      "id": "summer",
+      "type": "noun",
+      "word": "summer",
+      "turkishMeaning": "yaz",
+      "exampleSentence": "We often swim here in summer.",
+      "exampleTranslation": "Yazın burada sık sık yüzeriz."
+    },
+    {
+      "id": "autumn",
+      "type": "noun",
+      "word": "autumn",
+      "turkishMeaning": "sonbahar",
+      "exampleSentence": "The leaves turn yellow in autumn.",
+      "exampleTranslation": "Sonbaharda yapraklar sararır."
+    },
+    {
+      "id": "winter",
+      "type": "noun",
+      "word": "winter",
+      "turkishMeaning": "kış",
+      "exampleSentence": "It snows here in winter.",
+      "exampleTranslation": "Burada kışın kar yağar."
+    },
+    {
+      "id": "mountain",
+      "type": "noun",
+      "word": "mountain",
+      "turkishMeaning": "dağ",
+      "exampleSentence": "There is a mountain nearby.",
+      "exampleTranslation": "Yakınlarda dağ var."
+    },
+    {
+      "id": "hill",
+      "type": "noun",
+      "word": "hill",
+      "turkishMeaning": "tepe",
+      "exampleSentence": "We saw a hill during our walk.",
+      "exampleTranslation": "Yürüyüş sırasında tepe gördük."
+    },
+    {
+      "id": "river",
+      "type": "noun",
+      "word": "river",
+      "turkishMeaning": "nehir",
+      "exampleSentence": "There is a river nearby.",
+      "exampleTranslation": "Yakınlarda nehir var."
+    },
+    {
+      "id": "lake",
+      "type": "noun",
+      "word": "lake",
+      "turkishMeaning": "göl",
+      "exampleSentence": "We saw a lake during our walk.",
+      "exampleTranslation": "Yürüyüş sırasında göl gördük."
+    },
+    {
+      "id": "sea",
+      "type": "noun",
+      "word": "sea",
+      "turkishMeaning": "deniz",
+      "exampleSentence": "They live near the sea.",
+      "exampleTranslation": "Denize yakın bir yerde yaşıyorlar."
+    },
+    {
+      "id": "forest",
+      "type": "noun",
+      "word": "forest",
+      "turkishMeaning": "orman",
+      "exampleSentence": "We saw a forest during our walk.",
+      "exampleTranslation": "Yürüyüş sırasında orman gördük."
+    },
+    {
+      "id": "island",
+      "type": "noun",
+      "word": "island",
+      "turkishMeaning": "ada",
+      "exampleSentence": "There is an island nearby.",
+      "exampleTranslation": "Yakınlarda ada var."
+    },
+    {
+      "id": "tree",
+      "type": "noun",
+      "word": "tree",
+      "turkishMeaning": "ağaç",
+      "exampleSentence": "We saw a tree during our walk.",
+      "exampleTranslation": "Yürüyüş sırasında ağaç gördük."
+    },
+    {
+      "id": "flower",
+      "type": "noun",
+      "word": "flower",
+      "turkishMeaning": "çiçek",
+      "exampleSentence": "There is a flower nearby.",
+      "exampleTranslation": "Yakınlarda çiçek var."
+    },
+    {
+      "id": "grass",
+      "type": "noun",
+      "word": "grass",
+      "turkishMeaning": "çimen",
+      "exampleSentence": "Don’t walk on the wet grass.",
+      "exampleTranslation": "Islak çimenlerin üzerinde yürüme."
+    },
+    {
+      "id": "dog",
+      "type": "noun",
+      "word": "dog",
+      "turkishMeaning": "köpek",
+      "exampleSentence": "There was a dog in the field.",
+      "exampleTranslation": "Tarlada köpek vardı."
+    },
+    {
+      "id": "cat",
+      "type": "noun",
+      "word": "cat",
+      "turkishMeaning": "kedi",
+      "exampleSentence": "I saw a cat near the house.",
+      "exampleTranslation": "Evin yakınında kedi gördüm."
+    },
+    {
+      "id": "bird",
+      "type": "noun",
+      "word": "bird",
+      "turkishMeaning": "kuş",
+      "exampleSentence": "There was a bird in the field.",
+      "exampleTranslation": "Tarlada kuş vardı."
+    },
+    {
+      "id": "horse",
+      "type": "noun",
+      "word": "horse",
+      "turkishMeaning": "at",
+      "exampleSentence": "I saw a horse near the house.",
+      "exampleTranslation": "Evin yakınında at gördüm."
+    },
+    {
+      "id": "cow",
+      "type": "noun",
+      "word": "cow",
+      "turkishMeaning": "inek",
+      "exampleSentence": "There was a cow in the field.",
+      "exampleTranslation": "Tarlada inek vardı."
+    },
+    {
+      "id": "sheep",
+      "type": "noun",
+      "word": "sheep",
+      "turkishMeaning": "koyun",
+      "exampleSentence": "I saw a sheep near the house.",
+      "exampleTranslation": "Evin yakınında koyun gördüm."
+    },
+    {
+      "id": "rabbit",
+      "type": "noun",
+      "word": "rabbit",
+      "turkishMeaning": "tavşan",
+      "exampleSentence": "There was a rabbit in the field.",
+      "exampleTranslation": "Tarlada tavşan vardı."
+    },
+    {
+      "id": "phone",
+      "type": "noun",
+      "word": "phone",
+      "turkishMeaning": "telefon",
+      "exampleSentence": "I left my phone at home.",
+      "exampleTranslation": "Telefonumu evde unuttum."
+    },
+    {
+      "id": "charger",
+      "type": "noun",
+      "word": "charger",
+      "turkishMeaning": "şarj aleti",
+      "exampleSentence": "Can I borrow your charger?",
+      "exampleTranslation": "Şarj aletini ödünç alabilir miyim?"
+    },
+    {
+      "id": "screen",
+      "type": "noun",
+      "word": "screen",
+      "turkishMeaning": "ekran",
+      "exampleSentence": "The screen is too bright at night.",
+      "exampleTranslation": "Ekran geceleri fazla parlak."
+    },
+    {
+      "id": "keyboard",
+      "type": "noun",
+      "word": "keyboard",
+      "turkishMeaning": "klavye",
+      "exampleSentence": "My keyboard is missing a key.",
+      "exampleTranslation": "Klavyemin bir tuşu eksik."
+    },
+    {
+      "id": "open",
+      "type": "verb",
+      "word": "open",
+      "v2": "opened",
+      "v3": "opened",
+      "turkishMeaning": "açmak",
+      "exampleSentence": "Could you open the window?",
+      "exampleTranslation": "Pencereyi açabilir misin?"
+    },
+    {
+      "id": "close",
+      "type": "verb",
+      "word": "close",
+      "v2": "closed",
+      "v3": "closed",
+      "turkishMeaning": "kapatmak",
+      "exampleSentence": "Please close the door quietly.",
+      "exampleTranslation": "Lütfen kapıyı sessizce kapat."
+    },
+    {
+      "id": "arrive",
+      "type": "verb",
+      "word": "arrive",
+      "v2": "arrived",
+      "v3": "arrived",
+      "turkishMeaning": "varmak",
+      "exampleSentence": "We arrived at the hotel before dark.",
+      "exampleTranslation": "Hava kararmadan otele vardık."
+    },
+    {
+      "id": "wait",
+      "type": "verb",
+      "word": "wait",
+      "v2": "waited",
+      "v3": "waited",
+      "turkishMeaning": "beklemek",
+      "exampleSentence": "I waited outside for ten minutes.",
+      "exampleTranslation": "Dışarıda on dakika bekledim."
+    },
+    {
+      "id": "call",
+      "type": "verb",
+      "word": "call",
+      "v2": "called",
+      "v3": "called",
+      "turkishMeaning": "telefon etmek",
+      "exampleSentence": "I called the pharmacy this morning.",
+      "exampleTranslation": "Bu sabah eczaneyi aradım."
+    },
+    {
+      "id": "help",
+      "type": "verb",
+      "word": "help",
+      "v2": "helped",
+      "v3": "helped",
+      "turkishMeaning": "yardım etmek",
+      "exampleSentence": "Can you help me with this box?",
+      "exampleTranslation": "Bu kutuyla ilgili bana yardım edebilir misin?"
+    },
+    {
+      "id": "clean",
+      "type": "verb",
+      "word": "clean",
+      "v2": "cleaned",
+      "v3": "cleaned",
+      "turkishMeaning": "temizlemek",
+      "exampleSentence": "We cleaned the kitchen after breakfast.",
+      "exampleTranslation": "Kahvaltıdan sonra mutfağı temizledik."
+    },
+    {
+      "id": "wash",
+      "type": "verb",
+      "word": "wash",
+      "v2": "washed",
+      "v3": "washed",
+      "turkishMeaning": "yıkamak",
+      "exampleSentence": "She washed her hands before dinner.",
+      "exampleTranslation": "Akşam yemeğinden önce ellerini yıkadı."
+    },
+    {
+      "id": "cook-verb",
+      "type": "verb",
+      "word": "cook",
+      "v2": "cooked",
+      "v3": "cooked",
+      "turkishMeaning": "yemek pişirmek",
+      "exampleSentence": "He cooks for his family on Sundays.",
+      "exampleTranslation": "Pazar günleri ailesine yemek pişirir."
+    },
+    {
+      "id": "order",
+      "type": "verb",
+      "word": "order",
+      "v2": "ordered",
+      "v3": "ordered",
+      "turkishMeaning": "sipariş etmek",
+      "exampleSentence": "We ordered a pizza to share.",
+      "exampleTranslation": "Paylaşmak için bir pizza sipariş ettik."
+    },
+    {
+      "id": "visit",
+      "type": "verb",
+      "word": "visit",
+      "v2": "visited",
+      "v3": "visited",
+      "turkishMeaning": "ziyaret etmek",
+      "exampleSentence": "They visited their grandparents last weekend.",
+      "exampleTranslation": "Geçen hafta sonu büyükanne ve büyükbabalarını ziyaret ettiler."
+    },
+    {
+      "id": "walk",
+      "type": "verb",
+      "word": "walk",
+      "v2": "walked",
+      "v3": "walked",
+      "turkishMeaning": "yürümek",
+      "exampleSentence": "I walk to school when the weather is nice.",
+      "exampleTranslation": "Hava güzel olduğunda okula yürüyerek giderim."
+    },
+    {
+      "id": "dance",
+      "type": "verb",
+      "word": "dance",
+      "v2": "danced",
+      "v3": "danced",
+      "turkishMeaning": "dans etmek",
+      "exampleSentence": "We danced until midnight.",
+      "exampleTranslation": "Gece yarısına kadar dans ettik."
+    },
+    {
+      "id": "rain-verb",
+      "type": "verb",
+      "word": "rain",
+      "v2": "rained",
+      "v3": "rained",
+      "turkishMeaning": "yağmur yağmak",
+      "exampleSentence": "It rained all morning.",
+      "exampleTranslation": "Bütün sabah yağmur yağdı."
+    },
+    {
+      "id": "play",
+      "type": "verb",
+      "word": "play",
+      "v2": "played",
+      "v3": "played",
+      "turkishMeaning": "oynamak",
+      "exampleSentence": "The children played in the garden.",
+      "exampleTranslation": "Çocuklar bahçede oynadı."
+    },
+    {
+      "id": "watch-verb",
+      "type": "verb",
+      "word": "watch",
+      "v2": "watched",
+      "v3": "watched",
+      "turkishMeaning": "izlemek",
+      "exampleSentence": "We watched a film after dinner.",
+      "exampleTranslation": "Akşam yemeğinden sonra film izledik."
+    },
+    {
+      "id": "change",
+      "type": "verb",
+      "word": "change",
+      "v2": "changed",
+      "v3": "changed",
+      "turkishMeaning": "değiştirmek",
+      "exampleSentence": "She changed her seat to sit by the window.",
+      "exampleTranslation": "Pencere kenarında oturmak için yerini değiştirdi."
+    },
+    {
+      "id": "carry",
+      "type": "verb",
+      "word": "carry",
+      "v2": "carried",
+      "v3": "carried",
+      "turkishMeaning": "taşımak",
+      "exampleSentence": "He carried the bags upstairs.",
+      "exampleTranslation": "Çantaları üst kata taşıdı."
+    },
+    {
+      "id": "check",
+      "type": "verb",
+      "word": "check",
+      "v2": "checked",
+      "v3": "checked",
+      "turkishMeaning": "kontrol etmek",
+      "exampleSentence": "I checked the address before leaving.",
+      "exampleTranslation": "Çıkmadan önce adresi kontrol ettim."
+    },
+    {
+      "id": "repair",
+      "type": "verb",
+      "word": "repair",
+      "v2": "repaired",
+      "v3": "repaired",
+      "turkishMeaning": "onarmak",
+      "exampleSentence": "They repaired my bicycle yesterday.",
+      "exampleTranslation": "Dün bisikletimi onardılar."
+    },
+    {
+      "id": "hungry",
+      "type": "adjective",
+      "word": "hungry",
+      "turkishMeaning": "aç",
+      "exampleSentence": "Are you hungry after the walk?",
+      "exampleTranslation": "Yürüyüşten sonra acıktın mı?"
+    },
+    {
+      "id": "thirsty",
+      "type": "adjective",
+      "word": "thirsty",
+      "turkishMeaning": "susamış",
+      "exampleSentence": "I always get thirsty on long bike rides.",
+      "exampleTranslation": "Uzun bisiklet gezilerinde hep susarım."
+    },
+    {
+      "id": "tired",
+      "type": "adjective",
+      "word": "tired",
+      "turkishMeaning": "yorgun",
+      "exampleSentence": "I felt tired after work.",
+      "exampleTranslation": "İşten sonra kendimi yorgun hissettim."
+    },
+    {
+      "id": "busy",
+      "type": "adjective",
+      "word": "busy",
+      "turkishMeaning": "meşgul",
+      "exampleSentence": "I am busy until three today.",
+      "exampleTranslation": "Bugün saat üçe kadar meşgulüm."
+    },
+    {
+      "id": "ready",
+      "type": "adjective",
+      "word": "ready",
+      "turkishMeaning": "hazır",
+      "exampleSentence": "Dinner will be ready in ten minutes.",
+      "exampleTranslation": "Yemek on dakikaya hazır olacak."
+    },
+    {
+      "id": "warm",
+      "type": "adjective",
+      "word": "warm",
+      "turkishMeaning": "ılık",
+      "exampleSentence": "The water is still warm.",
+      "exampleTranslation": "Su hâlâ ılık."
+    },
+    {
+      "id": "cold",
+      "type": "adjective",
+      "word": "cold",
+      "turkishMeaning": "soğuk",
+      "exampleSentence": "My coffee is cold now.",
+      "exampleTranslation": "Kahvem artık soğuk."
+    },
+    {
+      "id": "cheap",
+      "type": "adjective",
+      "word": "cheap",
+      "turkishMeaning": "ucuz",
+      "exampleSentence": "This bus ticket is quite cheap.",
+      "exampleTranslation": "Bu otobüs bileti oldukça ucuz."
+    },
+    {
+      "id": "expensive",
+      "type": "adjective",
+      "word": "expensive",
+      "turkishMeaning": "pahalı",
+      "exampleSentence": "The blue jacket is too expensive.",
+      "exampleTranslation": "Mavi ceket çok pahalı."
+    },
+    {
+      "id": "crowded",
+      "type": "adjective",
+      "word": "crowded",
+      "turkishMeaning": "kalabalık",
+      "exampleSentence": "The train is crowded in the morning.",
+      "exampleTranslation": "Tren sabahları kalabalık oluyor."
+    },
+    {
+      "id": "empty",
+      "type": "adjective",
+      "word": "empty",
+      "turkishMeaning": "boş",
+      "exampleSentence": "There is an empty seat by the window.",
+      "exampleTranslation": "Pencerenin yanında boş bir koltuk var."
+    },
+    {
+      "id": "comfortable",
+      "type": "adjective",
+      "word": "comfortable",
+      "turkishMeaning": "rahat",
+      "exampleSentence": "These shoes are comfortable for walking.",
+      "exampleTranslation": "Bu ayakkabılar yürüyüş için rahat."
+    },
+    {
+      "id": "friendly",
+      "type": "adjective",
+      "word": "friendly",
+      "turkishMeaning": "cana yakın",
+      "exampleSentence": "Our new neighbor is very friendly.",
+      "exampleTranslation": "Yeni komşumuz çok cana yakın."
+    },
+    {
+      "id": "careful",
+      "type": "adjective",
+      "word": "careful",
+      "turkishMeaning": "dikkatli",
+      "exampleSentence": "Be careful on the wet stairs.",
+      "exampleTranslation": "Islak merdivenlerde dikkatli ol."
+    },
+    {
+      "id": "always",
+      "type": "adverb",
+      "word": "always",
+      "turkishMeaning": "her zaman",
+      "exampleSentence": "I always check my bag before leaving.",
+      "exampleTranslation": "Çıkmadan önce çantamı her zaman kontrol ederim."
+    },
+    {
+      "id": "usually",
+      "type": "adverb",
+      "word": "usually",
+      "turkishMeaning": "genellikle",
+      "exampleSentence": "We usually have lunch at home.",
+      "exampleTranslation": "Genellikle öğle yemeğini evde yeriz."
+    },
+    {
+      "id": "sometimes",
+      "type": "adverb",
+      "word": "sometimes",
+      "turkishMeaning": "bazen",
+      "exampleSentence": "Sometimes I walk home from work.",
+      "exampleTranslation": "Bazen işten eve yürürüm."
+    },
+    {
+      "id": "never",
+      "type": "adverb",
+      "word": "never",
+      "turkishMeaning": "hiçbir zaman",
+      "exampleSentence": "I never leave my phone in the car.",
+      "exampleTranslation": "Telefonumu arabada hiçbir zaman bırakmam."
+    },
+    {
+      "id": "already",
+      "type": "adverb",
+      "word": "already",
+      "turkishMeaning": "çoktan",
+      "exampleSentence": "The bus has already left.",
+      "exampleTranslation": "Otobüs çoktan gitti."
+    },
+    {
+      "id": "together",
+      "type": "adverb",
+      "word": "together",
+      "turkishMeaning": "birlikte",
+      "exampleSentence": "We cooked dinner together.",
+      "exampleTranslation": "Akşam yemeğini birlikte pişirdik."
+    }
+  ]
+}

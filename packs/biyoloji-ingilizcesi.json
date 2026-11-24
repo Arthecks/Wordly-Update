@@ -1,0 +1,1608 @@
+{
+  "schema": 1,
+  "id": "biyoloji-ingilizcesi",
+  "revision": 1,
+  "name": "Biyoloji İngilizcesi",
+  "words": [
+    {
+      "id": "cell-membrane",
+      "type": "noun",
+      "word": "cell membrane",
+      "turkishMeaning": "hücre zarı",
+      "exampleSentence": "The cell membrane regulates what enters and leaves the cell.",
+      "exampleTranslation": "Hücre zarı hücreye neyin girip çıktığını düzenler."
+    },
+    {
+      "id": "cytoplasm",
+      "type": "noun",
+      "word": "cytoplasm",
+      "turkishMeaning": "sitoplazma",
+      "exampleSentence": "Cytoplasm includes the cytosol and the structures suspended in it.",
+      "exampleTranslation": "Sitoplazma sitozolü ve onun içinde asılı bulunan yapıları kapsar."
+    },
+    {
+      "id": "cytosol",
+      "type": "noun",
+      "word": "cytosol",
+      "turkishMeaning": "sitozol",
+      "exampleSentence": "Cytosol is the fluid component of the cytoplasm.",
+      "exampleTranslation": "Sitozol sitoplazmanın sıvı bileşenidir."
+    },
+    {
+      "id": "nucleus",
+      "type": "noun",
+      "word": "nucleus",
+      "turkishMeaning": "çekirdek",
+      "exampleSentence": "The nucleus houses most of the DNA in a eukaryotic cell.",
+      "exampleTranslation": "Çekirdek ökaryot hücredeki DNA’nın büyük bölümünü barındırır."
+    },
+    {
+      "id": "nucleolus",
+      "type": "noun",
+      "word": "nucleolus",
+      "turkishMeaning": "çekirdekçik",
+      "exampleSentence": "The nucleolus is a major site of ribosomal RNA production.",
+      "exampleTranslation": "Çekirdekçik ribozomal RNA üretiminin başlıca gerçekleştiği yerlerden biridir."
+    },
+    {
+      "id": "organelle",
+      "type": "noun",
+      "word": "organelle",
+      "turkishMeaning": "organel",
+      "exampleSentence": "The organelle performs a specialized function within a cell.",
+      "exampleTranslation": "Organel hücre içinde özelleşmiş bir işlev görür."
+    },
+    {
+      "id": "mitochondrion",
+      "type": "noun",
+      "word": "mitochondrion",
+      "turkishMeaning": "mitokondri",
+      "exampleSentence": "The mitochondrion generates much of the ATP used by many eukaryotic cells.",
+      "exampleTranslation": "Mitokondri birçok ökaryot hücrenin kullandığı ATP’nin büyük bölümünü üretir."
+    },
+    {
+      "id": "chloroplast",
+      "type": "noun",
+      "word": "chloroplast",
+      "turkishMeaning": "kloroplast",
+      "exampleSentence": "The chloroplast carries out photosynthesis in plant cells.",
+      "exampleTranslation": "Kloroplast bitki hücrelerinde fotosentezi gerçekleştirir."
+    },
+    {
+      "id": "ribosome",
+      "type": "noun",
+      "word": "ribosome",
+      "turkishMeaning": "ribozom",
+      "exampleSentence": "The ribosome links amino acids during protein synthesis.",
+      "exampleTranslation": "Ribozom protein sentezinde amino asitleri birbirine bağlar."
+    },
+    {
+      "id": "endoplasmic-reticulum",
+      "type": "noun",
+      "word": "endoplasmic reticulum",
+      "turkishMeaning": "endoplazmik retikulum",
+      "exampleSentence": "The endoplasmic reticulum forms a network of membranes in eukaryotic cells.",
+      "exampleTranslation": "Endoplazmik retikulum ökaryot hücrelerde bir zar ağı oluşturur."
+    },
+    {
+      "id": "golgi-apparatus",
+      "type": "noun",
+      "word": "Golgi apparatus",
+      "turkishMeaning": "Golgi aygıtı",
+      "exampleSentence": "The Golgi apparatus modifies and sorts many proteins.",
+      "exampleTranslation": "Golgi aygıtı birçok proteini değiştirir ve sınıflandırır."
+    },
+    {
+      "id": "lysosome",
+      "type": "noun",
+      "word": "lysosome",
+      "turkishMeaning": "lizozom",
+      "exampleSentence": "The lysosome contains enzymes that break down cellular material.",
+      "exampleTranslation": "Lizozom hücresel maddeleri parçalayan enzimler içerir."
+    },
+    {
+      "id": "peroxisome",
+      "type": "noun",
+      "word": "peroxisome",
+      "turkishMeaning": "peroksizom",
+      "exampleSentence": "The peroxisome participates in fatty acid breakdown and peroxide metabolism.",
+      "exampleTranslation": "Peroksizom yağ asidi yıkımına ve peroksit metabolizmasına katılır."
+    },
+    {
+      "id": "vacuole",
+      "type": "noun",
+      "word": "vacuole",
+      "turkishMeaning": "koful",
+      "exampleSentence": "The vacuole can store water and solutes in plant cells.",
+      "exampleTranslation": "Koful bitki hücrelerinde su ve çözünmüş maddeleri depolayabilir."
+    },
+    {
+      "id": "vesicle",
+      "type": "noun",
+      "word": "vesicle",
+      "turkishMeaning": "vezikül",
+      "exampleSentence": "The vesicle can carry material between cellular compartments.",
+      "exampleTranslation": "Vezikül hücre bölmeleri arasında madde taşıyabilir."
+    },
+    {
+      "id": "cell-wall",
+      "type": "noun",
+      "word": "cell wall",
+      "turkishMeaning": "hücre duvarı",
+      "exampleSentence": "The cell wall provides structural support in plants and fungi.",
+      "exampleTranslation": "Hücre duvarı bitki ve mantarlarda yapısal destek sağlar."
+    },
+    {
+      "id": "cytoskeleton",
+      "type": "noun",
+      "word": "cytoskeleton",
+      "turkishMeaning": "hücre iskeleti",
+      "exampleSentence": "The cytoskeleton helps a cell maintain its shape.",
+      "exampleTranslation": "Hücre iskeleti hücrenin şeklini korumasına yardımcı olur."
+    },
+    {
+      "id": "microtubule",
+      "type": "noun",
+      "word": "microtubule",
+      "turkishMeaning": "mikrotübül",
+      "exampleSentence": "The microtubule is a tubular polymer of tubulin.",
+      "exampleTranslation": "Mikrotübül tübülinden oluşan tüp biçimli bir polimerdir."
+    },
+    {
+      "id": "actin-filament",
+      "type": "noun",
+      "word": "actin filament",
+      "turkishMeaning": "aktin filamenti",
+      "exampleSentence": "The actin filament helps drive changes in cell shape.",
+      "exampleTranslation": "Aktin filamenti hücre şeklinin değişmesine katkıda bulunur."
+    },
+    {
+      "id": "centrosome",
+      "type": "noun",
+      "word": "centrosome",
+      "turkishMeaning": "sentrozom",
+      "exampleSentence": "The centrosome organizes microtubules in many animal cells.",
+      "exampleTranslation": "Sentrozom birçok hayvan hücresinde mikrotübülleri düzenler."
+    },
+    {
+      "id": "cilium",
+      "type": "noun",
+      "word": "cilium",
+      "turkishMeaning": "silyum",
+      "exampleSentence": "The cilium can move fluid across a cell surface.",
+      "exampleTranslation": "Silyum hücre yüzeyinde sıvıyı hareket ettirebilir."
+    },
+    {
+      "id": "flagellum",
+      "type": "noun",
+      "word": "flagellum",
+      "turkishMeaning": "kamçı",
+      "exampleSentence": "The flagellum can propel a cell through a liquid.",
+      "exampleTranslation": "Kamçı bir hücreyi sıvı içinde ilerletebilir."
+    },
+    {
+      "id": "prokaryote",
+      "type": "noun",
+      "word": "prokaryote",
+      "turkishMeaning": "prokaryot",
+      "exampleSentence": "The prokaryote lacks a membrane-bound nucleus.",
+      "exampleTranslation": "Prokaryot zarla çevrili bir çekirdeğe sahip değildir."
+    },
+    {
+      "id": "eukaryote",
+      "type": "noun",
+      "word": "eukaryote",
+      "turkishMeaning": "ökaryot",
+      "exampleSentence": "The eukaryote has cells that typically contain a nucleus.",
+      "exampleTranslation": "Ökaryot genellikle çekirdek içeren hücrelere sahiptir."
+    },
+    {
+      "id": "phospholipid",
+      "type": "noun",
+      "word": "phospholipid",
+      "turkishMeaning": "fosfolipit",
+      "exampleSentence": "The phospholipid is a major component of cell membranes.",
+      "exampleTranslation": "Fosfolipit hücre zarlarının başlıca bileşenlerinden biridir."
+    },
+    {
+      "id": "bilayer",
+      "type": "noun",
+      "word": "bilayer",
+      "turkishMeaning": "çift katman",
+      "exampleSentence": "The bilayer forms when many phospholipids arrange in two sheets.",
+      "exampleTranslation": "Çift katman çok sayıda fosfolipit iki tabaka hâlinde dizildiğinde oluşur."
+    },
+    {
+      "id": "diffusion",
+      "type": "noun",
+      "word": "diffusion",
+      "turkishMeaning": "difüzyon",
+      "exampleSentence": "In diffusion, particles move down a concentration gradient overall.",
+      "exampleTranslation": "Difüzyonda parçacıkların net hareketi, derişimin yüksek olduğu bölgeden düşük olduğu bölgeye doğrudur."
+    },
+    {
+      "id": "osmosis",
+      "type": "noun",
+      "word": "osmosis",
+      "turkishMeaning": "ozmoz",
+      "exampleSentence": "Osmosis is the net movement of water through a selectively permeable membrane.",
+      "exampleTranslation": "Ozmoz suyun seçici geçirgen bir zardan net hareketidir."
+    },
+    {
+      "id": "active-transport",
+      "type": "noun",
+      "word": "active transport",
+      "turkishMeaning": "aktif taşıma",
+      "exampleSentence": "Active transport requires an energy source to move solutes against a gradient.",
+      "exampleTranslation": "Aktif taşıma çözünen maddeleri gradyana karşı taşımak için enerji kaynağı gerektirir."
+    },
+    {
+      "id": "facilitated-diffusion",
+      "type": "noun",
+      "word": "facilitated diffusion",
+      "turkishMeaning": "kolaylaştırılmış difüzyon",
+      "exampleSentence": "Facilitated diffusion uses membrane proteins without directly consuming metabolic energy.",
+      "exampleTranslation": "Kolaylaştırılmış difüzyon doğrudan metabolik enerji tüketmeden zar proteinlerini kullanır."
+    },
+    {
+      "id": "ion-channel",
+      "type": "noun",
+      "word": "ion channel",
+      "turkishMeaning": "iyon kanalı",
+      "exampleSentence": "The ion channel allows particular ions to cross a membrane.",
+      "exampleTranslation": "İyon kanalı belirli iyonların bir zarı geçmesine izin verir."
+    },
+    {
+      "id": "membrane-potential",
+      "type": "noun",
+      "word": "membrane potential",
+      "turkishMeaning": "zar potansiyeli",
+      "exampleSentence": "The membrane potential reflects a voltage difference across a membrane.",
+      "exampleTranslation": "Zar potansiyeli zarın iki tarafı arasındaki gerilim farkını yansıtır."
+    },
+    {
+      "id": "endocytosis",
+      "type": "noun",
+      "word": "endocytosis",
+      "turkishMeaning": "endositoz",
+      "exampleSentence": "Endocytosis brings material into the cell in vesicles.",
+      "exampleTranslation": "Endositoz maddeyi veziküller içinde hücreye alır."
+    },
+    {
+      "id": "exocytosis",
+      "type": "noun",
+      "word": "exocytosis",
+      "turkishMeaning": "ekzositoz",
+      "exampleSentence": "Exocytosis releases material when a vesicle fuses with the plasma membrane.",
+      "exampleTranslation": "Ekzositoz bir vezikül plazma zarıyla birleştiğinde maddeyi dışarı bırakır."
+    },
+    {
+      "id": "phagocytosis",
+      "type": "noun",
+      "word": "phagocytosis",
+      "turkishMeaning": "fagositoz",
+      "exampleSentence": "Phagocytosis allows some cells to engulf large particles.",
+      "exampleTranslation": "Fagositoz bazı hücrelerin büyük parçacıkları içine almasını sağlar."
+    },
+    {
+      "id": "homeostasis",
+      "type": "noun",
+      "word": "homeostasis",
+      "turkishMeaning": "homeostaz",
+      "exampleSentence": "Homeostasis helps maintain relatively stable internal conditions.",
+      "exampleTranslation": "Homeostaz iç koşulların görece kararlı kalmasına yardımcı olur."
+    },
+    {
+      "id": "signal-transduction",
+      "type": "noun",
+      "word": "signal transduction",
+      "turkishMeaning": "sinyal iletimi",
+      "exampleSentence": "Signal transduction converts an incoming signal into a cellular response.",
+      "exampleTranslation": "Sinyal iletimi gelen bir sinyali hücresel yanıta dönüştürür."
+    },
+    {
+      "id": "receptor",
+      "type": "noun",
+      "word": "receptor",
+      "turkishMeaning": "reseptör",
+      "exampleSentence": "The receptor can bind a specific signaling molecule.",
+      "exampleTranslation": "Reseptör belirli bir sinyal molekülüne bağlanabilir."
+    },
+    {
+      "id": "ligand",
+      "type": "noun",
+      "word": "ligand",
+      "turkishMeaning": "ligand",
+      "exampleSentence": "The ligand binds to a target such as a receptor.",
+      "exampleTranslation": "Ligand reseptör gibi bir hedefe bağlanır."
+    },
+    {
+      "id": "apoptosis",
+      "type": "noun",
+      "word": "apoptosis",
+      "turkishMeaning": "apoptoz",
+      "exampleSentence": "Apoptosis is a regulated form of cell death.",
+      "exampleTranslation": "Apoptoz düzenlenmiş bir hücre ölümü biçimidir."
+    },
+    {
+      "id": "cell-cycle",
+      "type": "noun",
+      "word": "cell cycle",
+      "turkishMeaning": "hücre döngüsü",
+      "exampleSentence": "The cell cycle includes stages of cell growth and division.",
+      "exampleTranslation": "Hücre döngüsü hücre büyümesi ve bölünmesinin evrelerini kapsar."
+    },
+    {
+      "id": "interphase",
+      "type": "noun",
+      "word": "interphase",
+      "turkishMeaning": "interfaz",
+      "exampleSentence": "Interphase includes the phase in which DNA is copied.",
+      "exampleTranslation": "İnterfaz DNA’nın kopyalandığı evreyi kapsar."
+    },
+    {
+      "id": "mitosis",
+      "type": "noun",
+      "word": "mitosis",
+      "turkishMeaning": "mitoz",
+      "exampleSentence": "Mitosis separates replicated chromosomes into daughter nuclei.",
+      "exampleTranslation": "Mitoz eşlenmiş kromozomları yavru çekirdeklere ayırır."
+    },
+    {
+      "id": "meiosis",
+      "type": "noun",
+      "word": "meiosis",
+      "turkishMeaning": "mayoz",
+      "exampleSentence": "Meiosis reduces chromosome number in sexually reproducing organisms.",
+      "exampleTranslation": "Mayoz eşeyli üreyen canlılarda kromozom sayısını azaltır."
+    },
+    {
+      "id": "cytokinesis",
+      "type": "noun",
+      "word": "cytokinesis",
+      "turkishMeaning": "sitokinez",
+      "exampleSentence": "Cytokinesis divides the cytoplasm between daughter cells.",
+      "exampleTranslation": "Sitokinez sitoplazmayı yavru hücreler arasında böler."
+    },
+    {
+      "id": "chromosome",
+      "type": "noun",
+      "word": "chromosome",
+      "turkishMeaning": "kromozom",
+      "exampleSentence": "The chromosome contains DNA packaged with associated proteins in eukaryotes.",
+      "exampleTranslation": "Kromozom ökaryotlarda ilişkili proteinlerle paketlenmiş DNA içerir."
+    },
+    {
+      "id": "chromatid",
+      "type": "noun",
+      "word": "chromatid",
+      "turkishMeaning": "kromatit",
+      "exampleSentence": "The chromatid is one of the copies of a replicated chromosome.",
+      "exampleTranslation": "Kromatit eşlenmiş bir kromozomun kopyalarından biridir."
+    },
+    {
+      "id": "centromere",
+      "type": "noun",
+      "word": "centromere",
+      "turkishMeaning": "sentromer",
+      "exampleSentence": "The centromere is the region where the kinetochore assembles.",
+      "exampleTranslation": "Sentromer kinetokorun kurulduğu bölgedir."
+    },
+    {
+      "id": "telomere",
+      "type": "noun",
+      "word": "telomere",
+      "turkishMeaning": "telomer",
+      "exampleSentence": "The telomere helps protect the end of a linear chromosome.",
+      "exampleTranslation": "Telomer doğrusal bir kromozomun ucunu korumaya yardımcı olur."
+    },
+    {
+      "id": "chromatin",
+      "type": "noun",
+      "word": "chromatin",
+      "turkishMeaning": "kromatin",
+      "exampleSentence": "Chromatin consists of DNA and associated proteins.",
+      "exampleTranslation": "Kromatin DNA ve ilişkili proteinlerden oluşur."
+    },
+    {
+      "id": "histone",
+      "type": "noun",
+      "word": "histone",
+      "turkishMeaning": "histon",
+      "exampleSentence": "The histone helps package DNA into chromatin.",
+      "exampleTranslation": "Histon DNA’nın kromatin hâlinde paketlenmesine yardımcı olur."
+    },
+    {
+      "id": "gene",
+      "type": "noun",
+      "word": "gene",
+      "turkishMeaning": "gen",
+      "exampleSentence": "The gene can encode a functional RNA or a protein product.",
+      "exampleTranslation": "Gen işlevsel bir RNA’yı veya bir protein ürününü kodlayabilir."
+    },
+    {
+      "id": "allele",
+      "type": "noun",
+      "word": "allele",
+      "turkishMeaning": "alel",
+      "exampleSentence": "The allele is a variant of a gene at a particular locus.",
+      "exampleTranslation": "Alel belirli bir lokustaki gen varyantıdır."
+    },
+    {
+      "id": "locus",
+      "type": "noun",
+      "word": "locus",
+      "turkishMeaning": "lokus",
+      "exampleSentence": "The locus specifies a position in the genome.",
+      "exampleTranslation": "Lokus genomda bir konumu belirtir."
+    },
+    {
+      "id": "genome",
+      "type": "noun",
+      "word": "genome",
+      "turkishMeaning": "genom",
+      "exampleSentence": "The genome includes the complete genetic material of an organism.",
+      "exampleTranslation": "Genom bir canlının tüm genetik materyalini kapsar."
+    },
+    {
+      "id": "genotype",
+      "type": "noun",
+      "word": "genotype",
+      "turkishMeaning": "genotip",
+      "exampleSentence": "The genotype describes the genetic constitution of an individual.",
+      "exampleTranslation": "Genotip bireyin genetik yapısını tanımlar."
+    },
+    {
+      "id": "phenotype",
+      "type": "noun",
+      "word": "phenotype",
+      "turkishMeaning": "fenotip",
+      "exampleSentence": "The phenotype reflects observable traits influenced by genes and environment.",
+      "exampleTranslation": "Fenotip genlerin ve çevrenin etkilediği gözlenebilir özellikleri yansıtır."
+    },
+    {
+      "id": "homozygote",
+      "type": "noun",
+      "word": "homozygote",
+      "turkishMeaning": "homozigot birey",
+      "exampleSentence": "The homozygote carries identical alleles at a given locus.",
+      "exampleTranslation": "Homozigot birey belirli bir lokusta aynı alelleri taşır."
+    },
+    {
+      "id": "heterozygote",
+      "type": "noun",
+      "word": "heterozygote",
+      "turkishMeaning": "heterozigot birey",
+      "exampleSentence": "The heterozygote carries different alleles at a given locus.",
+      "exampleTranslation": "Heterozigot birey belirli bir lokusta farklı aleller taşır."
+    },
+    {
+      "id": "haploid",
+      "type": "adjective",
+      "word": "haploid",
+      "turkishMeaning": "haploit",
+      "exampleSentence": "A haploid cell contains one set of chromosomes.",
+      "exampleTranslation": "Haploit hücre tek kromozom takımı taşır."
+    },
+    {
+      "id": "diploid",
+      "type": "adjective",
+      "word": "diploid",
+      "turkishMeaning": "diploit",
+      "exampleSentence": "A diploid cell contains two sets of chromosomes.",
+      "exampleTranslation": "Diploit hücre iki kromozom takımı taşır."
+    },
+    {
+      "id": "mutation",
+      "type": "noun",
+      "word": "mutation",
+      "turkishMeaning": "mutasyon",
+      "exampleSentence": "The mutation changes the sequence of genetic material.",
+      "exampleTranslation": "Mutasyon genetik materyalin dizisini değiştirir."
+    },
+    {
+      "id": "substitution",
+      "type": "noun",
+      "word": "substitution",
+      "turkishMeaning": "baz değişimi",
+      "exampleSentence": "The substitution replaces one nucleotide with another.",
+      "exampleTranslation": "Baz değişimi bir nükleotidin yerine başka bir nükleotit koyar."
+    },
+    {
+      "id": "insertion",
+      "type": "noun",
+      "word": "insertion",
+      "turkishMeaning": "eklenme",
+      "exampleSentence": "The insertion adds nucleotides to a DNA sequence.",
+      "exampleTranslation": "Eklenme DNA dizisine nükleotit ekler."
+    },
+    {
+      "id": "deletion",
+      "type": "noun",
+      "word": "deletion",
+      "turkishMeaning": "silinme",
+      "exampleSentence": "The deletion removes nucleotides from a DNA sequence.",
+      "exampleTranslation": "Silinme DNA dizisinden nükleotit çıkarır."
+    },
+    {
+      "id": "recombination",
+      "type": "noun",
+      "word": "recombination",
+      "turkishMeaning": "rekombinasyon",
+      "exampleSentence": "Recombination can produce new combinations of alleles.",
+      "exampleTranslation": "Rekombinasyon yeni alel kombinasyonları oluşturabilir."
+    },
+    {
+      "id": "crossing-over",
+      "type": "noun",
+      "word": "crossing over",
+      "turkishMeaning": "parça değişimi",
+      "exampleSentence": "Crossing over can exchange DNA between homologous chromosomes during meiosis.",
+      "exampleTranslation": "Parça değişimi mayoz sırasında homolog kromozomlar arasında DNA alışverişi sağlayabilir."
+    },
+    {
+      "id": "genetic-linkage",
+      "type": "noun",
+      "word": "genetic linkage",
+      "turkishMeaning": "genetik bağlantı",
+      "exampleSentence": "Genetic linkage makes nearby loci tend to be inherited together.",
+      "exampleTranslation": "Genetik bağlantı birbirine yakın lokusların birlikte kalıtılma eğilimini artırır."
+    },
+    {
+      "id": "segregation",
+      "type": "noun",
+      "word": "segregation",
+      "turkishMeaning": "alellerin ayrılması",
+      "exampleSentence": "Segregation separates paired alleles during gamete formation.",
+      "exampleTranslation": "Alellerin ayrılması gamet oluşumu sırasında eşleşmiş alelleri ayırır."
+    },
+    {
+      "id": "gamete",
+      "type": "noun",
+      "word": "gamete",
+      "turkishMeaning": "gamet",
+      "exampleSentence": "The gamete can fuse with another gamete during fertilization.",
+      "exampleTranslation": "Gamet döllenme sırasında başka bir gametle birleşebilir."
+    },
+    {
+      "id": "zygote",
+      "type": "noun",
+      "word": "zygote",
+      "turkishMeaning": "zigot",
+      "exampleSentence": "The zygote forms when gametes fuse.",
+      "exampleTranslation": "Zigot gametler birleştiğinde oluşur."
+    },
+    {
+      "id": "fertilization",
+      "type": "noun",
+      "word": "fertilization",
+      "turkishMeaning": "döllenme",
+      "exampleSentence": "Fertilization combines genetic material from two gametes.",
+      "exampleTranslation": "Döllenme iki gametin genetik materyalini bir araya getirir."
+    },
+    {
+      "id": "dna-replication",
+      "type": "noun",
+      "word": "DNA replication",
+      "turkishMeaning": "DNA eşlenmesi",
+      "exampleSentence": "DNA replication copies DNA before cell division.",
+      "exampleTranslation": "DNA eşlenmesi hücre bölünmesinden önce DNA’yı kopyalar."
+    },
+    {
+      "id": "transcription",
+      "type": "noun",
+      "word": "transcription",
+      "turkishMeaning": "transkripsiyon",
+      "exampleSentence": "Transcription uses a DNA template to produce RNA.",
+      "exampleTranslation": "Transkripsiyon RNA üretmek için DNA kalıbı kullanır."
+    },
+    {
+      "id": "translation",
+      "type": "noun",
+      "word": "translation",
+      "turkishMeaning": "translasyon",
+      "exampleSentence": "Translation uses information in messenger RNA to make a polypeptide.",
+      "exampleTranslation": "Translasyon polipeptit üretmek için haberci RNA’daki bilgiyi kullanır."
+    },
+    {
+      "id": "codon",
+      "type": "noun",
+      "word": "codon",
+      "turkishMeaning": "kodon",
+      "exampleSentence": "The codon is a group of three nucleotides read during translation.",
+      "exampleTranslation": "Kodon translasyonda okunan üç nükleotitlik bir gruptur."
+    },
+    {
+      "id": "anticodon",
+      "type": "noun",
+      "word": "anticodon",
+      "turkishMeaning": "antikodon",
+      "exampleSentence": "The anticodon pairs with a complementary codon in messenger RNA.",
+      "exampleTranslation": "Antikodon haberci RNA’daki tamamlayıcı kodonla eşleşir."
+    },
+    {
+      "id": "promoter",
+      "type": "noun",
+      "word": "promoter",
+      "turkishMeaning": "promotör",
+      "exampleSentence": "The promoter helps determine where transcription starts.",
+      "exampleTranslation": "Promotör transkripsiyonun nerede başlayacağını belirlemeye yardımcı olur."
+    },
+    {
+      "id": "exon",
+      "type": "noun",
+      "word": "exon",
+      "turkishMeaning": "ekzon",
+      "exampleSentence": "The exon is retained in a mature RNA after splicing.",
+      "exampleTranslation": "Ekzon uçbirleştirmeden sonra olgun RNA’da kalır."
+    },
+    {
+      "id": "intron",
+      "type": "noun",
+      "word": "intron",
+      "turkishMeaning": "intron",
+      "exampleSentence": "The intron is removed from a precursor RNA during splicing.",
+      "exampleTranslation": "İntron uçbirleştirme sırasında öncül RNA’dan çıkarılır."
+    },
+    {
+      "id": "rna-splicing",
+      "type": "noun",
+      "word": "RNA splicing",
+      "turkishMeaning": "RNA uçbirleştirmesi",
+      "exampleSentence": "RNA splicing removes introns from many precursor RNAs.",
+      "exampleTranslation": "RNA uçbirleştirmesi birçok öncül RNA’dan intronları çıkarır."
+    },
+    {
+      "id": "messenger-rna",
+      "type": "noun",
+      "word": "messenger RNA",
+      "turkishMeaning": "haberci RNA",
+      "exampleSentence": "Messenger RNA carries coding information to ribosomes.",
+      "exampleTranslation": "Haberci RNA kodlama bilgisini ribozomlara taşır."
+    },
+    {
+      "id": "transfer-rna",
+      "type": "noun",
+      "word": "transfer RNA",
+      "turkishMeaning": "taşıyıcı RNA",
+      "exampleSentence": "Transfer RNA delivers an amino acid during translation.",
+      "exampleTranslation": "Taşıyıcı RNA translasyon sırasında bir amino asit getirir."
+    },
+    {
+      "id": "ribosomal-rna",
+      "type": "noun",
+      "word": "ribosomal RNA",
+      "turkishMeaning": "ribozomal RNA",
+      "exampleSentence": "Ribosomal RNA forms structural and catalytic parts of ribosomes.",
+      "exampleTranslation": "Ribozomal RNA ribozomların yapısal ve katalitik kısımlarını oluşturur."
+    },
+    {
+      "id": "nucleotide",
+      "type": "noun",
+      "word": "nucleotide",
+      "turkishMeaning": "nükleotit",
+      "exampleSentence": "The nucleotide contains a base, a sugar and at least one phosphate group.",
+      "exampleTranslation": "Nükleotit bir baz, bir şeker ve en az bir fosfat grubu içerir."
+    },
+    {
+      "id": "amino-acid",
+      "type": "noun",
+      "word": "amino acid",
+      "turkishMeaning": "amino asit",
+      "exampleSentence": "The amino acid serves as a building block of proteins.",
+      "exampleTranslation": "Amino asit proteinlerin yapı taşı olarak işlev görür."
+    },
+    {
+      "id": "peptide-bond",
+      "type": "noun",
+      "word": "peptide bond",
+      "turkishMeaning": "peptit bağı",
+      "exampleSentence": "The peptide bond links amino acids in a polypeptide.",
+      "exampleTranslation": "Peptit bağı bir polipeptitte amino asitleri birbirine bağlar."
+    },
+    {
+      "id": "polypeptide",
+      "type": "noun",
+      "word": "polypeptide",
+      "turkishMeaning": "polipeptit",
+      "exampleSentence": "The polypeptide consists of amino acids joined by peptide bonds.",
+      "exampleTranslation": "Polipeptit peptit bağlarıyla birleşmiş amino asitlerden oluşur."
+    },
+    {
+      "id": "enzyme",
+      "type": "noun",
+      "word": "enzyme",
+      "turkishMeaning": "enzim",
+      "exampleSentence": "The enzyme speeds up a biochemical reaction.",
+      "exampleTranslation": "Enzim biyokimyasal bir tepkimeyi hızlandırır."
+    },
+    {
+      "id": "substrate",
+      "type": "noun",
+      "word": "substrate",
+      "turkishMeaning": "substrat",
+      "exampleSentence": "The substrate binds to an enzyme in a catalyzed reaction.",
+      "exampleTranslation": "Substrat katalizlenen bir tepkimede enzime bağlanır."
+    },
+    {
+      "id": "active-site",
+      "type": "noun",
+      "word": "active site",
+      "turkishMeaning": "aktif bölge",
+      "exampleSentence": "The active site is the part of an enzyme where catalysis occurs.",
+      "exampleTranslation": "Aktif bölge enzimin katalizin gerçekleştiği bölümüdür."
+    },
+    {
+      "id": "cofactor",
+      "type": "noun",
+      "word": "cofactor",
+      "turkishMeaning": "kofaktör",
+      "exampleSentence": "The cofactor assists certain enzymes in catalysis.",
+      "exampleTranslation": "Kofaktör bazı enzimlere katalizde yardımcı olur."
+    },
+    {
+      "id": "coenzyme",
+      "type": "noun",
+      "word": "coenzyme",
+      "turkishMeaning": "koenzim",
+      "exampleSentence": "The coenzyme is an organic cofactor that helps an enzyme function.",
+      "exampleTranslation": "Koenzim enzimin çalışmasına yardımcı olan organik bir kofaktördür."
+    },
+    {
+      "id": "competitive-inhibition",
+      "type": "noun",
+      "word": "competitive inhibition",
+      "turkishMeaning": "yarışmalı inhibisyon",
+      "exampleSentence": "Competitive inhibition occurs when an inhibitor competes with a substrate for binding.",
+      "exampleTranslation": "Yarışmalı inhibisyon inhibitör bağlanmak için substratla yarıştığında gerçekleşir."
+    },
+    {
+      "id": "allosteric-regulation",
+      "type": "noun",
+      "word": "allosteric regulation",
+      "turkishMeaning": "allosterik düzenleme",
+      "exampleSentence": "Allosteric regulation changes activity through binding at a site distinct from the active site.",
+      "exampleTranslation": "Allosterik düzenleme aktif bölgeden farklı bir yere bağlanma yoluyla etkinliği değiştirir."
+    },
+    {
+      "id": "denaturation",
+      "type": "noun",
+      "word": "denaturation",
+      "turkishMeaning": "denatürasyon",
+      "exampleSentence": "Denaturation disrupts the native structure of a protein.",
+      "exampleTranslation": "Denatürasyon proteinin doğal yapısını bozar."
+    },
+    {
+      "id": "metabolism",
+      "type": "noun",
+      "word": "metabolism",
+      "turkishMeaning": "metabolizma",
+      "exampleSentence": "Metabolism encompasses the chemical reactions of a living system.",
+      "exampleTranslation": "Metabolizma canlı bir sistemdeki kimyasal tepkimeleri kapsar."
+    },
+    {
+      "id": "catabolism",
+      "type": "noun",
+      "word": "catabolism",
+      "turkishMeaning": "katabolizma",
+      "exampleSentence": "Catabolism breaks larger molecules into smaller ones.",
+      "exampleTranslation": "Katabolizma büyük molekülleri daha küçük moleküllere parçalar."
+    },
+    {
+      "id": "anabolism",
+      "type": "noun",
+      "word": "anabolism",
+      "turkishMeaning": "anabolizma",
+      "exampleSentence": "Anabolism builds complex molecules from simpler components.",
+      "exampleTranslation": "Anabolizma basit bileşenlerden karmaşık moleküller oluşturur."
+    },
+    {
+      "id": "glycolysis",
+      "type": "noun",
+      "word": "glycolysis",
+      "turkishMeaning": "glikoliz",
+      "exampleSentence": "Glycolysis converts glucose to pyruvate through a series of reactions.",
+      "exampleTranslation": "Glikoliz glikozu bir dizi tepkimeyle pirüvata dönüştürür."
+    },
+    {
+      "id": "citric-acid-cycle",
+      "type": "noun",
+      "word": "citric acid cycle",
+      "turkishMeaning": "sitrik asit döngüsü",
+      "exampleSentence": "The citric acid cycle oxidizes acetyl groups and produces reduced electron carriers.",
+      "exampleTranslation": "Sitrik asit döngüsü asetil gruplarını yükseltger ve indirgenmiş elektron taşıyıcıları üretir."
+    },
+    {
+      "id": "electron-transport-chain",
+      "type": "noun",
+      "word": "electron transport chain",
+      "turkishMeaning": "elektron taşıma zinciri",
+      "exampleSentence": "The electron transport chain transfers electrons through a series of carriers.",
+      "exampleTranslation": "Elektron taşıma zinciri elektronları bir dizi taşıyıcı üzerinden aktarır."
+    },
+    {
+      "id": "oxidative-phosphorylation",
+      "type": "noun",
+      "word": "oxidative phosphorylation",
+      "turkishMeaning": "oksidatif fosforilasyon",
+      "exampleSentence": "Oxidative phosphorylation couples electron transport to ATP production through a proton gradient.",
+      "exampleTranslation": "Oksidatif fosforilasyon proton gradyanı aracılığıyla elektron taşınmasını ATP üretimine bağlar."
+    },
+    {
+      "id": "atp-synthase",
+      "type": "noun",
+      "word": "ATP synthase",
+      "turkishMeaning": "ATP sentaz",
+      "exampleSentence": "ATP synthase can use a proton gradient to synthesize ATP.",
+      "exampleTranslation": "ATP sentaz, ATP sentezlemek için proton gradyanı kullanabilir."
+    },
+    {
+      "id": "fermentation",
+      "type": "noun",
+      "word": "fermentation",
+      "turkishMeaning": "fermantasyon",
+      "exampleSentence": "Fermentation can regenerate NAD⁺ without a respiratory electron transport chain.",
+      "exampleTranslation": "Fermantasyon solunuma ait bir elektron taşıma zinciri olmadan NAD⁺’ı yenileyebilir."
+    },
+    {
+      "id": "cellular-respiration",
+      "type": "noun",
+      "word": "cellular respiration",
+      "turkishMeaning": "hücresel solunum",
+      "exampleSentence": "Cellular respiration transfers energy from fuel molecules into forms cells can use.",
+      "exampleTranslation": "Hücresel solunum yakıt moleküllerindeki enerjiyi hücrenin kullanabileceği biçimlere aktarır."
+    },
+    {
+      "id": "photosynthesis",
+      "type": "noun",
+      "word": "photosynthesis",
+      "turkishMeaning": "fotosentez",
+      "exampleSentence": "Photosynthesis uses light energy to drive the formation of organic compounds.",
+      "exampleTranslation": "Fotosentez organik bileşikler oluşturmak için ışık enerjisi kullanır."
+    },
+    {
+      "id": "chlorophyll",
+      "type": "noun",
+      "word": "chlorophyll",
+      "turkishMeaning": "klorofil",
+      "exampleSentence": "Chlorophyll absorbs light for photosynthesis.",
+      "exampleTranslation": "Klorofil fotosentez için ışığı soğurur."
+    },
+    {
+      "id": "thylakoid",
+      "type": "noun",
+      "word": "thylakoid",
+      "turkishMeaning": "tilakoit",
+      "exampleSentence": "The thylakoid contains the machinery for light-dependent reactions in chloroplasts.",
+      "exampleTranslation": "Tilakoit kloroplastlarda ışığa bağımlı tepkimeleri yürüten bileşenleri içerir."
+    },
+    {
+      "id": "stroma",
+      "type": "noun",
+      "word": "stroma",
+      "turkishMeaning": "stroma",
+      "exampleSentence": "The stroma surrounds thylakoids inside a chloroplast.",
+      "exampleTranslation": "Stroma kloroplast içinde tilakoitleri çevreler."
+    },
+    {
+      "id": "carbon-fixation",
+      "type": "noun",
+      "word": "carbon fixation",
+      "turkishMeaning": "karbon fiksasyonu",
+      "exampleSentence": "Carbon fixation incorporates inorganic carbon into organic molecules.",
+      "exampleTranslation": "Karbon fiksasyonu inorganik karbonu organik moleküllere katar."
+    },
+    {
+      "id": "calvin-cycle",
+      "type": "noun",
+      "word": "Calvin cycle",
+      "turkishMeaning": "Calvin döngüsü",
+      "exampleSentence": "The Calvin cycle uses ATP and NADPH to assimilate carbon dioxide.",
+      "exampleTranslation": "Calvin döngüsü karbondioksiti özümlemek için ATP ve NADPH kullanır."
+    },
+    {
+      "id": "carbohydrate",
+      "type": "noun",
+      "word": "carbohydrate",
+      "turkishMeaning": "karbonhidrat",
+      "exampleSentence": "The carbohydrate can serve as a source of energy or as structural material.",
+      "exampleTranslation": "Karbonhidrat enerji kaynağı veya yapısal malzeme olarak kullanılabilir."
+    },
+    {
+      "id": "monosaccharide",
+      "type": "noun",
+      "word": "monosaccharide",
+      "turkishMeaning": "monosakkarit",
+      "exampleSentence": "The monosaccharide is a single sugar unit such as glucose.",
+      "exampleTranslation": "Monosakkarit glikoz gibi tek bir şeker birimidir."
+    },
+    {
+      "id": "polysaccharide",
+      "type": "noun",
+      "word": "polysaccharide",
+      "turkishMeaning": "polisakkarit",
+      "exampleSentence": "The polysaccharide contains many linked monosaccharide units.",
+      "exampleTranslation": "Polisakkarit birbirine bağlanmış çok sayıda monosakkarit birimi içerir."
+    },
+    {
+      "id": "glycogen",
+      "type": "noun",
+      "word": "glycogen",
+      "turkishMeaning": "glikojen",
+      "exampleSentence": "Glycogen stores glucose in animals and many microorganisms.",
+      "exampleTranslation": "Glikojen hayvanlarda ve birçok mikroorganizmada glikozu depolar."
+    },
+    {
+      "id": "starch",
+      "type": "noun",
+      "word": "starch",
+      "turkishMeaning": "nişasta",
+      "exampleSentence": "Starch stores carbohydrate in plants.",
+      "exampleTranslation": "Nişasta bitkilerde karbonhidrat depolar."
+    },
+    {
+      "id": "cellulose",
+      "type": "noun",
+      "word": "cellulose",
+      "turkishMeaning": "selüloz",
+      "exampleSentence": "Cellulose provides strength to plant cell walls.",
+      "exampleTranslation": "Selüloz bitki hücre duvarlarına dayanıklılık kazandırır."
+    },
+    {
+      "id": "lipid",
+      "type": "noun",
+      "word": "lipid",
+      "turkishMeaning": "lipit",
+      "exampleSentence": "The lipid can store energy or contribute to membrane structure.",
+      "exampleTranslation": "Lipit enerji depolayabilir veya zar yapısına katkıda bulunabilir."
+    },
+    {
+      "id": "fatty-acid",
+      "type": "noun",
+      "word": "fatty acid",
+      "turkishMeaning": "yağ asidi",
+      "exampleSentence": "The fatty acid has a hydrocarbon chain and a carboxyl group.",
+      "exampleTranslation": "Yağ asidi bir hidrokarbon zinciri ve karboksil grubu taşır."
+    },
+    {
+      "id": "triglyceride",
+      "type": "noun",
+      "word": "triglyceride",
+      "turkishMeaning": "trigliserit",
+      "exampleSentence": "The triglyceride contains three fatty acids esterified to glycerol.",
+      "exampleTranslation": "Trigliserit gliserole ester bağıyla bağlı üç yağ asidi içerir."
+    },
+    {
+      "id": "steroid",
+      "type": "noun",
+      "word": "steroid",
+      "turkishMeaning": "steroit",
+      "exampleSentence": "The steroid has a characteristic core of four fused rings.",
+      "exampleTranslation": "Steroit birleşik dört halkadan oluşan tipik bir çekirdek yapıya sahiptir."
+    },
+    {
+      "id": "cholesterol",
+      "type": "noun",
+      "word": "cholesterol",
+      "turkishMeaning": "kolesterol",
+      "exampleSentence": "Cholesterol helps regulate membrane fluidity in animal cells.",
+      "exampleTranslation": "Kolesterol hayvan hücrelerinde zar akışkanlığını düzenlemeye yardımcı olur."
+    },
+    {
+      "id": "nucleic-acid",
+      "type": "noun",
+      "word": "nucleic acid",
+      "turkishMeaning": "nükleik asit",
+      "exampleSentence": "The nucleic acid consists of linked nucleotide units.",
+      "exampleTranslation": "Nükleik asit birbirine bağlı nükleotit birimlerinden oluşur."
+    },
+    {
+      "id": "hydrogen-bond",
+      "type": "noun",
+      "word": "hydrogen bond",
+      "turkishMeaning": "hidrojen bağı",
+      "exampleSentence": "The hydrogen bond helps stabilize complementary base pairs in DNA.",
+      "exampleTranslation": "Hidrojen bağı DNA’daki tamamlayıcı baz çiftlerinin kararlılığına katkıda bulunur."
+    },
+    {
+      "id": "oxidation",
+      "type": "noun",
+      "word": "oxidation",
+      "turkishMeaning": "yükseltgenme",
+      "exampleSentence": "Oxidation involves the loss of electrons.",
+      "exampleTranslation": "Yükseltgenme elektron kaybı içerir."
+    },
+    {
+      "id": "reduction",
+      "type": "noun",
+      "word": "reduction",
+      "turkishMeaning": "indirgenme",
+      "exampleSentence": "Reduction involves the gain of electrons.",
+      "exampleTranslation": "İndirgenme elektron kazanımı içerir."
+    },
+    {
+      "id": "buffer",
+      "type": "noun",
+      "word": "buffer",
+      "turkishMeaning": "tampon çözelti",
+      "exampleSentence": "The buffer resists changes in pH when small amounts of acid or base are added.",
+      "exampleTranslation": "Tampon çözelti az miktarda asit veya baz eklendiğinde pH değişimine karşı koyar."
+    },
+    {
+      "id": "concentration-gradient",
+      "type": "noun",
+      "word": "concentration gradient",
+      "turkishMeaning": "derişim gradyanı",
+      "exampleSentence": "The concentration gradient describes how concentration changes across space.",
+      "exampleTranslation": "Derişim gradyanı derişimin konuma göre nasıl değiştiğini tanımlar."
+    },
+    {
+      "id": "epithelium",
+      "type": "noun",
+      "word": "epithelium",
+      "turkishMeaning": "epitel",
+      "exampleSentence": "The epithelium covers surfaces and lines many internal cavities.",
+      "exampleTranslation": "Epitel yüzeyleri örter ve birçok iç boşluğun içini döşer."
+    },
+    {
+      "id": "connective-tissue",
+      "type": "noun",
+      "word": "connective tissue",
+      "turkishMeaning": "bağ dokusu",
+      "exampleSentence": "The connective tissue supports and connects other tissues.",
+      "exampleTranslation": "Bağ dokusu diğer dokuları destekler ve birbirine bağlar."
+    },
+    {
+      "id": "extracellular-matrix",
+      "type": "noun",
+      "word": "extracellular matrix",
+      "turkishMeaning": "hücre dışı matriks",
+      "exampleSentence": "Extracellular matrix provides structural support and signals to cells.",
+      "exampleTranslation": "Hücre dışı matriks hücrelere yapısal destek ve sinyal sağlar."
+    },
+    {
+      "id": "collagen",
+      "type": "noun",
+      "word": "collagen",
+      "turkishMeaning": "kolajen",
+      "exampleSentence": "Collagen contributes tensile strength to many connective tissues.",
+      "exampleTranslation": "Kolajen birçok bağ dokusuna çekme dayanıklılığı kazandırır."
+    },
+    {
+      "id": "stem-cell",
+      "type": "noun",
+      "word": "stem cell",
+      "turkishMeaning": "kök hücre",
+      "exampleSentence": "The stem cell can self-renew and give rise to specialized cells.",
+      "exampleTranslation": "Kök hücre kendini yenileyebilir ve özelleşmiş hücreler oluşturabilir."
+    },
+    {
+      "id": "differentiation",
+      "type": "noun",
+      "word": "differentiation",
+      "turkishMeaning": "farklılaşma",
+      "exampleSentence": "Differentiation produces cells with specialized structures and functions.",
+      "exampleTranslation": "Farklılaşma özelleşmiş yapı ve işlevleri olan hücreler oluşturur."
+    },
+    {
+      "id": "neuron",
+      "type": "noun",
+      "word": "neuron",
+      "turkishMeaning": "nöron",
+      "exampleSentence": "The neuron transmits information using electrical and chemical signals.",
+      "exampleTranslation": "Nöron elektriksel ve kimyasal sinyallerle bilgi iletir."
+    },
+    {
+      "id": "axon",
+      "type": "noun",
+      "word": "axon",
+      "turkishMeaning": "akson",
+      "exampleSentence": "The axon conducts signals away from a neuron’s cell body.",
+      "exampleTranslation": "Akson sinyalleri nöronun hücre gövdesinden uzağa iletir."
+    },
+    {
+      "id": "dendrite",
+      "type": "noun",
+      "word": "dendrite",
+      "turkishMeaning": "dendrit",
+      "exampleSentence": "The dendrite receives many of the inputs to a neuron.",
+      "exampleTranslation": "Dendrit nörona gelen girdilerin çoğunu alır."
+    },
+    {
+      "id": "synapse",
+      "type": "noun",
+      "word": "synapse",
+      "turkishMeaning": "sinaps",
+      "exampleSentence": "The synapse is a junction that allows communication between cells.",
+      "exampleTranslation": "Sinaps hücreler arasında iletişime olanak veren bir bağlantıdır."
+    },
+    {
+      "id": "neurotransmitter",
+      "type": "noun",
+      "word": "neurotransmitter",
+      "turkishMeaning": "nörotransmiter",
+      "exampleSentence": "The neurotransmitter carries a signal across a chemical synapse.",
+      "exampleTranslation": "Nörotransmiter kimyasal sinapstan bir sinyal taşır."
+    },
+    {
+      "id": "action-potential",
+      "type": "noun",
+      "word": "action potential",
+      "turkishMeaning": "aksiyon potansiyeli",
+      "exampleSentence": "The action potential is a rapid, transient change in membrane voltage.",
+      "exampleTranslation": "Aksiyon potansiyeli zar gerilimindeki hızlı ve geçici bir değişimdir."
+    },
+    {
+      "id": "myelin",
+      "type": "noun",
+      "word": "myelin",
+      "turkishMeaning": "miyelin",
+      "exampleSentence": "Myelin helps electrical signals travel faster along many axons.",
+      "exampleTranslation": "Miyelin elektriksel sinyallerin birçok akson boyunca daha hızlı ilerlemesine yardımcı olur."
+    },
+    {
+      "id": "hormone",
+      "type": "noun",
+      "word": "hormone",
+      "turkishMeaning": "hormon",
+      "exampleSentence": "The hormone can act as a chemical messenger between tissues.",
+      "exampleTranslation": "Hormon dokular arasında kimyasal haberci olarak görev yapabilir."
+    },
+    {
+      "id": "endocrine-gland",
+      "type": "noun",
+      "word": "endocrine gland",
+      "turkishMeaning": "endokrin bez",
+      "exampleSentence": "The endocrine gland releases hormones into the circulation.",
+      "exampleTranslation": "Endokrin bez hormonları dolaşıma salgılar."
+    },
+    {
+      "id": "hemoglobin",
+      "type": "noun",
+      "word": "hemoglobin",
+      "turkishMeaning": "hemoglobin",
+      "exampleSentence": "Hemoglobin transports oxygen in red blood cells.",
+      "exampleTranslation": "Hemoglobin alyuvarlarda oksijen taşır."
+    },
+    {
+      "id": "erythrocyte",
+      "type": "noun",
+      "word": "erythrocyte",
+      "turkishMeaning": "eritrosit",
+      "exampleSentence": "The erythrocyte is a red blood cell specialized for gas transport.",
+      "exampleTranslation": "Eritrosit gaz taşımaya özelleşmiş bir alyuvardır."
+    },
+    {
+      "id": "leukocyte",
+      "type": "noun",
+      "word": "leukocyte",
+      "turkishMeaning": "lökosit",
+      "exampleSentence": "The leukocyte takes part in immune defense.",
+      "exampleTranslation": "Lökosit bağışıklık savunmasına katılır."
+    },
+    {
+      "id": "platelet",
+      "type": "noun",
+      "word": "platelet",
+      "turkishMeaning": "trombosit",
+      "exampleSentence": "The platelet helps form a plug at a damaged blood vessel.",
+      "exampleTranslation": "Trombosit hasarlı kan damarında tıkaç oluşturmaya yardımcı olur."
+    },
+    {
+      "id": "plasma",
+      "type": "noun",
+      "word": "plasma",
+      "turkishMeaning": "kan plazması",
+      "exampleSentence": "Plasma is the liquid portion of blood.",
+      "exampleTranslation": "Kan plazması kanın sıvı bölümüdür."
+    },
+    {
+      "id": "capillary",
+      "type": "noun",
+      "word": "capillary",
+      "turkishMeaning": "kılcal damar",
+      "exampleSentence": "The capillary allows exchange between blood and surrounding tissue.",
+      "exampleTranslation": "Kılcal damar kan ile çevre doku arasında madde alışverişine olanak sağlar."
+    },
+    {
+      "id": "artery",
+      "type": "noun",
+      "word": "artery",
+      "turkishMeaning": "atardamar",
+      "exampleSentence": "The artery carries blood away from the heart.",
+      "exampleTranslation": "Atardamar kanı kalpten uzağa taşır."
+    },
+    {
+      "id": "vein",
+      "type": "noun",
+      "word": "vein",
+      "turkishMeaning": "toplardamar",
+      "exampleSentence": "The vein returns blood toward the heart.",
+      "exampleTranslation": "Toplardamar kanı kalbe doğru geri taşır."
+    },
+    {
+      "id": "alveolus",
+      "type": "noun",
+      "word": "alveolus",
+      "turkishMeaning": "alveol",
+      "exampleSentence": "The alveolus provides a surface for gas exchange in the lung.",
+      "exampleTranslation": "Alveol akciğerde gaz alışverişi için bir yüzey sağlar."
+    },
+    {
+      "id": "nephron",
+      "type": "noun",
+      "word": "nephron",
+      "turkishMeaning": "nefron",
+      "exampleSentence": "The nephron is a functional unit of the kidney.",
+      "exampleTranslation": "Nefron böbreğin işlevsel bir birimidir."
+    },
+    {
+      "id": "glomerulus",
+      "type": "noun",
+      "word": "glomerulus",
+      "turkishMeaning": "glomerül",
+      "exampleSentence": "The glomerulus filters part of the blood plasma into the nephron.",
+      "exampleTranslation": "Glomerül kan plazmasının bir bölümünü nefrona süzer."
+    },
+    {
+      "id": "antigen",
+      "type": "noun",
+      "word": "antigen",
+      "turkishMeaning": "antijen",
+      "exampleSentence": "The antigen is recognized by antibodies or antigen-specific receptors.",
+      "exampleTranslation": "Antijen antikorlar veya antijene özgü reseptörler tarafından tanınır."
+    },
+    {
+      "id": "antibody",
+      "type": "noun",
+      "word": "antibody",
+      "turkishMeaning": "antikor",
+      "exampleSentence": "The antibody binds to a specific region of an antigen.",
+      "exampleTranslation": "Antikor antijenin belirli bir bölgesine bağlanır."
+    },
+    {
+      "id": "innate-immunity",
+      "type": "noun",
+      "word": "innate immunity",
+      "turkishMeaning": "doğuştan bağışıklık",
+      "exampleSentence": "Innate immunity provides rapid defense using broadly reactive mechanisms.",
+      "exampleTranslation": "Doğuştan bağışıklık geniş kapsamlı mekanizmalarla hızlı savunma sağlar."
+    },
+    {
+      "id": "adaptive-immunity",
+      "type": "noun",
+      "word": "adaptive immunity",
+      "turkishMeaning": "edinilmiş bağışıklık",
+      "exampleSentence": "Adaptive immunity can generate antigen-specific responses and immune memory.",
+      "exampleTranslation": "Edinilmiş bağışıklık antijene özgü yanıt ve bağışıklık belleği oluşturabilir."
+    },
+    {
+      "id": "lymphocyte",
+      "type": "noun",
+      "word": "lymphocyte",
+      "turkishMeaning": "lenfosit",
+      "exampleSentence": "A lymphocyte is a type of white blood cell.",
+      "exampleTranslation": "Lenfosit bir akyuvar türüdür."
+    },
+    {
+      "id": "macrophage",
+      "type": "noun",
+      "word": "macrophage",
+      "turkishMeaning": "makrofaj",
+      "exampleSentence": "The macrophage can engulf microbes and cellular debris.",
+      "exampleTranslation": "Makrofaj mikropları ve hücre kalıntılarını içine alabilir."
+    },
+    {
+      "id": "inflammation",
+      "type": "noun",
+      "word": "inflammation",
+      "turkishMeaning": "iltihaplanma",
+      "exampleSentence": "Inflammation can occur in response to infection or tissue damage.",
+      "exampleTranslation": "İltihaplanma enfeksiyona veya doku hasarına yanıt olarak gelişebilir."
+    },
+    {
+      "id": "immunological-memory",
+      "type": "noun",
+      "word": "immunological memory",
+      "turkishMeaning": "bağışıklık belleği",
+      "exampleSentence": "Immunological memory can strengthen a response to a previously encountered antigen.",
+      "exampleTranslation": "Bağışıklık belleği daha önce karşılaşılan antijene verilen yanıtı güçlendirebilir."
+    },
+    {
+      "id": "bacterium",
+      "type": "noun",
+      "word": "bacterium",
+      "turkishMeaning": "bakteri",
+      "exampleSentence": "The bacterium is a single-celled prokaryotic organism.",
+      "exampleTranslation": "Bakteri tek hücreli prokaryot bir canlıdır."
+    },
+    {
+      "id": "archaeon",
+      "type": "noun",
+      "word": "archaeon",
+      "turkishMeaning": "arke",
+      "exampleSentence": "The archaeon belongs to a domain distinct from Bacteria.",
+      "exampleTranslation": "Arke Bacteria’dan ayrı bir üst âleme aittir."
+    },
+    {
+      "id": "fungus",
+      "type": "noun",
+      "word": "fungus",
+      "turkishMeaning": "mantar",
+      "exampleSentence": "The fungus absorbs nutrients from its surroundings.",
+      "exampleTranslation": "Mantar besin maddelerini çevresinden emerek alır."
+    },
+    {
+      "id": "hypha",
+      "type": "noun",
+      "word": "hypha",
+      "turkishMeaning": "hif",
+      "exampleSentence": "The hypha is a threadlike structure in many fungi.",
+      "exampleTranslation": "Hif birçok mantarda bulunan ipliksi bir yapıdır."
+    },
+    {
+      "id": "mycelium",
+      "type": "noun",
+      "word": "mycelium",
+      "turkishMeaning": "miselyum",
+      "exampleSentence": "The mycelium is a network of fungal hyphae.",
+      "exampleTranslation": "Miselyum mantar hiflerinden oluşan bir ağdır."
+    },
+    {
+      "id": "protozoan",
+      "type": "noun",
+      "word": "protozoan",
+      "turkishMeaning": "protozoon",
+      "exampleSentence": "The protozoan is a traditional term for certain single-celled eukaryotes.",
+      "exampleTranslation": "Protozoon bazı tek hücreli ökaryotlar için kullanılan geleneksel bir terimdir."
+    },
+    {
+      "id": "biofilm",
+      "type": "noun",
+      "word": "biofilm",
+      "turkishMeaning": "biyofilm",
+      "exampleSentence": "The biofilm is a community of microorganisms embedded in a matrix.",
+      "exampleTranslation": "Biyofilm bir matriks içinde yer alan mikroorganizma topluluğudur."
+    },
+    {
+      "id": "binary-fission",
+      "type": "noun",
+      "word": "binary fission",
+      "turkishMeaning": "ikiye bölünme",
+      "exampleSentence": "Binary fission produces two daughter cells from a single parent cell.",
+      "exampleTranslation": "İkiye bölünme tek bir ana hücreden iki yavru hücre oluşturur."
+    },
+    {
+      "id": "plasmid",
+      "type": "noun",
+      "word": "plasmid",
+      "turkishMeaning": "plazmit",
+      "exampleSentence": "The plasmid is a DNA molecule that can replicate separately from chromosomal DNA.",
+      "exampleTranslation": "Plazmit kromozomal DNA’dan ayrı olarak eşlenebilen bir DNA molekülüdür."
+    },
+    {
+      "id": "taxonomy",
+      "type": "noun",
+      "word": "taxonomy",
+      "turkishMeaning": "taksonomi",
+      "exampleSentence": "Taxonomy classifies organisms into named groups.",
+      "exampleTranslation": "Taksonomi canlıları adlandırılmış gruplara ayırır."
+    },
+    {
+      "id": "phylogeny",
+      "type": "noun",
+      "word": "phylogeny",
+      "turkishMeaning": "filogeni",
+      "exampleSentence": "Phylogeny describes the evolutionary relationships among organisms.",
+      "exampleTranslation": "Filogeni canlılar arasındaki evrimsel ilişkileri tanımlar."
+    },
+    {
+      "id": "clade",
+      "type": "noun",
+      "word": "clade",
+      "turkishMeaning": "klad",
+      "exampleSentence": "The clade includes a common ancestor and all its descendants.",
+      "exampleTranslation": "Klad ortak bir atayı ve onun tüm soyundan gelenleri kapsar."
+    },
+    {
+      "id": "species",
+      "type": "noun",
+      "word": "species",
+      "turkishMeaning": "tür",
+      "exampleSentence": "The species is a basic unit of biological classification.",
+      "exampleTranslation": "Tür biyolojik sınıflandırmanın temel birimlerinden biridir."
+    },
+    {
+      "id": "population",
+      "type": "noun",
+      "word": "population",
+      "turkishMeaning": "popülasyon",
+      "exampleSentence": "The population consists of individuals of the same species in a defined area.",
+      "exampleTranslation": "Popülasyon belirli bir alandaki aynı türe ait bireylerden oluşur."
+    },
+    {
+      "id": "community",
+      "type": "noun",
+      "word": "community",
+      "turkishMeaning": "ekolojik topluluk",
+      "exampleSentence": "The community includes populations of different species in an area.",
+      "exampleTranslation": "Ekolojik topluluk bir alandaki farklı türlerin popülasyonlarını kapsar."
+    },
+    {
+      "id": "ecosystem",
+      "type": "noun",
+      "word": "ecosystem",
+      "turkishMeaning": "ekosistem",
+      "exampleSentence": "The ecosystem includes organisms and their physical environment.",
+      "exampleTranslation": "Ekosistem canlıları ve fiziksel çevrelerini kapsar."
+    },
+    {
+      "id": "habitat",
+      "type": "noun",
+      "word": "habitat",
+      "turkishMeaning": "habitat",
+      "exampleSentence": "The habitat is the environment in which an organism lives.",
+      "exampleTranslation": "Habitat bir canlının yaşadığı çevredir."
+    },
+    {
+      "id": "niche",
+      "type": "noun",
+      "word": "niche",
+      "turkishMeaning": "ekolojik niş",
+      "exampleSentence": "A species’ niche includes how it uses resources and interacts with its environment.",
+      "exampleTranslation": "Bir türün ekolojik nişi, kaynakları nasıl kullandığını ve çevresiyle nasıl etkileştiğini kapsar."
+    },
+    {
+      "id": "biodiversity",
+      "type": "noun",
+      "word": "biodiversity",
+      "turkishMeaning": "biyoçeşitlilik",
+      "exampleSentence": "Biodiversity includes variation within species, among species and across ecosystems.",
+      "exampleTranslation": "Biyoçeşitlilik tür içindeki, türler arasındaki ve ekosistemler arasındaki çeşitliliği kapsar."
+    },
+    {
+      "id": "biomass",
+      "type": "noun",
+      "word": "biomass",
+      "turkishMeaning": "biyokütle",
+      "exampleSentence": "The biomass of the algae increased during the summer.",
+      "exampleTranslation": "Alglerin biyokütlesi yaz boyunca arttı."
+    },
+    {
+      "id": "trophic-level",
+      "type": "noun",
+      "word": "trophic level",
+      "turkishMeaning": "trofik düzey",
+      "exampleSentence": "The trophic level indicates a feeding position in a food web.",
+      "exampleTranslation": "Trofik düzey besin ağındaki beslenme konumunu belirtir."
+    },
+    {
+      "id": "primary-producer",
+      "type": "noun",
+      "word": "primary producer",
+      "turkishMeaning": "birincil üretici",
+      "exampleSentence": "The primary producer forms organic matter using light or chemical energy.",
+      "exampleTranslation": "Birincil üretici ışık veya kimyasal enerji kullanarak organik madde oluşturur."
+    },
+    {
+      "id": "decomposer",
+      "type": "noun",
+      "word": "decomposer",
+      "turkishMeaning": "ayrıştırıcı",
+      "exampleSentence": "The decomposer breaks down dead organic matter.",
+      "exampleTranslation": "Ayrıştırıcı ölü organik maddeyi parçalar."
+    },
+    {
+      "id": "food-web",
+      "type": "noun",
+      "word": "food web",
+      "turkishMeaning": "besin ağı",
+      "exampleSentence": "The food web shows connected feeding relationships in a community.",
+      "exampleTranslation": "Besin ağı bir topluluktaki bağlantılı beslenme ilişkilerini gösterir."
+    },
+    {
+      "id": "mutualism",
+      "type": "noun",
+      "word": "mutualism",
+      "turkishMeaning": "mutualizm",
+      "exampleSentence": "Mutualism benefits both interacting species.",
+      "exampleTranslation": "Mutualizm etkileşen iki türe de yarar sağlar."
+    },
+    {
+      "id": "commensalism",
+      "type": "noun",
+      "word": "commensalism",
+      "turkishMeaning": "kommensalizm",
+      "exampleSentence": "Commensalism benefits one partner without a detectable effect on the other.",
+      "exampleTranslation": "Kommensalizm diğeri üzerinde saptanabilir bir etki olmadan bir ortağa yarar sağlar."
+    },
+    {
+      "id": "parasitism",
+      "type": "noun",
+      "word": "parasitism",
+      "turkishMeaning": "parazitlik",
+      "exampleSentence": "Parasitism benefits the parasite at the host’s expense.",
+      "exampleTranslation": "Parazitlik konak zararına parazite yarar sağlar."
+    },
+    {
+      "id": "predation",
+      "type": "noun",
+      "word": "predation",
+      "turkishMeaning": "avcılık",
+      "exampleSentence": "Predation involves one organism consuming another as prey.",
+      "exampleTranslation": "Avcılık bir canlının diğerini av olarak tüketmesini içerir."
+    },
+    {
+      "id": "competition",
+      "type": "noun",
+      "word": "competition",
+      "turkishMeaning": "rekabet",
+      "exampleSentence": "Competition can occur when organisms rely on the same limited resource.",
+      "exampleTranslation": "Rekabet canlılar aynı sınırlı kaynağa bağımlı olduğunda ortaya çıkabilir."
+    },
+    {
+      "id": "succession",
+      "type": "noun",
+      "word": "succession",
+      "turkishMeaning": "ekolojik süksesyon",
+      "exampleSentence": "Succession describes changes in community composition over time.",
+      "exampleTranslation": "Ekolojik süksesyon topluluk bileşiminin zamanla değişimini tanımlar."
+    },
+    {
+      "id": "carrying-capacity",
+      "type": "noun",
+      "word": "carrying capacity",
+      "turkishMeaning": "taşıma kapasitesi",
+      "exampleSentence": "The carrying capacity depends on the resources and conditions available to a population.",
+      "exampleTranslation": "Taşıma kapasitesi bir popülasyonun yararlanabildiği kaynaklara ve koşullara bağlıdır."
+    },
+    {
+      "id": "natural-selection",
+      "type": "noun",
+      "word": "natural selection",
+      "turkishMeaning": "doğal seçilim",
+      "exampleSentence": "Natural selection changes trait frequencies through differences in survival and reproduction.",
+      "exampleTranslation": "Doğal seçilim hayatta kalma ve üreme farklılıkları yoluyla özelliklerin sıklığını değiştirir."
+    },
+    {
+      "id": "genetic-drift",
+      "type": "noun",
+      "word": "genetic drift",
+      "turkishMeaning": "genetik sürüklenme",
+      "exampleSentence": "Genetic drift changes allele frequencies through chance events.",
+      "exampleTranslation": "Genetik sürüklenme rastlantısal olaylar yoluyla alel sıklıklarını değiştirir."
+    },
+    {
+      "id": "gene-flow",
+      "type": "noun",
+      "word": "gene flow",
+      "turkishMeaning": "gen akışı",
+      "exampleSentence": "Gene flow moves alleles between populations.",
+      "exampleTranslation": "Gen akışı alelleri popülasyonlar arasında taşır."
+    },
+    {
+      "id": "adaptation",
+      "type": "noun",
+      "word": "adaptation",
+      "turkishMeaning": "adaptasyon",
+      "exampleSentence": "Adaptation can increase fitness in a particular environment.",
+      "exampleTranslation": "Adaptasyon belirli bir çevrede uyum başarısını artırabilir."
+    },
+    {
+      "id": "founder-effect",
+      "type": "noun",
+      "word": "founder effect",
+      "turkishMeaning": "kurucu etkisi",
+      "exampleSentence": "The founder effect can alter allele frequencies when a small group establishes a new population.",
+      "exampleTranslation": "Kurucu etkisi küçük bir grup yeni bir popülasyon kurduğunda alel sıklıklarını değiştirebilir."
+    },
+    {
+      "id": "population-bottleneck",
+      "type": "noun",
+      "word": "population bottleneck",
+      "turkishMeaning": "popülasyon darboğazı",
+      "exampleSentence": "The population bottleneck can reduce genetic diversity after a sharp decline in population size.",
+      "exampleTranslation": "Popülasyon darboğazı popülasyon büyüklüğündeki keskin bir düşüşten sonra genetik çeşitliliği azaltabilir."
+    }
+  ]
+}
