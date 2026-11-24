@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "runtimeApi": 1,
-  "version": "0.7.1",
-  "notes": "Altı Nori teması çerçevesiz ve kenardan kenara yenilendi. Metinler opak kutu olmadan, karaktere taşmayacak şekilde doğrudan arka planda gösteriliyor.",
+  "version": "0.7.2",
+  "notes": "Nori temalarının resme işlenmiş metin tonlaması ve kenar kalıntıları temizlendi. Yazılar doğrudan görselin üzerinde, arka plana göre seçilen renkle gösteriliyor.",
   "artifacts": {
     "runtime": {
-      "file": "wordly-runtime-0.7.1.js",
-      "sha256": "83315bc940f3794e6a25c996cfdbc1bdeaef9df367fa1a90e8ba1aa293b20e3e"
+      "file": "wordly-runtime-0.7.2.js",
+      "sha256": "3d780900c453fd780125a368a1a2a947a2542fbe451fcdd91d0b5da06dde6806"
     }
   }
 }
