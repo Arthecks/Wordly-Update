@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "id": "wordly-test-5",
+  "revision": 2,
+  "name": "Wordly Deneme Paketi",
+  "words": [
+    {
+      "id": "write",
+      "type": "verb",
+      "word": "write",
+      "v2": "wrote",
+      "v3": "written",
+      "turkishMeaning": "yazmak",
+      "exampleSentence": "Write a short note.",
+      "exampleTranslation": "Kısa bir not yaz."
+    },
+    {
+      "id": "notebook",
+      "type": "noun",
+      "word": "notebook",
+      "turkishMeaning": "defter",
+      "exampleSentence": "The notebook is on the desk.",
+      "exampleTranslation": "Defter masanın üzerinde."
+    },
+    {
+      "id": "quiet",
+      "type": "adjective",
+      "word": "quiet",
+      "turkishMeaning": "sessiz"
+    },
+    {
+      "id": "slowly",
+      "type": "adverb",
+      "word": "slowly",
+      "turkishMeaning": "yavaşça"
+    },
+    {
+      "id": "hello",
+      "type": "other",
+      "word": "hello",
+      "turkishMeaning": "merhaba"
+    }
+  ]
+}
