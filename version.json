@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "runtimeApi": 1,
+  "version": "0.4.1",
+  "notes": "Bu deneme sürümü, Wordly’nin onaylı güncelleme ve geri dönme akışını doğrulamak için hazırlandı. Widget tasarımı, Nori, kelimeler ve mevcut özellikler aynı.",
+  "artifacts": {
+    "runtime": {
+      "file": "wordly-runtime-0.4.1.js",
+      "sha256": "2db3f1cd9f5edd4f83df8c055ff87e2e9796b38f4da324e4f115439c6da618dd"
+    }
+  }
+}
