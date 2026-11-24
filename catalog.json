@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "id": "wordly-test-5",
+      "name": "Wordly Deneme Paketi",
+      "description": "Katalog, indirme ve paket güncelleme akışlarını denemek için beş kelimelik örnek.",
+      "category": "Deneme",
+      "count": 5,
+      "status": "ready",
+      "revision": 2,
+      "file": "test-packages/wordly-test-5-r2.json",
+      "sha256": "666e8df804a96c1774064aaf3cd35d0bd7b3b88dc303a7e5955cd0ea07f5b627",
+      "preview": [
+        {
+          "id": "write",
+          "type": "verb",
+          "word": "write",
+          "v2": "wrote",
+          "v3": "written",
+          "turkishMeaning": "yazmak",
+          "exampleSentence": "Write a short note.",
+          "exampleTranslation": "Kısa bir not yaz."
+        },
+        {
+          "id": "notebook",
+          "type": "noun",
+          "word": "notebook",
+          "turkishMeaning": "defter",
+          "exampleSentence": "The notebook is on the desk.",
+          "exampleTranslation": "Defter masanın üzerinde."
+        },
+        {
+          "id": "quiet",
+          "type": "adjective",
+          "word": "quiet",
+          "turkishMeaning": "sessiz"
+        },
+        {
+          "id": "slowly",
+          "type": "adverb",
+          "word": "slowly",
+          "turkishMeaning": "yavaşça"
+        },
+        {
+          "id": "hello",
+          "type": "other",
+          "word": "hello",
+          "turkishMeaning": "merhaba"
+        }
+      ]
+    },
+    {
+      "id": "gunluk-ingilizce",
+      "name": "Günlük İngilizce",
+      "description": "Günlük konuşmalarda kullanılan kelimeler.",
+      "category": "Günlük kullanım",
+      "count": 300,
+      "status": "planned"
+    },
+    {
+      "id": "biyoloji-ingilizcesi",
+      "name": "Biyoloji İngilizcesi",
+      "description": "Biyoloji dersleri ve metinlerinde kullanılan kelimeler.",
+      "category": "Bilim",
+      "count": 200,
+      "status": "planned"
+    },
+    {
+      "id": "duzensiz-fiiller",
+      "name": "Düzensiz fiiller",
+      "description": "Üç hâliyle İngilizce düzensiz fiiller.",
+      "category": "Dil bilgisi",
+      "count": 150,
+      "status": "planned"
+    },
+    {
+      "id": "akademik-ingilizce",
+      "name": "Akademik İngilizce",
+      "description": "Akademik metinlerde sık kullanılan kelimeler.",
+      "category": "Akademik",
+      "count": 200,
+      "status": "planned"
+    }
+  ]
+}
