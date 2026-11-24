@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "runtimeApi": 1,
-  "version": "0.6.1",
-  "notes": "Wordly menüleri sadeleşti. Yüklü ve indirilebilir paketler tek listede. Paket işlemleri aynı ekranda kalır, arama ve filtreler korunur.",
+  "version": "0.7.0",
+  "notes": "Ana ekran için altı çevrimdışı Nori teması, rastgele ve sabit seçim, koleksiyonu kapatma ve Türkçe/İngilizce I harfiyle arama düzeltmesi eklendi.",
   "artifacts": {
     "runtime": {
-      "file": "wordly-runtime-0.6.1.js",
-      "sha256": "38535ad92f967a52e319f93a3fd5d9bc6b145c8734d808e7382e53d1cb0f4320"
+      "file": "wordly-runtime-0.7.0.js",
+      "sha256": "55b3b4a51529840aac08b8bbcc5ee375f8293f43d91c7743c6bbef16d0dc5b24"
     }
   }
 }
