@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "runtimeApi": 1,
-  "version": "0.7.3",
-  "notes": "Altı Nori temasında arka plan renkleri özgün görsellerden korunarak köşe kalıntıları ve metin bölgesindeki yapay tonlama giderildi.",
+  "version": "1.0.0",
+  "notes": "Kararlı final sürüm. iPhone’da onaylanan widget tasarımı korunurken paket kaydı doğrulaması ve Nori önizlemelerindeki tekrar eden işlemler azaltıldı.",
   "artifacts": {
     "runtime": {
-      "file": "wordly-runtime-0.7.3.js",
-      "sha256": "c6d8d268ac5af63bea31012c34633075b4fcabd9d1911d6bece6b8578fd121f8"
+      "file": "wordly-runtime-1.0.0.js",
+      "sha256": "24f1250b56aecb30d71028668adc2372b5e65d376626ef93e6476be6b9b1d65b"
     }
   }
 }
