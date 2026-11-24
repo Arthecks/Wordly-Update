@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "runtimeApi": 1,
-  "version": "0.7.0",
-  "notes": "Ana ekran için altı çevrimdışı Nori teması, rastgele ve sabit seçim, koleksiyonu kapatma ve Türkçe/İngilizce I harfiyle arama düzeltmesi eklendi.",
+  "version": "0.7.1",
+  "notes": "Altı Nori teması çerçevesiz ve kenardan kenara yenilendi. Metinler opak kutu olmadan, karaktere taşmayacak şekilde doğrudan arka planda gösteriliyor.",
   "artifacts": {
     "runtime": {
-      "file": "wordly-runtime-0.7.0.js",
-      "sha256": "55b3b4a51529840aac08b8bbcc5ee375f8293f43d91c7743c6bbef16d0dc5b24"
+      "file": "wordly-runtime-0.7.1.js",
+      "sha256": "83315bc940f3794e6a25c996cfdbc1bdeaef9df367fa1a90e8ba1aa293b20e3e"
     }
   }
 }
