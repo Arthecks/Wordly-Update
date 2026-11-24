@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "runtimeApi": 1,
-  "version": "0.7.2",
-  "notes": "Nori temalarının resme işlenmiş metin tonlaması ve kenar kalıntıları temizlendi. Yazılar doğrudan görselin üzerinde, arka plana göre seçilen renkle gösteriliyor.",
+  "version": "0.7.3",
+  "notes": "Altı Nori temasında arka plan renkleri özgün görsellerden korunarak köşe kalıntıları ve metin bölgesindeki yapay tonlama giderildi.",
   "artifacts": {
     "runtime": {
-      "file": "wordly-runtime-0.7.2.js",
-      "sha256": "3d780900c453fd780125a368a1a2a947a2542fbe451fcdd91d0b5da06dde6806"
+      "file": "wordly-runtime-0.7.3.js",
+      "sha256": "c6d8d268ac5af63bea31012c34633075b4fcabd9d1911d6bece6b8578fd121f8"
     }
   }
 }
