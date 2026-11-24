@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "runtimeApi": 1,
-  "version": "0.6.0",
-  "notes": "Kelime kataloğu eklendi. Paketleri arayabilir, kategorilere göre filtreleyebilir, örnek kelimeleri inceleyebilir ve doğrulanmış paketleri tek dokunuşla indirebilir veya güncelleyebilirsiniz.",
+  "version": "0.6.1",
+  "notes": "Wordly menüleri sadeleşti. Yüklü ve indirilebilir paketler tek listede. Paket işlemleri aynı ekranda kalır, arama ve filtreler korunur.",
   "artifacts": {
     "runtime": {
-      "file": "wordly-runtime-0.6.0.js",
-      "sha256": "26ff9a3a63391c8b32845ba44181d35bc3f651a442d73a22942ebab9a122f63d"
+      "file": "wordly-runtime-0.6.1.js",
+      "sha256": "38535ad92f967a52e319f93a3fd5d9bc6b145c8734d808e7382e53d1cb0f4320"
     }
   }
 }
